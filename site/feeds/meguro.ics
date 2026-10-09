@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 目黒区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:c4b09a311ff0@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261011T003000Z
+DTEND:20261011T063000Z
+SUMMARY:献血バス 目黒区民センター
+LOCATION:東京都目黒区目黒2-4-36
+DESCRIPTION:受付: 9:30~12:30 / 14:00~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=
+ prefecture&placeId=a0p0K000007pAtb&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\
+ n地図: https://maps.app.goo.gl/nJPWWJSC2RbFMy3p6\n出典: https://www.bs
+ .jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
+ om=prefecture&placeId=a0p0K000007pAtb&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=
+ 30
+END:VEVENT
+BEGIN:VEVENT
+UID:6e02f9a249d5@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261016T010000Z
+DTEND:20261016T063000Z
+SUMMARY:献血バス 目黒青色申告会館
+LOCATION:東京都目黒区中目黒5-28-8
+DESCRIPTION:受付: 10:00~11:45 / 13:00~15:30\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ob1D&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/AJbd1uLvgqbuasvx5\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ob1D&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:9e06bdb0a862@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261024T010000Z
+DTEND:20261024T070000Z
+SUMMARY:献血バス 東急自由が丘駅
+LOCATION:東京都目黒区自由が丘1-30
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ obOx&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/9LPDnLcfdV3KSEyZ6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07obOx&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

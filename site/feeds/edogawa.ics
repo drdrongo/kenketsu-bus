@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 江戸川区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:c549c8f79944@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261010T010000Z
+DTEND:20261010T070000Z
+SUMMARY:献血バス 東西線 葛西駅西口
+LOCATION:東京都江戸川区中葛西5-43-11
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\n地図: https://maps.app.goo
+ .gl/vUFHcKVRhEfb1DSF9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m
+ 1_03_kenbus.html
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:de22ba087033@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261010T010000Z
+DTEND:20261010T070000Z
+SUMMARY:献血バス 東西線西葛西駅 南口
+LOCATION:東京都江戸川区西葛西6-14
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ovZh&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/Asir7kT3hyr2wtqA7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ovZh&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb9150d2459@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261017T010000Z
+DTEND:20261017T070000Z
+SUMMARY:献血バス アリオ葛西店 正面出入り口横
+LOCATION:東京都江戸川区東葛西9-3-3
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ or7v&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/KPaosNgWRvUNmDAr6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07or7v&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:f69dba84ca9f@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261024T010000Z
+DTEND:20261024T070000Z
+SUMMARY:献血バス 都営新宿線船堀駅北口広場
+LOCATION:東京都江戸川区船堀3-6
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ovZg&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/mEoHmkpVEMx6UMBf6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ovZg&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

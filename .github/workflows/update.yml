@@ -1,0 +1,53 @@
+name: Update schedule
+
+on:
+  schedule:
+    - cron: '17 21 * * *'  # 06:17 JST
+    - cron: '17 9 * * *'   # 18:17 JST
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Test
+        run: python3 -m unittest discover -s tests
+
+      - name: Scrape
+        run: python3 scraper/kenbus.py
+
+      # Only commits when the schedule changed. site/data/meta.json is ignored, so a
+      # check with no new dates makes no commit. Pushes with GITHUB_TOKEN do not start
+      # this workflow again.
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site
+          if ! git diff --cached --quiet; then
+            git commit -m "Update schedule $(TZ=Asia/Tokyo date +%F)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v5

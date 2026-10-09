@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 台東区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:572bff038640@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261024T023000Z
+DTEND:20261024T070000Z
+SUMMARY:献血バス おかちまちパンダ広場
+LOCATION:東京都台東区上野3-26
+DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp/Login?startURL=%2FReservationByTypeConfirm%3FplaceMst%3Da0p0K00
+ 0007pA14%26sy%3D2026%26sm%3D10%26sd%3D1%26ey%3D2026%26em%3D11%26ed%3D30\n
+ 地図: https://maps.app.goo.gl/pgsAuHFmP5WG8MDUA\n出典: https://www.bs.
+ jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp/Login?startURL=%2FReservationByTypeConfirm%3Fpl
+ aceMst%3Da0p0K000007pA14%26sy%3D2026%26sm%3D10%26sd%3D1%26ey%3D2026%26em%3
+ D11%26ed%3D30
+END:VEVENT
+BEGIN:VEVENT
+UID:ca15945f9ae6@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261027T001500Z
+DTEND:20261027T014500Z
+SUMMARY:献血バス 小島公園
+LOCATION:東京都台東区小島2-9
+DESCRIPTION:受付: 9:15~10:45\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007or8I&sy=2026&sm
+ =10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/3s218YweEC15
+ 1zLo7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07or8I&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 北区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:8baa53ec9949@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261019T010000Z
+DTEND:20261019T070000Z
+SUMMARY:献血バス 北とぴあ前
+LOCATION:東京都北区王子1-11-1
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ opwB&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/AzF42v6w1herp8mA8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07opwB&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:2e5c6809a551@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261024T003000Z
+DTEND:20261024T023000Z
+SUMMARY:献血バス JR赤羽駅東口
+LOCATION:東京都北区赤羽1-1-1
+DESCRIPTION:受付: 9:30~11:30\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oeDS&sy=2026&sm
+ =10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/mnTxUJ5csBry
+ FSrQ7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oeDS&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

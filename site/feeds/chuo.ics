@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 中央区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:91a7c2aa9791@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261020T003000Z
+DTEND:20261020T023000Z
+SUMMARY:献血バス プライム銀座柳通りビル1階
+LOCATION:東京都中央区銀座1-9-3
+DESCRIPTION:受付: 9:30~11:30\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000013JvBQAU&sy=2026
+ &sm=10&sd=01&ey=2026&em=10&ed=31\n地図: https://maps.app.goo.gl/xuztntWi
+ ZYnshy8U9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.
+ html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
+ 013JvBQAU&sy=2026&sm=10&sd=01&ey=2026&em=10&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:1a52052bddd7@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261020T050000Z
+DTEND:20261020T070000Z
+SUMMARY:献血バス 東短室町ビル1階
+LOCATION:東京都中央区日本橋室町4-4-10
+DESCRIPTION:受付: 14:00~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000004itsn&sy=2026&s
+ m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/ACRoRAmEZ1e
+ ajHN29\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
+ 04itsn&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:5dab914a61bc@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261024T010000Z
+DTEND:20261024T070000Z
+SUMMARY:献血バス 月島第二児童公園
+LOCATION:東京都中央区勝どき1-9-8
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000
+ JqZE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/ePvY1gebJfwuK2ET7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
+ 00JqZE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

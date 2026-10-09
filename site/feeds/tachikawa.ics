@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 立川市
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:afb26daa57d2@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261015T010000Z
+DTEND:20261015T070000Z
+SUMMARY:献血バス 立川市役所
+LOCATION:東京都立川市泉町1156-9
+DESCRIPTION:受付: 10:00~12:00 / 13:15~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ousX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/p37jEBPMgMXXigEq8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ousX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:d68588cd0b4c@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261015T050000Z
+DTEND:20261015T073000Z
+SUMMARY:献血バス 立川都市軸道路 サンサンロード
+LOCATION:東京都立川市曙町2
+DESCRIPTION:受付: 14:00~16:30\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000012knoQAA&sy=202
+ 6&sm=09&sd=15&ey=2026&em=10&ed=31\n地図: https://maps.app.goo.gl/WJ7pyEj
+ cZDtBSSo89\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus
+ .html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
+ 012knoQAA&sy=2026&sm=09&sd=15&ey=2026&em=10&ed=31
+END:VEVENT
+END:VCALENDAR

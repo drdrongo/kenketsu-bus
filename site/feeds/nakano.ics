@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 中野区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:51a3c82cd16c@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261016T010000Z
+DTEND:20261016T070000Z
+SUMMARY:献血バス 中野区役所 ナカノのソトニワ
+LOCATION:東京都中野区中野4-11-19
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ofCi&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/2pDZExJsRUrYz4a79\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ofCi&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:6b3ba6c39ac7@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261022T010000Z
+DTEND:20261022T070000Z
+SUMMARY:献血バス 中野セントラルパークサウス2階 西武信
+ 用金庫会議室
+LOCATION:東京都中野区中野4-10-2
+DESCRIPTION:受付: 10:00~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PPVQ&sy=2026&s
+ m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/zFWSb3zsFci
+ FMj1X9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh0000
+ 00PPVQ&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

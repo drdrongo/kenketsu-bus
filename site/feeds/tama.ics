@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 多摩市
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:87c4c52100fd@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261014T010000Z
+DTEND:20261014T070000Z
+SUMMARY:献血バス 多摩市役所
+LOCATION:東京都多摩市関戸6-12-1
+DESCRIPTION:受付: 10:00~11:30 / 12:45~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ou8h&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/LMx6XV7qaD8YXnsA8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ou8h&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:ff4b94f5a1d8@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261024T010000Z
+DTEND:20261024T073000Z
+SUMMARY:献血バス 多摩センター駅前
+LOCATION:東京都多摩市落合1-46-1パルテノン大通り・ココリ
+ ア横
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:30\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ p7XM&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/3MocMxGEqyho3QCV9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07p7XM&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:92059f4172a7@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261031T023000Z
+DTEND:20261031T070000Z
+SUMMARY:献血バス 東京医療学院大学
+LOCATION:東京都多摩市落合4-11
+DESCRIPTION:受付: 11:30~16:00\n地図: https://maps.app.goo.gl/LZmL8M7WjR
+ mN4R3V7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+END:VCALENDAR

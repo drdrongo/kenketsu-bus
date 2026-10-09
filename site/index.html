@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tokyo Blood Bus</title>
+<meta name="description" content="When and where the Red Cross blood donation bus (献血バス) stops in Tokyo.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 3C16 3 6 15 6 21a10 10 0 0 0 20 0C26 15 16 3 16 3z' fill='%23d4213d'/%3E%3C/svg%3E">
+<style>
+:root {
+  --bg: #faf8f6;
+  --surface: #ffffff;
+  --surface-2: #f3efeb;
+  --text: #1d1a18;
+  --muted: #6b635d;
+  --line: #e6e0da;
+  --accent: #c81e3a;
+  --accent-soft: #fbe9ec;
+  --accent-text: #ffffff;
+  --weekend: #b4233c;
+  --star: #e0a100;
+  --new: #1f7a4d;
+  --new-soft: #e3f4ea;
+  --radius: 12px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #151312;
+    --surface: #1e1b1a;
+    --surface-2: #282422;
+    --text: #f1ece8;
+    --muted: #a59c95;
+    --line: #36302d;
+    --accent: #f0536c;
+    --accent-soft: #3a1d23;
+    --accent-text: #1a0d10;
+    --weekend: #f27b8e;
+    --star: #f2c14e;
+    --new: #6fd3a0;
+    --new-soft: #183026;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #151312; --surface: #1e1b1a; --surface-2: #282422; --text: #f1ece8; --muted: #a59c95;
+  --line: #36302d; --accent: #f0536c; --accent-soft: #3a1d23; --accent-text: #1a0d10;
+  --weekend: #f27b8e; --star: #f2c14e; --new: #6fd3a0; --new-soft: #183026; color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+a { color: var(--accent); }
+.wrap { max-width: 720px; margin: 0 auto; padding: 0 16px; }
+
+header { padding: 28px 0 8px; }
+h1 { font-size: 26px; line-height: 1.2; margin: 0; letter-spacing: -0.01em; }
+h1 .drop { color: var(--accent); }
+.sub { color: var(--muted); margin: 6px 0 0; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; }
+section { margin-top: 16px; }
+h2 { font-size: 13px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 10px; font-weight: 600; }
+
+.next { border-color: var(--accent); background: linear-gradient(var(--accent-soft), var(--surface) 70%); }
+.next .when { font-size: 22px; font-weight: 700; line-height: 1.25; }
+.next .when small { font-size: 15px; font-weight: 500; color: var(--accent); margin-left: 6px; }
+.next .venue { font-size: 17px; font-weight: 600; margin-top: 6px; }
+.next .later { margin: 12px 0 0; padding: 10px 0 0; border-top: 1px solid var(--line); list-style: none; color: var(--muted); font-size: 14px; }
+.next .later li + li { margin-top: 2px; }
+.empty { color: var(--muted); margin: 0; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  font: inherit; font-size: 14px; border: 1px solid var(--line); background: var(--surface); color: var(--text);
+  border-radius: 999px; padding: 5px 12px; cursor: pointer; display: inline-flex; gap: 6px; align-items: center;
+}
+.chip .n { color: var(--muted); font-size: 12px; }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+.chip[aria-pressed="true"] .n { color: inherit; opacity: 0.8; }
+.chip.dim { opacity: 0.55; }
+.more { font: inherit; font-size: 14px; background: none; border: 0; color: var(--accent); cursor: pointer; padding: 5px 4px; }
+.search {
+  width: 100%; margin-top: 12px; font: inherit; padding: 9px 12px; border-radius: 10px;
+  border: 1px solid var(--line); background: var(--surface); color: var(--text);
+}
+.hint { color: var(--muted); font-size: 13px; margin: 8px 0 0; }
+
+.day { margin-top: 20px; }
+.day-head { display: flex; align-items: baseline; gap: 8px; margin: 0 0 8px; font-size: 16px; }
+.day-head .rel { color: var(--muted); font-size: 13px; font-weight: 400; }
+.day-head.weekend .date { color: var(--weekend); }
+.stops { display: grid; gap: 8px; }
+.stop { display: grid; grid-template-columns: auto 1fr; gap: 4px 10px; padding: 12px 14px; }
+.stop.starred { border-color: var(--star); }
+.star {
+  grid-row: span 2; background: none; border: 0; padding: 0; cursor: pointer; font-size: 20px; line-height: 1.2;
+  color: var(--line); width: 24px;
+}
+.star[aria-pressed="true"] { color: var(--star); }
+.title { font-weight: 600; display: flex; flex-wrap: wrap; gap: 6px; align-items: baseline; }
+.badge { font-size: 11px; font-weight: 700; padding: 1px 6px; border-radius: 4px; background: var(--new-soft); color: var(--new); }
+.ward { font-size: 12px; color: var(--muted); font-weight: 400; }
+.meta { color: var(--muted); font-size: 14px; }
+.meta .hours { color: var(--text); font-variant-numeric: tabular-nums; }
+.note { font-size: 13px; color: var(--muted); }
+.actions { grid-column: 2; display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.btn {
+  font: inherit; font-size: 13px; text-decoration: none; border: 1px solid var(--line); border-radius: 8px;
+  padding: 4px 10px; background: var(--surface-2); color: var(--text); cursor: pointer; white-space: nowrap;
+}
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+
+.feeds { display: grid; gap: 10px; }
+.feed { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; }
+.feed .name { font-weight: 600; min-width: 96px; }
+.feed code { font-size: 12px; color: var(--muted); word-break: break-all; flex-basis: 100%; }
+
+footer { color: var(--muted); font-size: 13px; padding: 28px 0 40px; }
+footer p { margin: 4px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1><span class="drop">献血バス</span> Tokyo</h1>
+    <p class="sub">Where the Red Cross blood donation bus stops, by date. Pick your areas and star the places you can get to.</p>
+  </header>
+
+  <main>
+    <section id="next" class="card next" aria-live="polite"><p class="empty">Loading the schedule…</p></section>
+
+    <section class="card">
+      <h2>Your areas</h2>
+      <div id="wards" class="chips"></div>
+      <input id="q" class="search" type="search" placeholder="Search a place or address, e.g. 西葛西" autocomplete="off">
+      <p id="filter-hint" class="hint"></p>
+    </section>
+
+    <section id="list"></section>
+
+    <section id="subscribe" class="card"></section>
+  </main>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+const STORE_KEY = 'kenketsu-bus:v1';
+const state = { wards: new Set(), places: new Set(), q: '', allWards: false };
+let data = null;
+let meta = null;
+
+function load() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(STORE_KEY) || '{}');
+    state.wards = new Set(saved.wards || []);
+    state.places = new Set(saved.places || []);
+  } catch { /* storage blocked: start empty */ }
+}
+function save() {
+  try {
+    localStorage.setItem(STORE_KEY, JSON.stringify({ wards: [...state.wards], places: [...state.places] }));
+  } catch { /* storage blocked: selection lasts until reload */ }
+}
+
+// Tiny DOM helper: h('a', {href}, 'text', child, ...)
+function h(tag, attrs = {}, ...children) {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (v == null || v === false) continue;
+    if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
+    else if (k === 'class') el.className = v;
+    else el.setAttribute(k, v === true ? '' : v);
+  }
+  for (const c of children.flat()) if (c != null && c !== false) el.append(c);
+  return el;
+}
+
+const todayJst = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Tokyo' }).format(new Date());
+const placeKey = s => `${s.city}|${s.venue}`;
+const utcDate = iso => { const [y, m, d] = iso.split('-').map(Number); return new Date(Date.UTC(y, m - 1, d)); };
+const daysBetween = (a, b) => Math.round((utcDate(b) - utcDate(a)) / 86400000);
+const fmtDate = iso => utcDate(iso).toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' });
+const isWeekend = iso => [0, 6].includes(utcDate(iso).getUTCDay());
+const trimZero = t => t.replace(/^0/, '');
+
+function relLabel(iso) {
+  const n = daysBetween(todayJst(), iso);
+  return n === 0 ? 'Today' : n === 1 ? 'Tomorrow' : `in ${n} days`;
+}
+function hoursText(s) {
+  return s.sessions.length
+    ? s.sessions.map(([a, b]) => `${trimZero(a)}–${trimZero(b)}`).join(', ')
+    : s.hours.join(', ');
+}
+function isNew(s) {
+  return s.first_seen > data.first_run && Date.now() - new Date(s.first_seen) < 3 * 86400000;
+}
+
+// JST wall time -> UTC string for Google Calendar
+function gcalTime(date, hhmm) {
+  const [y, m, d] = date.split('-').map(Number);
+  const [hh, mm] = hhmm.split(':').map(Number);
+  return new Date(Date.UTC(y, m - 1, d, hh - 9, mm)).toISOString().replace(/[-:]|\.\d{3}/g, '');
+}
+function gcalLink(s) {
+  let dates;
+  if (s.sessions.length) {
+    dates = `${gcalTime(s.date, s.sessions[0][0])}/${gcalTime(s.date, s.sessions.at(-1)[1])}`;
+  } else {
+    const next = new Date(utcDate(s.date).getTime() + 86400000).toISOString().slice(0, 10);
+    dates = `${s.date.replaceAll('-', '')}/${next.replaceAll('-', '')}`;
+  }
+  const details = [`受付: ${hoursText(s)}`, ...s.notes, s.reserve && `Web予約: ${s.reserve}`, `出典: ${data.source}`]
+    .filter(Boolean).join('\n');
+  const params = new URLSearchParams({ action: 'TEMPLATE', text: `献血バス ${s.venue}`, dates, location: s.address || s.venue, details });
+  return `https://calendar.google.com/calendar/render?${params}`;
+}
+
+function upcoming() {
+  const today = todayJst();
+  return data.stops.filter(s => s.date >= today);
+}
+function isMine(s) {
+  return state.wards.has(s.slug) || state.places.has(placeKey(s));
+}
+function matchesSearch(s) {
+  if (!state.q) return true;
+  const hay = `${s.venue} ${s.address} ${s.city} ${s.slug} ${s.notes.join(' ')}`.toLowerCase();
+  return state.q.toLowerCase().split(/\s+/).every(word => hay.includes(word));
+}
+
+function renderNext() {
+  const box = document.getElementById('next');
+  box.replaceChildren();
+  if (!state.wards.size && !state.places.size) {
+    box.append(h('h2', {}, 'Your next bus'),
+      h('p', { class: 'empty' }, 'Pick your area below, or star a place, to see your next bus here.'));
+    return;
+  }
+  // Same day: starred places before the rest of your areas.
+  const starred = s => (state.places.has(placeKey(s)) ? 0 : 1);
+  const mine = upcoming().filter(isMine)
+    .sort((a, b) => a.date.localeCompare(b.date) || starred(a) - starred(b));
+  box.append(h('h2', {}, 'Your next bus'));
+  if (!mine.length) {
+    box.append(h('p', { class: 'empty' },
+      `No bus at your areas or places up to ${fmtDate(maxPageDate())}. New dates appear when the Red Cross publishes them.`));
+    return;
+  }
+  const s = mine[0];
+  box.append(
+    h('div', { class: 'when' }, fmtDate(s.date), h('small', {}, relLabel(s.date))),
+    h('div', { class: 'venue' }, s.venue, ' ', h('span', { class: 'ward' }, s.city)),
+    h('div', { class: 'meta' }, h('span', { class: 'hours' }, hoursText(s)), s.address ? ` · ${s.address}` : ''),
+    actions(s, true),
+  );
+  const later = mine.slice(1, 5);
+  if (later.length) {
+    box.append(h('ul', { class: 'later' },
+      later.map(l => h('li', {}, `${starred(l) ? '' : '★ '}${fmtDate(l.date)} · ${l.venue} · ${hoursText(l)}`)),
+      mine.length > 5 ? h('li', {}, `and ${mine.length - 5} more below`) : null));
+  }
+}
+
+function actions(s, primary = false) {
+  return h('div', { class: 'actions' },
+    s.reserve && h('a', { class: primary ? 'btn primary' : 'btn', href: s.reserve, target: '_blank', rel: 'noopener' }, 'Reserve (ラブラッド)'),
+    h('a', { class: 'btn', href: gcalLink(s), target: '_blank', rel: 'noopener' }, 'Add to Google Calendar'),
+    s.map && h('a', { class: 'btn', href: s.map, target: '_blank', rel: 'noopener' }, 'Map'),
+  );
+}
+
+function renderWards() {
+  const counts = {};
+  for (const s of upcoming()) counts[s.slug] = (counts[s.slug] || 0) + 1;
+  const box = document.getElementById('wards');
+  box.replaceChildren();
+  const visible = data.wards.filter(w => counts[w.slug] || state.wards.has(w.slug) || state.allWards)
+    .sort((a, b) => state.wards.has(b.slug) - state.wards.has(a.slug));
+  for (const w of visible) {
+    const on = state.wards.has(w.slug);
+    box.append(h('button', {
+      class: 'chip' + (counts[w.slug] ? '' : ' dim'),
+      'aria-pressed': String(on),
+      title: counts[w.slug] ? `${counts[w.slug]} upcoming` : 'No bus scheduled yet',
+      onclick: () => { on ? state.wards.delete(w.slug) : state.wards.add(w.slug); save(); render(); },
+    }, w.name, h('span', { class: 'n' }, String(counts[w.slug] || 0))));
+  }
+  box.append(h('button', { class: 'more', onclick: () => { state.allWards = !state.allWards; renderWards(); } },
+    state.allWards ? 'Hide empty areas' : 'Show all areas'));
+}
+
+function renderList() {
+  const filtering = state.wards.size > 0;
+  const stops = upcoming().filter(s => (!filtering || isMine(s)) && matchesSearch(s));
+  document.getElementById('filter-hint').textContent = filtering
+    ? `Showing your ${state.wards.size} area${state.wards.size > 1 ? 's' : ''} and starred places. Unselect all areas to see all of Tokyo.`
+    : 'Showing all of Tokyo. Tap an area to show only that area.';
+  const box = document.getElementById('list');
+  box.replaceChildren();
+  if (!stops.length) {
+    box.append(h('p', { class: 'empty' }, 'No upcoming stops match.'));
+    return;
+  }
+  const byDate = Map.groupBy ? Map.groupBy(stops, s => s.date)
+    : stops.reduce((m, s) => m.set(s.date, [...(m.get(s.date) || []), s]), new Map());
+  for (const [date, list] of byDate) {
+    box.append(h('div', { class: 'day' },
+      h('h3', { class: 'day-head' + (isWeekend(date) ? ' weekend' : '') },
+        h('span', { class: 'date' }, fmtDate(date)), h('span', { class: 'rel' }, relLabel(date))),
+      h('div', { class: 'stops' }, list.map(stopCard))));
+  }
+}
+
+function stopCard(s) {
+  const key = placeKey(s);
+  const starred = state.places.has(key);
+  return h('div', { class: 'card stop' + (starred ? ' starred' : '') },
+    h('button', {
+      class: 'star', 'aria-pressed': String(starred), 'aria-label': starred ? 'Unstar this place' : 'Star this place',
+      title: starred ? 'Unstar this place' : 'Star this place: it then shows in your next bus',
+      onclick: () => { starred ? state.places.delete(key) : state.places.add(key); save(); render(); },
+    }, starred ? '★' : '☆'),
+    h('div', { class: 'title' }, s.venue, h('span', { class: 'ward' }, s.city), isNew(s) && h('span', { class: 'badge' }, 'NEW')),
+    h('div', { class: 'meta' },
+      h('span', { class: 'hours' }, hoursText(s)),
+      s.address ? ` · ${s.address}` : '',
+      s.notes.map(n => h('div', { class: 'note' }, n))),
+    actions(s),
+  );
+}
+
+function renderSubscribe() {
+  const box = document.getElementById('subscribe');
+  const chosen = data.wards.filter(w => state.wards.has(w.slug));
+  const feeds = [...chosen, { name: 'All of Tokyo', slug: 'all' }];
+  box.replaceChildren(
+    h('h2', {}, 'Get new dates in your calendar'),
+    h('p', { class: 'hint', style: 'margin:0 0 12px' },
+      'Subscribe once. New bus dates then show up in your calendar by themselves. ',
+      'Google Calendar refreshes subscribed calendars only every few hours, so a new date can take up to a day to appear there.'),
+    h('div', { class: 'feeds' }, feeds.map(feedRow)),
+  );
+}
+
+function feedRow(w) {
+  const https = new URL(`feeds/${w.slug}.ics`, location.href).href;
+  const webcal = https.replace(/^https?:/, 'webcal:');
+  const copy = h('button', { class: 'btn', onclick: async () => {
+    try { await navigator.clipboard.writeText(https); copy.textContent = 'Copied'; }
+    catch { copy.textContent = 'Copy failed'; }
+    setTimeout(() => { copy.textContent = 'Copy link'; }, 1500);
+  } }, 'Copy link');
+  return h('div', { class: 'feed' },
+    h('span', { class: 'name' }, w.name),
+    h('a', { class: 'btn', href: webcal }, 'Apple / iPhone'),
+    h('a', { class: 'btn', href: `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(webcal)}`, target: '_blank', rel: 'noopener' }, 'Google'),
+    copy,
+    h('code', {}, https));
+}
+
+function maxPageDate() {
+  return data.stops.reduce((max, s) => (s.date > max ? s.date : max), todayJst());
+}
+
+function renderFooter() {
+  const checked = meta?.checked_at ? new Date(meta.checked_at).toLocaleString('en-GB', { timeZone: 'Asia/Tokyo', dateStyle: 'medium', timeStyle: 'short' }) + ' JST' : 'unknown';
+  document.getElementById('footer').replaceChildren(
+    h('p', {}, 'Data: ', h('a', { href: data.source, target: '_blank', rel: 'noopener' }, '東京都赤十字血液センター 献血バス運行スケジュール'), '.'),
+    h('p', {}, `Published up to ${fmtDate(maxPageDate())}. The Red Cross page shows the rest of the current month only, so later dates appear when they publish them.`),
+    h('p', {}, `Last checked: ${checked}. This site checks twice a day.`),
+    h('p', {}, 'Not an official Red Cross site. Check the source page before you go.'),
+  );
+}
+
+function render() {
+  renderNext();
+  renderWards();
+  renderList();
+  renderSubscribe();
+  renderFooter();
+}
+
+async function main() {
+  load();
+  document.getElementById('q').addEventListener('input', e => { state.q = e.target.value.trim(); renderList(); });
+  try {
+    const [stopsRes, metaRes] = await Promise.all([
+      fetch('data/stops.json', { cache: 'no-cache' }),
+      fetch('data/meta.json', { cache: 'no-cache' }).catch(() => null),
+    ]);
+    if (!stopsRes.ok) throw new Error(`HTTP ${stopsRes.status}`);
+    data = await stopsRes.json();
+    meta = metaRes?.ok ? await metaRes.json() : null;
+  } catch (error) {
+    document.getElementById('next').replaceChildren(
+      h('p', { class: 'empty' }, `Could not load the schedule (${error.message}). Try again later.`));
+    return;
+  }
+  render();
+}
+main();
+</script>
+</body>
+</html>

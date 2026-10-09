@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 港区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f44c38a3dab4@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261015T023000Z
+DTEND:20261015T070000Z
+SUMMARY:献血バス トレードピアお台場
+LOCATION:東京都港区台場2-3-1
+DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PwOX&sy=2026&s
+ m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/PsTJJRedpB4
+ L81Du9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh0000
+ 00PwOX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:9b723c2c5bda@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261019T010000Z
+DTEND:20261019T070000Z
+SUMMARY:献血バス 六本木ヒルズアリーナ
+LOCATION:東京都港区六本木6-10-1
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ okXq&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/ibUJnUoR8LZShKq67\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07okXq&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:956fe05a9cb0@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261030T003000Z
+DTEND:20261030T070000Z
+SUMMARY:献血バス 住友不動産(株)泉ガーデンタワー
+LOCATION:東京都港区六本木1-6-1泉ガーデンタワー
+DESCRIPTION:受付: 9:30~11:00 / 12:30~16:00\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p
+ ACG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.g
+ l/DtEZPsHUq7LuWnfz9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pACG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

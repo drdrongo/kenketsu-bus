@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 足立区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:3e41c592288a@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261010T010000Z
+DTEND:20261010T070000Z
+SUMMARY:献血バス あだち区民まつり(虹の広場)
+LOCATION:東京都足立区千住5丁目
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oqPy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/i4fjAyg5hjurobbF6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oqPy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:d6c7285c9078@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261011T010000Z
+DTEND:20261011T070000Z
+SUMMARY:献血バス あだち区民まつり(虹の広場)
+LOCATION:東京都足立区千住5丁目
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oqPy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/i4fjAyg5hjurobbF6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oqPy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:ad0047e2ff81@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261012T010000Z
+DTEND:20261012T070000Z
+SUMMARY:献血バス 北千住駅東口ロータリー
+LOCATION:東京都足立区千住旭町4-6
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000
+ ImrL&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/CYYyaQ2gVVVyJcy56\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
+ 00ImrL&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:2905512b0c10@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261015T013000Z
+DTEND:20261015T073000Z
+SUMMARY:献血バス 文教大学東京あだちキャンパス
+LOCATION:東京都足立区花畑5-6
+DESCRIPTION:受付: 10:30~11:00 / 12:30~16:30\n地図: https://maps.app.goo
+ .gl/e3vzEaCfkkh9oqkUA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m
+ 1_03_kenbus.html
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3ff96afb54b6@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261017T010000Z
+DTEND:20261017T070000Z
+SUMMARY:献血バス 東京芸術センター前広場
+LOCATION:東京都足立区千住1-4-1
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ olY0&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/oYsmi4JnqfrkQFSZ7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07olY0&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:7fa394b77dd9@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261031T010000Z
+DTEND:20261031T070000Z
+SUMMARY:献血バス 北千住駅東口ロータリー
+LOCATION:東京都足立区千住旭町4-6
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000
+ ImrL&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/CYYyaQ2gVVVyJcy56\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
+ 00ImrL&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

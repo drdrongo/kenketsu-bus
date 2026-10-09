@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 世田谷区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f696e5d93505@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261009T051500Z
+DTEND:20261009T070000Z
+SUMMARY:献血バス NHK放送技術研究所
+LOCATION:東京都世田谷区砧1-10-11
+DESCRIPTION:受付: 14:15~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaZ5&sy=2026&s
+ m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/fpLDsWqdZor
+ vLKog6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oaZ5&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:f892576a120e@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261017T020000Z
+DTEND:20261017T063000Z
+SUMMARY:献血バス 保健医療福祉総合プラザ
+LOCATION:東京都世田谷区松原6-37-10
+DESCRIPTION:受付: 11:00~15:30\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS000000ojbRQAQ&sy=202
+ 6&sm=08&sd=18&ey=2026&em=10&ed=17\n地図: https://maps.app.goo.gl/Nd9Y16M
+ uz64pNnLJ7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus
+ .html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
+ 00ojbRQAQ&sy=2026&sm=08&sd=18&ey=2026&em=10&ed=17
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb0fddda201@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261021T010000Z
+DTEND:20261021T070000Z
+SUMMARY:献血バス 国立成育医療研究センター
+LOCATION:東京都世田谷区大蔵2-10-1
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oaVI&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/K6j1aaEeByqiryRXA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oaVI&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:6e695f57feea@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261023T010000Z
+DTEND:20261023T070000Z
+SUMMARY:献血バス 烏山区民センター前広場
+LOCATION:東京都世田谷区南烏山6-2-19
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oafW&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/yi9fCnzzdbKxqrdP8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oafW&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

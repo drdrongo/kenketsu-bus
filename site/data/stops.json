@@ -1,0 +1,3152 @@
+{
+ "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
+ "first_run": "2026-10-09T14:27:35+09:00",
+ "updated_at": "2026-10-09T14:24:47+09:00",
+ "wards": [
+  {
+   "name": "千代田区",
+   "slug": "chiyoda"
+  },
+  {
+   "name": "中央区",
+   "slug": "chuo"
+  },
+  {
+   "name": "港区",
+   "slug": "minato"
+  },
+  {
+   "name": "新宿区",
+   "slug": "shinjuku"
+  },
+  {
+   "name": "文京区",
+   "slug": "bunkyo"
+  },
+  {
+   "name": "台東区",
+   "slug": "taito"
+  },
+  {
+   "name": "墨田区",
+   "slug": "sumida"
+  },
+  {
+   "name": "江東区",
+   "slug": "koto"
+  },
+  {
+   "name": "品川区",
+   "slug": "shinagawa"
+  },
+  {
+   "name": "目黒区",
+   "slug": "meguro"
+  },
+  {
+   "name": "大田区",
+   "slug": "ota"
+  },
+  {
+   "name": "世田谷区",
+   "slug": "setagaya"
+  },
+  {
+   "name": "渋谷区",
+   "slug": "shibuya"
+  },
+  {
+   "name": "中野区",
+   "slug": "nakano"
+  },
+  {
+   "name": "杉並区",
+   "slug": "suginami"
+  },
+  {
+   "name": "豊島区",
+   "slug": "toshima"
+  },
+  {
+   "name": "北区",
+   "slug": "kita"
+  },
+  {
+   "name": "荒川区",
+   "slug": "arakawa"
+  },
+  {
+   "name": "板橋区",
+   "slug": "itabashi"
+  },
+  {
+   "name": "練馬区",
+   "slug": "nerima"
+  },
+  {
+   "name": "足立区",
+   "slug": "adachi"
+  },
+  {
+   "name": "葛飾区",
+   "slug": "katsushika"
+  },
+  {
+   "name": "江戸川区",
+   "slug": "edogawa"
+  },
+  {
+   "name": "八王子市",
+   "slug": "hachioji"
+  },
+  {
+   "name": "立川市",
+   "slug": "tachikawa"
+  },
+  {
+   "name": "武蔵野市",
+   "slug": "musashino"
+  },
+  {
+   "name": "三鷹市",
+   "slug": "mitaka"
+  },
+  {
+   "name": "青梅市",
+   "slug": "ome"
+  },
+  {
+   "name": "府中市",
+   "slug": "fuchu"
+  },
+  {
+   "name": "昭島市",
+   "slug": "akishima"
+  },
+  {
+   "name": "調布市",
+   "slug": "chofu"
+  },
+  {
+   "name": "町田市",
+   "slug": "machida"
+  },
+  {
+   "name": "小金井市",
+   "slug": "koganei"
+  },
+  {
+   "name": "小平市",
+   "slug": "kodaira"
+  },
+  {
+   "name": "日野市",
+   "slug": "hino"
+  },
+  {
+   "name": "東村山市",
+   "slug": "higashimurayama"
+  },
+  {
+   "name": "国分寺市",
+   "slug": "kokubunji"
+  },
+  {
+   "name": "国立市",
+   "slug": "kunitachi"
+  },
+  {
+   "name": "福生市",
+   "slug": "fussa"
+  },
+  {
+   "name": "狛江市",
+   "slug": "komae"
+  },
+  {
+   "name": "東大和市",
+   "slug": "higashiyamato"
+  },
+  {
+   "name": "清瀬市",
+   "slug": "kiyose"
+  },
+  {
+   "name": "東久留米市",
+   "slug": "higashikurume"
+  },
+  {
+   "name": "武蔵村山市",
+   "slug": "musashimurayama"
+  },
+  {
+   "name": "多摩市",
+   "slug": "tama"
+  },
+  {
+   "name": "稲城市",
+   "slug": "inagi"
+  },
+  {
+   "name": "羽村市",
+   "slug": "hamura"
+  },
+  {
+   "name": "あきる野市",
+   "slug": "akiruno"
+  },
+  {
+   "name": "西東京市",
+   "slug": "nishitokyo"
+  },
+  {
+   "name": "瑞穂町",
+   "slug": "mizuho"
+  },
+  {
+   "name": "日の出町",
+   "slug": "hinode"
+  },
+  {
+   "name": "檜原村",
+   "slug": "hinohara"
+  },
+  {
+   "name": "奥多摩町",
+   "slug": "okutama"
+  },
+  {
+   "name": "大島町",
+   "slug": "oshima"
+  },
+  {
+   "name": "利島村",
+   "slug": "toshima-village"
+  },
+  {
+   "name": "新島村",
+   "slug": "niijima"
+  },
+  {
+   "name": "神津島村",
+   "slug": "kozushima"
+  },
+  {
+   "name": "三宅村",
+   "slug": "miyake"
+  },
+  {
+   "name": "御蔵島村",
+   "slug": "mikurajima"
+  },
+  {
+   "name": "八丈町",
+   "slug": "hachijo"
+  },
+  {
+   "name": "青ヶ島村",
+   "slug": "aogashima"
+  },
+  {
+   "name": "小笠原村",
+   "slug": "ogasawara"
+  }
+ ],
+ "stops": [
+  {
+   "id": "f696e5d93505",
+   "date": "2026-10-09",
+   "city": "世田谷区",
+   "slug": "setagaya",
+   "venue": "NHK放送技術研究所",
+   "address": "東京都世田谷区砧1-10-11",
+   "map": "https://maps.app.goo.gl/fpLDsWqdZorvLKog6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaZ5&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "14:15~16:00"
+   ],
+   "sessions": [
+    [
+     "14:15",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "0cebc3a7a5fc",
+   "date": "2026-10-09",
+   "city": "昭島市",
+   "slug": "akishima",
+   "venue": "東日本成人矯正医療センター",
+   "address": "東京都昭島市もくせいの杜2-1-9",
+   "map": "https://maps.app.goo.gl/Yze8R1UfdMn4LZoe8",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "11:00‐15:30"
+   ],
+   "sessions": [
+    [
+     "11:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "f396e8785bc5",
+   "date": "2026-10-10",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "東急大岡山駅前",
+   "address": "東京都大田区北千束3-27",
+   "map": "https://maps.app.goo.gl/NBDQJbeqPoZBUDeWA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ob1Q&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "83822b52372b",
+   "date": "2026-10-10",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "雪ヶ谷八幡神社 ※中止になりました",
+   "address": "東京都大田区東雪谷2-25-1",
+   "map": "https://maps.app.goo.gl/tRDSsvk36rHH2Kcv6",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "11:00~15:30"
+   ],
+   "sessions": [
+    [
+     "11:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "fcad3e666f4c",
+   "date": "2026-10-10",
+   "city": "武蔵村山市",
+   "slug": "musashimurayama",
+   "venue": "イオンモールむさし村山",
+   "address": "東京都武蔵村山市榎1丁目1-3",
+   "map": "https://maps.app.goo.gl/gPBWyh6X5ojC2mVHA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007othJ&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~12:00",
+    "13:30~15:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "f6fc32974595",
+   "date": "2026-10-10",
+   "city": "武蔵野市",
+   "slug": "musashino",
+   "venue": "武蔵境駅南口",
+   "address": "東京都武蔵野市境南町2-1-12",
+   "map": "https://maps.app.goo.gl/CNw5FeZN9V12bNa7A",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007odLC&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:30"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "c549c8f79944",
+   "date": "2026-10-10",
+   "city": "江戸川区",
+   "slug": "edogawa",
+   "venue": "東西線 葛西駅西口",
+   "address": "東京都江戸川区中葛西5-43-11",
+   "map": "https://maps.app.goo.gl/vUFHcKVRhEfb1DSF9",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "de22ba087033",
+   "date": "2026-10-10",
+   "city": "江戸川区",
+   "slug": "edogawa",
+   "venue": "東西線西葛西駅 南口",
+   "address": "東京都江戸川区西葛西6-14",
+   "map": "https://maps.app.goo.gl/Asir7kT3hyr2wtqA7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZh&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "cd83c6219e6c",
+   "date": "2026-10-10",
+   "city": "町田市",
+   "slug": "machida",
+   "venue": "鶴川駅前",
+   "address": "東京都町田市能ヶ谷町1-6-1",
+   "map": "https://maps.app.goo.gl/fiMsvH1jcAWb4W8R8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owJ2&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "09ae8c5c68b1",
+   "date": "2026-10-10",
+   "city": "練馬区",
+   "slug": "nerima",
+   "venue": "光が丘区民センター横(ふれあいの径)",
+   "address": "東京都練馬区光が丘2-10",
+   "map": "https://maps.app.goo.gl/BeEmaHUcAd5iLQ1y5",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007orvx&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:15~14:15"
+   ],
+   "sessions": [
+    [
+     "10:15",
+     "14:15"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "3e41c592288a",
+   "date": "2026-10-10",
+   "city": "足立区",
+   "slug": "adachi",
+   "venue": "あだち区民まつり(虹の広場)",
+   "address": "東京都足立区千住5丁目",
+   "map": "https://maps.app.goo.gl/i4fjAyg5hjurobbF6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqPy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "d8d387438c63",
+   "date": "2026-10-11",
+   "city": "八王子市",
+   "slug": "hachioji",
+   "venue": "片柳学園(紅華祭)",
+   "address": "東京都八王子市片倉町1404-1",
+   "map": "https://maps.app.goo.gl/EUcCP8RGPwvZ5ek19",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PwPg&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "11:30~16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "535b8a7e6a4a",
+   "date": "2026-10-11",
+   "city": "墨田区",
+   "slug": "sumida",
+   "venue": "JR錦糸町駅南口",
+   "address": "東京都墨田区江東橋3-14-5",
+   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p8oG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "12:50~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "12:50",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "aa782e8b7114",
+   "date": "2026-10-11",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "JR大森駅東口駅前広場",
+   "address": "東京都大田区大森北1-1",
+   "map": "https://maps.app.goo.gl/zgyji1UeP5phpcTHA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ob1f&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "7da221a4fca2",
+   "date": "2026-10-11",
+   "city": "日の出町",
+   "slug": "hinode",
+   "venue": "イオンモール日の出",
+   "address": "東京都西多摩郡日の出町大字平井字三吉野桜木237-3",
+   "map": "https://maps.app.goo.gl/PmbFaNJjAyRv2zjV6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7uf&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:30",
+    "13:00~15:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "af022a4178bc",
+   "date": "2026-10-11",
+   "city": "清瀬市",
+   "slug": "kiyose",
+   "venue": "国立看護大学校",
+   "address": "東京都清瀬市梅園1-2-1",
+   "map": "https://maps.app.goo.gl/Zvniqs1veWmz3Wkv8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oxXw&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~12:00",
+    "13:30~15:00"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "15:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "5457913efa18",
+   "date": "2026-10-11",
+   "city": "清瀬市",
+   "slug": "kiyose",
+   "venue": "明治薬科大学",
+   "address": "東京都清瀬市野塩2-522-1",
+   "map": "https://maps.app.goo.gl/7a6qwAWZCg4uVD1KA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqNx&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:00",
+    "12:30~16:30"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:00"
+    ],
+    [
+     "12:30",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "0ea0a998f761",
+   "date": "2026-10-11",
+   "city": "渋谷区",
+   "slug": "shibuya",
+   "venue": "東京体育館",
+   "address": "東京都渋谷区千駄ケ谷1-17-1",
+   "map": "https://maps.app.goo.gl/epmnS9btCFEnq6Uq5",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaqt&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:30~15:00"
+   ],
+   "sessions": [
+    [
+     "10:30",
+     "15:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "c4b09a311ff0",
+   "date": "2026-10-11",
+   "city": "目黒区",
+   "slug": "meguro",
+   "venue": "目黒区民センター",
+   "address": "東京都目黒区目黒2-4-36",
+   "map": "https://maps.app.goo.gl/nJPWWJSC2RbFMy3p6",
+   "reserve": "https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=prefecture&placeId=a0p0K000007pAtb&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~12:30",
+    "14:00~15:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "12:30"
+    ],
+    [
+     "14:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "d6c7285c9078",
+   "date": "2026-10-11",
+   "city": "足立区",
+   "slug": "adachi",
+   "venue": "あだち区民まつり(虹の広場)",
+   "address": "東京都足立区千住5丁目",
+   "map": "https://maps.app.goo.gl/i4fjAyg5hjurobbF6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqPy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "2b76ba3c8396",
+   "date": "2026-10-12",
+   "city": "八王子市",
+   "slug": "hachioji",
+   "venue": "京王線南大沢駅",
+   "address": "東京都八王子市南大沢2-29",
+   "map": "https://maps.app.goo.gl/FS4gkFB3ByggntQM8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqRe&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "11:30~16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "8044abc68089",
+   "date": "2026-10-12",
+   "city": "墨田区",
+   "slug": "sumida",
+   "venue": "JR錦糸町駅南口",
+   "address": "東京都墨田区江東橋3-14-5",
+   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p8oG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "12:50~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "12:50",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "15b0c883d256",
+   "date": "2026-10-12",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "蒲田駅西口",
+   "address": "東京都大田区西蒲田7-68先",
+   "map": "https://maps.app.goo.gl/oZszRvU6tvvfYQTg9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007obOv&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "f8509f31e0cf",
+   "date": "2026-10-12",
+   "city": "日野市",
+   "slug": "hino",
+   "venue": "イオンモール多摩平の森",
+   "address": "東京都日野市多摩平2-4-1",
+   "map": "https://maps.app.goo.gl/rwANXK358otarHCt6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovSf&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "480b45a58359",
+   "date": "2026-10-12",
+   "city": "稲城市",
+   "slug": "inagi",
+   "venue": "向陽台城山公園 ステージ横",
+   "address": "東京都稲城市向陽台4-6",
+   "map": "https://maps.app.goo.gl/V6bbxoAcAdNJFFxJ9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ou8v&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "53bee5602185",
+   "date": "2026-10-12",
+   "city": "葛飾区",
+   "slug": "katsushika",
+   "venue": "JR新小岩駅",
+   "address": "東京都葛飾区新小岩1-47",
+   "map": "https://maps.app.goo.gl/DVy6Y4XPconMQxVy5",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZk&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "afbd78f40cbf",
+   "date": "2026-10-12",
+   "city": "西東京市",
+   "slug": "nishitokyo",
+   "venue": "田無神社 参集殿",
+   "address": "東京都西東京市田無町3-7-4",
+   "map": "https://maps.app.goo.gl/sCpHJXrQ3hpqTwiC7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000009TN4R&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "11:00~15:30"
+   ],
+   "sessions": [
+    [
+     "11:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "ad0047e2ff81",
+   "date": "2026-10-12",
+   "city": "足立区",
+   "slug": "adachi",
+   "venue": "北千住駅東口ロータリー",
+   "address": "東京都足立区千住旭町4-6",
+   "map": "https://maps.app.goo.gl/CYYyaQ2gVVVyJcy56",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000ImrL&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "bacc5a7db047",
+   "date": "2026-10-13",
+   "city": "八王子市",
+   "slug": "hachioji",
+   "venue": "八王子医療センター",
+   "address": "東京都八王子市館町1163",
+   "map": "https://maps.app.goo.gl/NSNn4hUm5bmB5uym8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007or7Q&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "12:30~17:00"
+   ],
+   "sessions": [
+    [
+     "12:30",
+     "17:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "7fcbc9286640",
+   "date": "2026-10-13",
+   "city": "江東区",
+   "slug": "koto",
+   "venue": "芝浦工業大学 中庭",
+   "address": "東京都江東区豊洲3-7-5",
+   "map": "https://maps.app.goo.gl/ePpNain8KqFVdd697",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oahy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:40~15:10"
+   ],
+   "sessions": [
+    [
+     "10:40",
+     "15:10"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "b69fc3829347",
+   "date": "2026-10-13",
+   "city": "調布市",
+   "slug": "chofu",
+   "venue": "電気通信大学",
+   "address": "調布市調布ヶ丘1-5-1",
+   "map": "https://maps.app.goo.gl/HmZPNqbSXwQUKgGX8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ocxP&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:30~16:30"
+   ],
+   "sessions": [
+    [
+     "10:30",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "87c4c52100fd",
+   "date": "2026-10-14",
+   "city": "多摩市",
+   "slug": "tama",
+   "venue": "多摩市役所",
+   "address": "東京都多摩市関戸6-12-1",
+   "map": "https://maps.app.goo.gl/LMx6XV7qaD8YXnsA8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ou8h&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "12:45~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "12:45",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "7f308edac2d1",
+   "date": "2026-10-14",
+   "city": "小金井市",
+   "slug": "koganei",
+   "venue": "小金井市役所",
+   "address": "東京都小金井市本町6-6-3",
+   "map": "https://maps.app.goo.gl/9btLhTqQdJjMTshr8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ofEG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "73645ed879e6",
+   "date": "2026-10-14",
+   "city": "日野市",
+   "slug": "hino",
+   "venue": "高幡不動尊 駐車場",
+   "address": "東京都日野市高幡733",
+   "map": "https://maps.app.goo.gl/W5UGZUoPdW5tEvcw9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owHP&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "09:30~11:30",
+    "13:00~15:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "14c1c49dc3e8",
+   "date": "2026-10-14",
+   "city": "調布市",
+   "slug": "chofu",
+   "venue": "電気通信大学",
+   "address": "調布市調布ヶ丘1-5-1",
+   "map": "https://maps.app.goo.gl/HmZPNqbSXwQUKgGX8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ocxP&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:30~16:30"
+   ],
+   "sessions": [
+    [
+     "10:30",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "0cd99c4c12c4",
+   "date": "2026-10-15",
+   "city": "品川区",
+   "slug": "shinagawa",
+   "venue": "野村不動産天王洲ビル 公開空地",
+   "address": "東京都品川区東品川2-4-11",
+   "map": "https://maps.app.goo.gl/ZsSwGwkkKjm4Hvgc8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ob0A&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:00"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "08bbad010dd0",
+   "date": "2026-10-15",
+   "city": "昭島市",
+   "slug": "akishima",
+   "venue": "昭島病院",
+   "address": "東京都昭島市中神町1260",
+   "map": "https://maps.app.goo.gl/71QFWBkNLCzCYcFX9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007osff&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "f44c38a3dab4",
+   "date": "2026-10-15",
+   "city": "港区",
+   "slug": "minato",
+   "venue": "トレードピアお台場",
+   "address": "東京都港区台場2-3-1",
+   "map": "https://maps.app.goo.gl/PsTJJRedpB4L81Du9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PwOX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "11:30~16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "afb26daa57d2",
+   "date": "2026-10-15",
+   "city": "立川市",
+   "slug": "tachikawa",
+   "venue": "立川市役所",
+   "address": "東京都立川市泉町1156-9",
+   "map": "https://maps.app.goo.gl/p37jEBPMgMXXigEq8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ousX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:15~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:15",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "d68588cd0b4c",
+   "date": "2026-10-15",
+   "city": "立川市",
+   "slug": "tachikawa",
+   "venue": "立川都市軸道路 サンサンロード",
+   "address": "東京都立川市曙町2",
+   "map": "https://maps.app.goo.gl/WJ7pyEjcZDtBSSo89",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000012knoQAA&sy=2026&sm=09&sd=15&ey=2026&em=10&ed=31",
+   "notes": [],
+   "hours": [
+    "14:00~16:30"
+   ],
+   "sessions": [
+    [
+     "14:00",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "f63bc795deff",
+   "date": "2026-10-15",
+   "city": "調布市",
+   "slug": "chofu",
+   "venue": "電気通信大学",
+   "address": "調布市調布ヶ丘1-5-1",
+   "map": "https://maps.app.goo.gl/HmZPNqbSXwQUKgGX8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ocxP&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:30~16:30"
+   ],
+   "sessions": [
+    [
+     "10:30",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "2905512b0c10",
+   "date": "2026-10-15",
+   "city": "足立区",
+   "slug": "adachi",
+   "venue": "文教大学東京あだちキャンパス",
+   "address": "東京都足立区花畑5-6",
+   "map": "https://maps.app.goo.gl/e3vzEaCfkkh9oqkUA",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "10:30~11:00",
+    "12:30~16:30"
+   ],
+   "sessions": [
+    [
+     "10:30",
+     "11:00"
+    ],
+    [
+     "12:30",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "51a3c82cd16c",
+   "date": "2026-10-16",
+   "city": "中野区",
+   "slug": "nakano",
+   "venue": "中野区役所 ナカノのソトニワ",
+   "address": "東京都中野区中野4-11-19",
+   "map": "https://maps.app.goo.gl/2pDZExJsRUrYz4a79",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ofCi&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "6e02f9a249d5",
+   "date": "2026-10-16",
+   "city": "目黒区",
+   "slug": "meguro",
+   "venue": "目黒青色申告会館",
+   "address": "東京都目黒区中目黒5-28-8",
+   "map": "https://maps.app.goo.gl/AJbd1uLvgqbuasvx5",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ob1D&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:45",
+    "13:00~15:30"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:45"
+    ],
+    [
+     "13:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "e8f2d3af6dde",
+   "date": "2026-10-16",
+   "city": "調布市",
+   "slug": "chofu",
+   "venue": "電気通信大学",
+   "address": "調布市調布ヶ丘1-5-1",
+   "map": "https://maps.app.goo.gl/HmZPNqbSXwQUKgGX8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ocxP&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:30~16:30"
+   ],
+   "sessions": [
+    [
+     "10:30",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "f892576a120e",
+   "date": "2026-10-17",
+   "city": "世田谷区",
+   "slug": "setagaya",
+   "venue": "保健医療福祉総合プラザ",
+   "address": "東京都世田谷区松原6-37-10",
+   "map": "https://maps.app.goo.gl/Nd9Y16Muz64pNnLJ7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS000000ojbRQAQ&sy=2026&sm=08&sd=18&ey=2026&em=10&ed=17",
+   "notes": [],
+   "hours": [
+    "11:00~15:30"
+   ],
+   "sessions": [
+    [
+     "11:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "de5adb099891",
+   "date": "2026-10-17",
+   "city": "国分寺市",
+   "slug": "kokubunji",
+   "venue": "国分寺駅南口",
+   "address": "東京都国分寺市南町3-20",
+   "map": "https://maps.app.goo.gl/AyB6CUKrVVurf6xW7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otUL&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "11:30~16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "86e7dd23957a",
+   "date": "2026-10-17",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "東京衛生学園専門学校 1階",
+   "address": "東京都大田区大森北4-1-1",
+   "map": "https://maps.app.goo.gl/Mjwc4XGbpsRkW7pS8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007obC0&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "11:00~12:15",
+    "13:45~16:00"
+   ],
+   "sessions": [
+    [
+     "11:00",
+     "12:15"
+    ],
+    [
+     "13:45",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "5e6fc45ec46b",
+   "date": "2026-10-17",
+   "city": "杉並区",
+   "slug": "suginami",
+   "venue": "JR高円寺駅北口",
+   "address": "東京都杉並区高円寺北2-5",
+   "map": "https://maps.app.goo.gl/cujeFKVKw3EvSEJy6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oeDT&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "2cb9150d2459",
+   "date": "2026-10-17",
+   "city": "江戸川区",
+   "slug": "edogawa",
+   "venue": "アリオ葛西店 正面出入り口横",
+   "address": "東京都江戸川区東葛西9-3-3",
+   "map": "https://maps.app.goo.gl/KPaosNgWRvUNmDAr6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007or7v&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "f125871e2f8f",
+   "date": "2026-10-17",
+   "city": "江東区",
+   "slug": "koto",
+   "venue": "アリオ北砂店",
+   "address": "東京都江東区北砂2-17-1",
+   "map": "https://maps.app.goo.gl/V18F9X3j3B972Ajo9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000FvT2c&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "1e3a5bdeee1f",
+   "date": "2026-10-17",
+   "city": "江東区",
+   "slug": "koto",
+   "venue": "東京ビッグサイト南棟",
+   "address": "東京都江東区有明3-11-1",
+   "map": "https://maps.app.goo.gl/KinwSuzF2EwXAqEf7",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "11:00~15:30"
+   ],
+   "sessions": [
+    [
+     "11:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "ee351d753fae",
+   "date": "2026-10-17",
+   "city": "江東区",
+   "slug": "koto",
+   "venue": "江東区民まつり(木場公園)",
+   "address": "東京都江東区平野4-6-1",
+   "map": "https://maps.app.goo.gl/Pd2iTFnPw8S2yk877",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oigQ&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "0dd253684c1c",
+   "date": "2026-10-17",
+   "city": "練馬区",
+   "slug": "nerima",
+   "venue": "練馬駅北口バスロータリー",
+   "address": "東京都練馬区練馬1-3-5練馬駅北口バスロータリー内路上",
+   "map": "https://maps.app.goo.gl/5BXosUDV63h3ZeUJA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000J1G8&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "3ff96afb54b6",
+   "date": "2026-10-17",
+   "city": "足立区",
+   "slug": "adachi",
+   "venue": "東京芸術センター前広場",
+   "address": "東京都足立区千住1-4-1",
+   "map": "https://maps.app.goo.gl/oYsmi4JnqfrkQFSZ7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007olY0&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "18ba5b23e573",
+   "date": "2026-10-18",
+   "city": "八王子市",
+   "slug": "hachioji",
+   "venue": "イトーヨーカドー八王子店",
+   "address": "東京都八王子市狭間町1462-1",
+   "map": "https://maps.app.goo.gl/Yvm9uDWsUcfqJFxA9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pAP6&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "d23a0c721c15",
+   "date": "2026-10-18",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "矢口特別出張所 1階大会議室",
+   "address": "東京都大田区矢口2-21-14",
+   "map": "https://maps.app.goo.gl/Lh7GkAqGz3Mar8gv5",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaz6&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~13:00",
+    "14:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "13:00"
+    ],
+    [
+     "14:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "acce583b224c",
+   "date": "2026-10-18",
+   "city": "小平市",
+   "slug": "kodaira",
+   "venue": "小平市民まつり会場",
+   "address": "小平市学園東448",
+   "map": "https://maps.app.goo.gl/quWV6XU7uwLyvUJf7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owJ3&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "867b3680d95f",
+   "date": "2026-10-18",
+   "city": "府中市",
+   "slug": "fuchu",
+   "venue": "府中運転免許試験場",
+   "address": "東京都府中市多磨町3-1-1",
+   "map": "https://maps.app.goo.gl/sPKck5qCPKaxNdri7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:40~16:00"
+   ],
+   "sessions": [
+    [
+     "09:40",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "f300091f9f62",
+   "date": "2026-10-18",
+   "city": "日の出町",
+   "slug": "hinode",
+   "venue": "イオンモール日の出",
+   "address": "東京都西多摩郡日の出町大字平井字三吉野桜木237-3",
+   "map": "https://maps.app.goo.gl/PmbFaNJjAyRv2zjV6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7uf&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:30",
+    "13:00~15:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "9b850d8e1d1b",
+   "date": "2026-10-18",
+   "city": "板橋区",
+   "slug": "itabashi",
+   "venue": "板橋区民まつり大山公園",
+   "address": "東京都板橋区栄町35-2",
+   "map": "https://maps.app.goo.gl/84Q3h5QnUopoqqo48",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owGX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~15:15"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "15:15"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "4a725468756a",
+   "date": "2026-10-18",
+   "city": "江東区",
+   "slug": "koto",
+   "venue": "アリオ北砂店",
+   "address": "東京都江東区北砂2-17-1",
+   "map": "https://maps.app.goo.gl/V18F9X3j3B972Ajo9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000FvT2c&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "410afa9996c0",
+   "date": "2026-10-18",
+   "city": "江東区",
+   "slug": "koto",
+   "venue": "東京ビッグサイト南棟",
+   "address": "東京都江東区有明3-11-1",
+   "map": "https://maps.app.goo.gl/KinwSuzF2EwXAqEf7",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "11:00~15:00"
+   ],
+   "sessions": [
+    [
+     "11:00",
+     "15:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "6bc33a362587",
+   "date": "2026-10-18",
+   "city": "江東区",
+   "slug": "koto",
+   "venue": "江東区民まつり(木場公園)",
+   "address": "東京都江東区平野4-6-1",
+   "map": "https://maps.app.goo.gl/Pd2iTFnPw8S2yk877",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oigQ&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "8baa53ec9949",
+   "date": "2026-10-19",
+   "city": "北区",
+   "slug": "kita",
+   "venue": "北とぴあ前",
+   "address": "東京都北区王子1-11-1",
+   "map": "https://maps.app.goo.gl/AzF42v6w1herp8mA8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007opwB&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "9b723c2c5bda",
+   "date": "2026-10-19",
+   "city": "港区",
+   "slug": "minato",
+   "venue": "六本木ヒルズアリーナ",
+   "address": "東京都港区六本木6-10-1",
+   "map": "https://maps.app.goo.gl/ibUJnUoR8LZShKq67",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007okXq&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:00",
+    "12:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:00"
+    ],
+    [
+     "12:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "91a7c2aa9791",
+   "date": "2026-10-20",
+   "city": "中央区",
+   "slug": "chuo",
+   "venue": "プライム銀座柳通りビル1階",
+   "address": "東京都中央区銀座1-9-3",
+   "map": "https://maps.app.goo.gl/xuztntWiZYnshy8U9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000013JvBQAU&sy=2026&sm=10&sd=01&ey=2026&em=10&ed=31",
+   "notes": [],
+   "hours": [
+    "9:30~11:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "1a52052bddd7",
+   "date": "2026-10-20",
+   "city": "中央区",
+   "slug": "chuo",
+   "venue": "東短室町ビル1階",
+   "address": "東京都中央区日本橋室町4-4-10",
+   "map": "https://maps.app.goo.gl/ACRoRAmEZ1eajHN29",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000004itsn&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "14:00~16:00"
+   ],
+   "sessions": [
+    [
+     "14:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "a402b3e2ad4a",
+   "date": "2026-10-20",
+   "city": "練馬区",
+   "slug": "nerima",
+   "venue": "日本大学芸術学部",
+   "address": "東京都練馬区旭丘2-42-1",
+   "map": "https://maps.app.goo.gl/bEhpQ38Ti3wPFXHGA",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "13:00~16:30"
+   ],
+   "sessions": [
+    [
+     "13:00",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "14a93368306f",
+   "date": "2026-10-20",
+   "city": "羽村市",
+   "slug": "hamura",
+   "venue": "羽村市産業福祉センター",
+   "address": "東京都羽村市緑ヶ丘2-11-1",
+   "map": "https://maps.app.goo.gl/oB8T5JxFdTCKVGNV7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ouAd&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:00~15:30"
+   ],
+   "sessions": [
+    [
+     "09:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "ecb0fddda201",
+   "date": "2026-10-21",
+   "city": "世田谷区",
+   "slug": "setagaya",
+   "venue": "国立成育医療研究センター",
+   "address": "東京都世田谷区大蔵2-10-1",
+   "map": "https://maps.app.goo.gl/K6j1aaEeByqiryRXA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaVI&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:00",
+    "12:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:00"
+    ],
+    [
+     "12:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "0540682cdca9",
+   "date": "2026-10-21",
+   "city": "昭島市",
+   "slug": "akishima",
+   "venue": "昭島市役所",
+   "address": "東京都昭島市田中町1-17-1",
+   "map": "https://maps.app.goo.gl/zEHxVFAVaNpRqiWaA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007osfW&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:45",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:45"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "10bfb01c1df8",
+   "date": "2026-10-21",
+   "city": "江東区",
+   "slug": "koto",
+   "venue": "六三印刷(株) 駐車場",
+   "address": "東京都江東区潮見2-4-18",
+   "map": "https://maps.app.goo.gl/3NuQL9MK25dayk3N6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007olZs&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "0580d03a19a9",
+   "date": "2026-10-21",
+   "city": "瑞穂町",
+   "slug": "mizuho",
+   "venue": "瑞穂町役場",
+   "address": "東京都西多摩郡瑞穂町大字箱根ケ崎2335",
+   "map": "https://maps.app.goo.gl/Z8nhmrTHzWMyLQyC6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ouAi&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:15~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:15",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "9f56bb70ec50",
+   "date": "2026-10-21",
+   "city": "練馬区",
+   "slug": "nerima",
+   "venue": "日本大学芸術学部",
+   "address": "東京都練馬区旭丘2-42-1",
+   "map": "https://maps.app.goo.gl/bEhpQ38Ti3wPFXHGA",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "13:00~16:30"
+   ],
+   "sessions": [
+    [
+     "13:00",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "10e892a24993",
+   "date": "2026-10-21",
+   "city": "荒川区",
+   "slug": "arakawa",
+   "venue": "荒川公園(荒川区役所前)",
+   "address": "東京都荒川区荒川2-2-2",
+   "map": "https://maps.app.goo.gl/x1Nx6HovcD7McVik9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ope3&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:30",
+    "14:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:30"
+    ],
+    [
+     "14:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "6b3ba6c39ac7",
+   "date": "2026-10-22",
+   "city": "中野区",
+   "slug": "nakano",
+   "venue": "中野セントラルパークサウス2階 西武信用金庫会議室",
+   "address": "東京都中野区中野4-10-2",
+   "map": "https://maps.app.goo.gl/zFWSb3zsFciFMj1X9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PPVQ&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "5ff98c1297ab",
+   "date": "2026-10-22",
+   "city": "国分寺市",
+   "slug": "kokubunji",
+   "venue": "国分寺市役所",
+   "address": "東京都国分寺市泉町2-2-18",
+   "map": "https://maps.app.goo.gl/MpF8vyeGKHNBorwb9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otUE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "01b2f9038f2e",
+   "date": "2026-10-22",
+   "city": "清瀬市",
+   "slug": "kiyose",
+   "venue": "清瀬市役所",
+   "address": "東京都清瀬市中里5-842",
+   "map": "https://maps.app.goo.gl/6qm6XN9pQZ92Q9eW8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007occK&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "14:30~16:30"
+   ],
+   "sessions": [
+    [
+     "14:30",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "6e695f57feea",
+   "date": "2026-10-23",
+   "city": "世田谷区",
+   "slug": "setagaya",
+   "venue": "烏山区民センター前広場",
+   "address": "東京都世田谷区南烏山6-2-19",
+   "map": "https://maps.app.goo.gl/yi9fCnzzdbKxqrdP8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oafW&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "fc0810567d50",
+   "date": "2026-10-23",
+   "city": "国分寺市",
+   "slug": "kokubunji",
+   "venue": "国分寺市役所",
+   "address": "東京都国分寺市泉町2-2-18",
+   "map": "https://maps.app.goo.gl/MpF8vyeGKHNBorwb9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otUE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "80853c353fa4",
+   "date": "2026-10-23",
+   "city": "練馬区",
+   "slug": "nerima",
+   "venue": "JA東京あおば石神井支店",
+   "address": "東京都練馬区石神井町5-11-7",
+   "map": "https://maps.app.goo.gl/nVY1u7kzkeAruHgCA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pB0u&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "c98b1fa01fa9",
+   "date": "2026-10-23",
+   "city": "葛飾区",
+   "slug": "katsushika",
+   "venue": "葛飾区役所",
+   "address": "東京都葛飾区立石5-13-1",
+   "map": "https://maps.app.goo.gl/eZ1bb6hcYeuTnJNt5",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otUm&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~12:00",
+    "13:30~15:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "5dab914a61bc",
+   "date": "2026-10-24",
+   "city": "中央区",
+   "slug": "chuo",
+   "venue": "月島第二児童公園",
+   "address": "東京都中央区勝どき1-9-8",
+   "map": "https://maps.app.goo.gl/ePvY1gebJfwuK2ET7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000JqZE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:00",
+    "12:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:00"
+    ],
+    [
+     "12:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "ce3c27ff18fa",
+   "date": "2026-10-24",
+   "city": "八王子市",
+   "slug": "hachioji",
+   "venue": "スーパーアルプス楢原店",
+   "address": "東京都八王子市楢原町1818-15",
+   "map": "https://maps.app.goo.gl/mhoTsfPntSoVSFXc6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PwQw&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:45~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "09:45",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "2e5c6809a551",
+   "date": "2026-10-24",
+   "city": "北区",
+   "slug": "kita",
+   "venue": "JR赤羽駅東口",
+   "address": "東京都北区赤羽1-1-1",
+   "map": "https://maps.app.goo.gl/mnTxUJ5csBryFSrQ7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oeDS&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "572bff038640",
+   "date": "2026-10-24",
+   "city": "台東区",
+   "slug": "taito",
+   "venue": "おかちまちパンダ広場",
+   "address": "東京都台東区上野3-26",
+   "map": "https://maps.app.goo.gl/pgsAuHFmP5WG8MDUA",
+   "reserve": "https://www.kenketsu.jp/Login?startURL=%2FReservationByTypeConfirm%3FplaceMst%3Da0p0K000007pA14%26sy%3D2026%26sm%3D10%26sd%3D1%26ey%3D2026%26em%3D11%26ed%3D30",
+   "notes": [],
+   "hours": [
+    "11:30~16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "ff4b94f5a1d8",
+   "date": "2026-10-24",
+   "city": "多摩市",
+   "slug": "tama",
+   "venue": "多摩センター駅前",
+   "address": "東京都多摩市落合1-46-1パルテノン大通り・ココリア横",
+   "map": "https://maps.app.goo.gl/3MocMxGEqyho3QCV9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7XM&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:30"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "38421d43a051",
+   "date": "2026-10-24",
+   "city": "東大和市",
+   "slug": "higashiyamato",
+   "venue": "都立北多摩看護専門学校",
+   "address": "東京都東大和市桜ケ丘3-44-10",
+   "map": "https://maps.app.goo.gl/EovUHcARZhRW6iA98",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ou8b&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:00",
+    "12:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:00"
+    ],
+    [
+     "12:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "25fdedcb49e5",
+   "date": "2026-10-24",
+   "city": "板橋区",
+   "slug": "itabashi",
+   "venue": "イオン板橋店 立体駐車場入口前",
+   "address": "東京都板橋区徳丸2-6-1",
+   "map": "https://maps.app.goo.gl/B4SVaFSpPNCJWLQy8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ozTe&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "f69dba84ca9f",
+   "date": "2026-10-24",
+   "city": "江戸川区",
+   "slug": "edogawa",
+   "venue": "都営新宿線船堀駅北口広場",
+   "address": "東京都江戸川区船堀3-6",
+   "map": "https://maps.app.goo.gl/mEoHmkpVEMx6UMBf6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZg&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "9e06bdb0a862",
+   "date": "2026-10-24",
+   "city": "目黒区",
+   "slug": "meguro",
+   "venue": "東急自由が丘駅",
+   "address": "東京都目黒区自由が丘1-30",
+   "map": "https://maps.app.goo.gl/9LPDnLcfdV3KSEyZ6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007obOx&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "8b6e54df0c0d",
+   "date": "2026-10-24",
+   "city": "練馬区",
+   "slug": "nerima",
+   "venue": "光が丘公園 けやき広場",
+   "address": "東京都練馬区光が丘4-1-1",
+   "map": "https://maps.app.goo.gl/s6YQQ8onSRY76ycS7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oru7&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:30",
+    "13:00~15:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "4a3c1c21656d",
+   "date": "2026-10-24",
+   "city": "葛飾区",
+   "slug": "katsushika",
+   "venue": "亀有香取神社",
+   "address": "東京都葛飾区亀有3-42",
+   "map": "https://maps.app.goo.gl/qYkpKtVKzqY48ve57",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000003OKVE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~12:30",
+    "14:00~15:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "12:30"
+    ],
+    [
+     "14:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "5caac13eebae",
+   "date": "2026-10-24",
+   "city": "調布市",
+   "slug": "chofu",
+   "venue": "味の素スタジアム",
+   "address": "東京都調布市西町376-3",
+   "map": "https://maps.app.goo.gl/24phaiXnvv33XRJcA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000009TJ0H&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~14:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "14:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "6761ec262ce4",
+   "date": "2026-10-25",
+   "city": "八王子市",
+   "slug": "hachioji",
+   "venue": "京王線南大沢駅",
+   "address": "東京都八王子市南大沢2-29",
+   "map": "https://maps.app.goo.gl/FS4gkFB3ByggntQM8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqRe&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "11:30‐16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "ea6f69752253",
+   "date": "2026-10-25",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "京急蒲田駅 西口",
+   "address": "東京都大田区蒲田4-50-10",
+   "map": "https://maps.app.goo.gl/2p2WjLWCi3ZN45HC9",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00‐16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "5fa49f063037",
+   "date": "2026-10-25",
+   "city": "府中市",
+   "slug": "fuchu",
+   "venue": "府中運転免許試験場",
+   "address": "東京都府中市多磨町3-1-1",
+   "map": "https://maps.app.goo.gl/sPKck5qCPKaxNdri7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:40~16:00"
+   ],
+   "sessions": [
+    [
+     "09:40",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "a04471f2d776",
+   "date": "2026-10-25",
+   "city": "日の出町",
+   "slug": "hinode",
+   "venue": "イオンモール日の出",
+   "address": "東京都西多摩郡日の出町大字平井字三吉野桜木237-3",
+   "map": "https://maps.app.goo.gl/PmbFaNJjAyRv2zjV6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7uf&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:30",
+    "13:00~15:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "15:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "fae03444d6f9",
+   "date": "2026-10-25",
+   "city": "日野市",
+   "slug": "hino",
+   "venue": "イオンモール多摩平の森",
+   "address": "東京都日野市多摩平2-4-1",
+   "map": "https://maps.app.goo.gl/rwANXK358otarHCt6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovSf&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "1ff4b32c2d09",
+   "date": "2026-10-25",
+   "city": "練馬区",
+   "slug": "nerima",
+   "venue": "石神井公園駅中央口",
+   "address": "東京都練馬区石神井町3-23-10",
+   "map": "https://maps.app.goo.gl/dBvPKV67sPMDxKYz9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000FvNb5&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "fbb073e35eaf",
+   "date": "2026-10-25",
+   "city": "荒川区",
+   "slug": "arakawa",
+   "venue": "LaLaテラス南千住",
+   "address": "東京都荒川区南千住4-7-2",
+   "map": "https://maps.app.goo.gl/fTKyTt4ssnqhjdpM9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otfy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:30",
+    "14:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:30"
+    ],
+    [
+     "14:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "207770414331",
+   "date": "2026-10-26",
+   "city": "墨田区",
+   "slug": "sumida",
+   "venue": "墨田区役所",
+   "address": "東京都墨田区吾妻橋1-23-20",
+   "map": "https://maps.app.goo.gl/LgU7JEZhAA43gVLD8",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007outE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:30",
+    "14:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:30"
+    ],
+    [
+     "14:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "1c1d3eee235a",
+   "date": "2026-10-26",
+   "city": "府中市",
+   "slug": "fuchu",
+   "venue": "府中運転免許試験場",
+   "address": "東京都府中市多磨町3-1-1",
+   "map": "https://maps.app.goo.gl/sPKck5qCPKaxNdri7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:40~16:00"
+   ],
+   "sessions": [
+    [
+     "09:40",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "ca15945f9ae6",
+   "date": "2026-10-27",
+   "city": "台東区",
+   "slug": "taito",
+   "venue": "小島公園",
+   "address": "東京都台東区小島2-9",
+   "map": "https://maps.app.goo.gl/3s218YweEC151zLo7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007or8I&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:15~10:45"
+   ],
+   "sessions": [
+    [
+     "09:15",
+     "10:45"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "cf76daf29745",
+   "date": "2026-10-27",
+   "city": "福生市",
+   "slug": "fussa",
+   "venue": "福生市役所",
+   "address": "東京都福生市本町5",
+   "map": "https://maps.app.goo.gl/DfBPcterQUPj7WWC7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otUN&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:45",
+    "14:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:45"
+    ],
+    [
+     "14:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "c23ffb602197",
+   "date": "2026-10-28",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "東急大岡山駅前",
+   "address": "東京都大田区北千束3-27",
+   "map": "https://maps.app.goo.gl/NBDQJbeqPoZBUDeWA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ob1Q&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "6edfea565eed",
+   "date": "2026-10-29",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "大森西特別出張所",
+   "address": "東京都大田区大森西2-16-2",
+   "map": "https://maps.app.goo.gl/1MMGGX2RVsKMmV7n8",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "10:00~12:15",
+    "13:45~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:15"
+    ],
+    [
+     "13:45",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "c200cdfa838e",
+   "date": "2026-10-29",
+   "city": "府中市",
+   "slug": "fuchu",
+   "venue": "大國魂神社境内",
+   "address": "東京都府中市宮町3-1",
+   "map": "https://maps.app.goo.gl/nLaEVWNb9rqsGbe99",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007orud&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "956fe05a9cb0",
+   "date": "2026-10-30",
+   "city": "港区",
+   "slug": "minato",
+   "venue": "住友不動産(株)泉ガーデンタワー",
+   "address": "東京都港区六本木1-6-1泉ガーデンタワー",
+   "map": "https://maps.app.goo.gl/DtEZPsHUq7LuWnfz9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pACG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~11:00",
+    "12:30~16:00"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:00"
+    ],
+    [
+     "12:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "0feeb279c4ab",
+   "date": "2026-10-30",
+   "city": "調布市",
+   "slug": "chofu",
+   "venue": "興和株式会社 調布工場",
+   "address": "東京都調布市調布ケ丘3-3-1",
+   "map": "https://maps.app.goo.gl/9jqCcR5uYsQsEs1T7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ocx9&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "3372dc6616fc",
+   "date": "2026-10-31",
+   "city": "八王子市",
+   "slug": "hachioji",
+   "venue": "ぐりーんうぉーく多摩",
+   "address": "東京都八王子市別所2-56",
+   "map": "https://maps.app.goo.gl/mzLTLt2G3BfzJ2Cp7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007olig&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "2a4ab60fec42",
+   "date": "2026-10-31",
+   "city": "八王子市",
+   "slug": "hachioji",
+   "venue": "イーアス高尾駐車場",
+   "address": "東京都八王子市東浅川町550-1",
+   "map": "https://maps.app.goo.gl/3Ua4wh5cuoxNqikXA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000Cojw1&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "11:30~16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "92059f4172a7",
+   "date": "2026-10-31",
+   "city": "多摩市",
+   "slug": "tama",
+   "venue": "東京医療学院大学",
+   "address": "東京都多摩市落合4-11",
+   "map": "https://maps.app.goo.gl/LZmL8M7WjRmN4R3V7",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "11:30~16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "1822ac0064c1",
+   "date": "2026-10-31",
+   "city": "杉並区",
+   "slug": "suginami",
+   "venue": "荻窪タウンセブン 8階タウンセブンホール",
+   "address": "東京都杉並区上荻1-9-1",
+   "map": "https://maps.app.goo.gl/6WFuJqpehZfsrCCy5",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000002Q852&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "aac8ec17fdc0",
+   "date": "2026-10-31",
+   "city": "板橋区",
+   "slug": "itabashi",
+   "venue": "東京都立板橋看護専門学校",
+   "address": "東京都板橋区栄町34-1",
+   "map": "https://maps.app.goo.gl/wPTSRwdJRafSTT9S9",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "9:30~13:30"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "13:30"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "4163b4799bb7",
+   "date": "2026-10-31",
+   "city": "渋谷区",
+   "slug": "shibuya",
+   "venue": "SBPIF代々木公園B地区",
+   "address": "東京都渋谷区神南2-3",
+   "map": "https://maps.app.goo.gl/wFRuH7tTjZDJVAPa7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007osxX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~16:00"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "4163b4799bb7-2",
+   "date": "2026-10-31",
+   "city": "渋谷区",
+   "slug": "shibuya",
+   "venue": "SBPIF代々木公園B地区",
+   "address": "東京都渋谷区神南2-3",
+   "map": "https://maps.app.goo.gl/wFRuH7tTjZDJVAPa7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007osxX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:30~16:00"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "9efcc3d54865",
+   "date": "2026-10-31",
+   "city": "葛飾区",
+   "slug": "katsushika",
+   "venue": "カナマチぷらっと",
+   "address": "東京都葛飾区金町6-3-6",
+   "map": "https://maps.app.goo.gl/RDM2WrpXMjRSeqwG7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000003OiGP&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "7fa394b77dd9",
+   "date": "2026-10-31",
+   "city": "足立区",
+   "slug": "adachi",
+   "venue": "北千住駅東口ロータリー",
+   "address": "東京都足立区千住旭町4-6",
+   "map": "https://maps.app.goo.gl/CYYyaQ2gVVVyJcy56",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000ImrL&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-09T14:24:47+09:00"
+  }
+ ]
+}

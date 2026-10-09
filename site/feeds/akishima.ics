@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 昭島市
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0cebc3a7a5fc@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261009T020000Z
+DTEND:20261009T063000Z
+SUMMARY:献血バス 東日本成人矯正医療センター
+LOCATION:東京都昭島市もくせいの杜2-1-9
+DESCRIPTION:受付: 11:00‐15:30\n地図: https://maps.app.goo.gl/Yze8R1Uf
+ dMn4LZoe8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.
+ html
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:08bbad010dd0@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261015T003000Z
+DTEND:20261015T023000Z
+SUMMARY:献血バス 昭島病院
+LOCATION:東京都昭島市中神町1260
+DESCRIPTION:受付: 9:30~11:30\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007osff&sy=2026&sm
+ =10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/71QFWBkNLCzC
+ YcFX9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07osff&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:0540682cdca9@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261021T010000Z
+DTEND:20261021T070000Z
+SUMMARY:献血バス 昭島市役所
+LOCATION:東京都昭島市田中町1-17-1
+DESCRIPTION:受付: 10:00~11:45 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ osfW&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/zEHxVFAVaNpRqiWaA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07osfW&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

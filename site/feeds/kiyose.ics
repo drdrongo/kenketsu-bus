@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 清瀬市
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:af022a4178bc@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261011T003000Z
+DTEND:20261011T060000Z
+SUMMARY:献血バス 国立看護大学校
+LOCATION:東京都清瀬市梅園1-2-1
+DESCRIPTION:受付: 9:30~12:00 / 13:30~15:00\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ xXw&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.g
+ l/Zvniqs1veWmz3Wkv8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oxXw&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:5457913efa18@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261011T010000Z
+DTEND:20261011T073000Z
+SUMMARY:献血バス 明治薬科大学
+LOCATION:東京都清瀬市野塩2-522-1
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:30\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oqNx&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/7a6qwAWZCg4uVD1KA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oqNx&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:01b2f9038f2e@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261022T053000Z
+DTEND:20261022T073000Z
+SUMMARY:献血バス 清瀬市役所
+LOCATION:東京都清瀬市中里5-842
+DESCRIPTION:受付: 14:30~16:30\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007occK&sy=2026&s
+ m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/6qm6XN9pQZ9
+ 2Q9eW8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07occK&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

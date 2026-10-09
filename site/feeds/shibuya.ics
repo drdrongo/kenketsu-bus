@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 渋谷区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0ea0a998f761@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261011T013000Z
+DTEND:20261011T060000Z
+SUMMARY:献血バス 東京体育館
+LOCATION:東京都渋谷区千駄ケ谷1-17-1
+DESCRIPTION:受付: 10:30~15:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaqt&sy=2026&s
+ m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/epmnS9btCFE
+ nq6Uq5\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oaqt&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:4163b4799bb7@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261031T003000Z
+DTEND:20261031T070000Z
+SUMMARY:献血バス SBPIF代々木公園B地区
+LOCATION:東京都渋谷区神南2-3
+DESCRIPTION:受付: 9:30~16:00\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007osxX&sy=2026&sm
+ =10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/wFRuH7tTjZDJ
+ VAPa7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07osxX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:4163b4799bb7-2@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261031T003000Z
+DTEND:20261031T070000Z
+SUMMARY:献血バス SBPIF代々木公園B地区
+LOCATION:東京都渋谷区神南2-3
+DESCRIPTION:受付: 9:30~16:00\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007osxX&sy=2026&sm
+ =10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/wFRuH7tTjZDJ
+ VAPa7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07osxX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//drdrongo//kenketsu-bus//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:献血バス 練馬区
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:09ae8c5c68b1@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261010T011500Z
+DTEND:20261010T051500Z
+SUMMARY:献血バス 光が丘区民センター横(ふれあいの径)
+LOCATION:東京都練馬区光が丘2-10
+DESCRIPTION:受付: 10:15~14:15\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007orvx&sy=2026&s
+ m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/BeEmaHUcAd5
+ iLQ1y5\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07orvx&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:0dd253684c1c@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261017T010000Z
+DTEND:20261017T070000Z
+SUMMARY:献血バス 練馬駅北口バスロータリー
+LOCATION:東京都練馬区練馬1-3-5練馬駅北口バスロータリー
+ 内路上
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000
+ J1G8&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/5BXosUDV63h3ZeUJA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
+ 00J1G8&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:a402b3e2ad4a@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261020T040000Z
+DTEND:20261020T073000Z
+SUMMARY:献血バス 日本大学芸術学部
+LOCATION:東京都練馬区旭丘2-42-1
+DESCRIPTION:受付: 13:00~16:30\n地図: https://maps.app.goo.gl/bEhpQ38Ti3
+ wPFXHGA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:9f56bb70ec50@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261021T040000Z
+DTEND:20261021T073000Z
+SUMMARY:献血バス 日本大学芸術学部
+LOCATION:東京都練馬区旭丘2-42-1
+DESCRIPTION:受付: 13:00~16:30\n地図: https://maps.app.goo.gl/bEhpQ38Ti3
+ wPFXHGA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:80853c353fa4@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261023T010000Z
+DTEND:20261023T070000Z
+SUMMARY:献血バス JA東京あおば石神井支店
+LOCATION:東京都練馬区石神井町5-11-7
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ pB0u&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/nVY1u7kzkeAruHgCA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pB0u&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:8b6e54df0c0d@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261024T003000Z
+DTEND:20261024T063000Z
+SUMMARY:献血バス 光が丘公園 けやき広場
+LOCATION:東京都練馬区光が丘4-1-1
+DESCRIPTION:受付: 9:30~11:30 / 13:00~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ ru7&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.g
+ l/s6YQQ8onSRY76ycS7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oru7&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff4b32c2d09@kenketsu-bus
+DTSTAMP:20261009T052447Z
+DTSTART:20261025T010000Z
+DTEND:20261025T070000Z
+SUMMARY:献血バス 石神井公園駅中央口
+LOCATION:東京都練馬区石神井町3-23-10
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000F
+ vNb5&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
+ gl/dBvPKV67sPMDxKYz9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 0FvNb5&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+END:VCALENDAR
