@@ -23,18 +23,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ob1Q&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:83822b52372b@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261010T020000Z
-DTEND:20261010T063000Z
-SUMMARY:献血バス 雪ヶ谷八幡神社 ※中止になりました
-LOCATION:東京都大田区東雪谷2-25-1
-DESCRIPTION:受付: 11:00~15:30\n地図: https://maps.app.goo.gl/tRDSsvk36r
- HH2Kcv6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
- ml
-URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
-END:VEVENT
-BEGIN:VEVENT
 UID:aa782e8b7114@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261011T010000Z
