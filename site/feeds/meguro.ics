@@ -8,22 +8,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:c4b09a311ff0@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261011T003000Z
-DTEND:20261011T063000Z
-SUMMARY:献血バス 目黒区民センター
-LOCATION:東京都目黒区目黒2-4-36
-DESCRIPTION:受付: 9:30~12:30 / 14:00~15:30\nWeb予約 (ラブラッド): 
- https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=
- prefecture&placeId=a0p0K000007pAtb&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\
- n地図: https://maps.app.goo.gl/nJPWWJSC2RbFMy3p6\n出典: https://www.bs
- .jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
-URL:https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
- om=prefecture&placeId=a0p0K000007pAtb&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=
- 30
-END:VEVENT
-BEGIN:VEVENT
 UID:6e02f9a249d5@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261016T010000Z

@@ -8,21 +8,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:d6c7285c9078@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261011T010000Z
-DTEND:20261011T070000Z
-SUMMARY:献血バス あだち区民まつり(虹の広場)
-LOCATION:東京都足立区千住5丁目
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- oqPy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/i4fjAyg5hjurobbF6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07oqPy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:ad0047e2ff81@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261012T010000Z

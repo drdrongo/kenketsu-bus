@@ -8,21 +8,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:d8d387438c63@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261011T023000Z
-DTEND:20261011T070000Z
-SUMMARY:献血バス 片柳学園(紅華祭)
-LOCATION:東京都八王子市片倉町1404-1
-DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
- enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PwPg&sy=2026&s
- m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/EUcCP8RGPwv
- Z5ek19\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
- l
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh0000
- 00PwPg&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:2b76ba3c8396@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261012T023000Z
