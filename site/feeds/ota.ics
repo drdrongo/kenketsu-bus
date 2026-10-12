@@ -23,21 +23,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ob1Q&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:15b0c883d256@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261012T010000Z
-DTEND:20261012T070000Z
-SUMMARY:献血バス 蒲田駅西口
-LOCATION:東京都大田区西蒲田7-68先
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- obOv&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/oZszRvU6tvvfYQTg9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07obOv&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:86e7dd23957a@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261017T020000Z

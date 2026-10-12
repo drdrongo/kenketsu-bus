@@ -8,21 +8,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:f8509f31e0cf@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261012T010000Z
-DTEND:20261012T070000Z
-SUMMARY:献血バス イオンモール多摩平の森
-LOCATION:東京都日野市多摩平2-4-1
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- ovSf&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/rwANXK358otarHCt6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07ovSf&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:73645ed879e6@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261014T003000Z

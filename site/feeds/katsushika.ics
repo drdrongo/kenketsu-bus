@@ -8,21 +8,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:53bee5602185@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261012T010000Z
-DTEND:20261012T070000Z
-SUMMARY:献血バス JR新小岩駅
-LOCATION:東京都葛飾区新小岩1-47
-DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- ovZk&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/DVy6Y4XPconMQxVy5\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07ovZk&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:c98b1fa01fa9@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261023T003000Z

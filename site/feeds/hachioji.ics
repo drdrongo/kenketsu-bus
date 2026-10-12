@@ -8,21 +8,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:2b76ba3c8396@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261012T023000Z
-DTEND:20261012T070000Z
-SUMMARY:献血バス 京王線南大沢駅
-LOCATION:東京都八王子市南大沢2-29
-DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
- enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqRe&sy=2026&s
- m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/FS4gkFB3Byg
- gntQM8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
- l
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07oqRe&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:bacc5a7db047@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261013T033000Z
