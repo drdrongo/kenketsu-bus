@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-10-13T04:01:21+09:00",
+ "updated_at": "2026-10-21T23:32:36+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -1552,6 +1552,32 @@
     ]
    ],
    "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "7bf734a89e92",
+   "date": "2026-10-23",
+   "city": "北区",
+   "slug": "kita",
+   "venue": "JR赤羽駅東口",
+   "address": "東京都北区赤羽1-1-1",
+   "map": "https://maps.app.goo.gl/mnTxUJ5csBryFSrQ7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oeDS&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "10:30~11:30",
+    "13:00~16:30"
+   ],
+   "sessions": [
+    [
+     "10:30",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-21T23:32:36+09:00"
   },
   {
    "id": "fc0810567d50",
