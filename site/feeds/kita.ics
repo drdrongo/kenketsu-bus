@@ -51,4 +51,49 @@ DESCRIPTION:受付: 9:30~11:30\nWeb予約 (ラブラッド): https://www.ke
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07oeDS&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
+BEGIN:VEVENT
+UID:a346a047f889@kenketsu-bus
+DTSTAMP:20261023T235130Z
+DTSTART:20261103T010000Z
+DTEND:20261103T070000Z
+SUMMARY:献血バス JR赤羽駅東口
+LOCATION:東京都北区赤羽1-1-1
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oeDS&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/mnTxUJ5csBryFSrQ7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oeDS&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:30b8094b55b0@kenketsu-bus
+DTSTAMP:20261023T235130Z
+DTSTART:20261114T010000Z
+DTEND:20261114T070000Z
+SUMMARY:献血バス JR赤羽駅東口
+LOCATION:東京都北区赤羽1-1-1
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oeDS&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/mnTxUJ5csBryFSrQ7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oeDS&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:9039b855bab4@kenketsu-bus
+DTSTAMP:20261023T235130Z
+DTSTART:20261123T010000Z
+DTEND:20261123T070000Z
+SUMMARY:献血バス JR赤羽駅東口
+LOCATION:東京都北区赤羽1-1-1
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oeDS&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/mnTxUJ5csBryFSrQ7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oeDS&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR

@@ -37,4 +37,34 @@ DESCRIPTION:受付: 10:00~12:30 / 14:00~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07otfy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
+BEGIN:VEVENT
+UID:7d354745b765@kenketsu-bus
+DTSTAMP:20261023T235130Z
+DTSTART:20261115T010000Z
+DTEND:20261115T070000Z
+SUMMARY:献血バス 都電町屋駅横
+LOCATION:東京都荒川区荒川7-49-1
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ouVl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/8XV1KogLtTPT3hem7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ouVl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:96f7f42423a5@kenketsu-bus
+DTSTAMP:20261023T235130Z
+DTSTART:20261119T010000Z
+DTEND:20261119T070000Z
+SUMMARY:献血バス 熊野前商店街ACT21横 広場
+LOCATION:東京都荒川区東尾久5-9-3
+DESCRIPTION:受付: 10:00~11:15 / 12:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ pBLl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/Vh9hhywvUpRrEPoC7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pBLl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR
