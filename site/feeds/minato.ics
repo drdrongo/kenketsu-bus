@@ -52,4 +52,44 @@ DESCRIPTION:受付: 9:30~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07pACG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
+BEGIN:VEVENT
+UID:88fed436ce52@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261127T050000Z
+DTEND:20261127T070000Z
+SUMMARY:献血バス 東京都中央卸売市場 食肉市場 センター
+ ビル西側1階ホール
+LOCATION:東京都港区港南2-7-19
+DESCRIPTION:受付: 14:00~16:00\n地図: https://maps.app.goo.gl/Ej9k4BighG
+ Uohmft6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:9adbfd30ef06@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261127T003000Z
+DTEND:20261127T020000Z
+SUMMARY:献血バス 虎ノ門ツインビルディング
+LOCATION:東京都港区虎ノ門2-10-1
+DESCRIPTION:受付: 9:30~11:00\n地図: https://maps.app.goo.gl/mzLTLt2G3Bf
+ zJ2Cp7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cab0a5653ae7@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261129T003000Z
+DTEND:20261129T070000Z
+SUMMARY:献血バス 天理教本芝大教会
+LOCATION:東京都港区高輪1-22-17
+DESCRIPTION:受付: 9:30~11:45 / 13:30~16:00\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ aU2&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
+ l/s4vrptEizoT3edfe7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oaU2&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR

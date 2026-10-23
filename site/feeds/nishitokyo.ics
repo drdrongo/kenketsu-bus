@@ -7,4 +7,64 @@ X-WR-CALNAME:献血バス 西東京市
 X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d19bbf32c878@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261114T010000Z
+DTEND:20261114T070000Z
+SUMMARY:献血バス 谷戸小学校駐車場(西東京市民まつり)
+LOCATION:東京都西東京市緑町3-1-1
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/mnTxUJ5csBryFSrQ7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:2d52dd486e31@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261115T010000Z
+DTEND:20261115T070000Z
+SUMMARY:献血バス 田無駅北口(Aビル裏駐車場)
+LOCATION:東京都西東京市田無町4-2-13
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ odMX&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/6i9dMMwFBBEgbKXk9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07odMX&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:123042e82655@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261115T001500Z
+DTEND:20261115T063000Z
+SUMMARY:献血バス 谷戸小学校駐車場(西東京市民まつり)
+LOCATION:東京都西東京市緑町3-1-1
+DESCRIPTION:受付: 9:15~11:00 / 12:30~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p
+ AkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
+ l/Ny54jSocJgKQ2vGE8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:f84198dd8799@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261126T003000Z
+DTEND:20261126T070000Z
+SUMMARY:献血バス 西東京中央総合病院
+LOCATION:東京都西東京市芝久保町2-4-19
+DESCRIPTION:受付: 9:30~11:30 / 13:00~16:00\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p
+ 7ta&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
+ l/tKGTZ4jjUSp41jzG7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07p7ta&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR

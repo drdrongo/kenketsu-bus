@@ -37,4 +37,107 @@ DESCRIPTION:受付: 9:15~10:45\nWeb予約 (ラブラッド): https://www.ke
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07or8I&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
+BEGIN:VEVENT
+UID:82a4bb6596df@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261104T010000Z
+DTEND:20261104T070000Z
+SUMMARY:献血バス 永寿総合病院
+LOCATION:東京都台東区東上野2-23-16
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ou7o&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/gLeedWAvHq5vWLwk6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ou7o&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:780c1f9d9a48@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261113T003000Z
+DTEND:20261113T023000Z
+SUMMARY:献血バス 東京上野税務署
+LOCATION:東京都台東区池之端1-2-22上野合同庁舎
+DESCRIPTION:受付: 9:30~11:30\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7Xl&sy=2026&sm
+ =11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/iKUqhYmbffdo
+ x3BbA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07p7Xl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:2254274e2a29@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261114T010000Z
+DTEND:20261114T070000Z
+SUMMARY:献血バス 台東区立 松葉小学校
+LOCATION:東京都台東区松が谷1-13-6
+DESCRIPTION:受付: 10:00~12:30 / 14:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oqQU&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/voYV7txPzCov27TL7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oqQU&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:396d81d3b3bf@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261114T010000Z
+DTEND:20261114T070000Z
+SUMMARY:献血バス 田原小学校
+LOCATION:東京都台東区雷門1-5-15
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oqQY&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/9LPDnLcfdV3KSEyZ6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oqQY&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:1ec8f81aeb4e@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261120T010000Z
+DTEND:20261120T070000Z
+SUMMARY:献血バス 台東保健所 3階大会議室
+LOCATION:東京都台東区東上野4-22-8
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000
+ PCyL&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/EoDQJehErtQZpTJw8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh0000
+ 00PCyL&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:5c81b4281c1b@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261121T023000Z
+DTEND:20261121T070000Z
+SUMMARY:献血バス 上野恩賜公園
+LOCATION:東京都台東区上野公園5-20
+DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZs&sy=2026&s
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/mEoHmkpVEMx
+ 6UMBf6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ovZs&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:2d6e09fb639b@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261123T000000Z
+DTEND:20261123T043000Z
+SUMMARY:献血バス 浅草神社
+LOCATION:東京都台東区浅草2-3-1
+DESCRIPTION:受付: 9:00~13:30\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000IwrM&sy=2026&sm
+ =11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/mBVmVNckQty4
+ jjX66\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
+ 00IwrM&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR

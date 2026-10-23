@@ -7,4 +7,73 @@ X-WR-CALNAME:献血バス 千代田区
 X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:eac704f2e632@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261109T010000Z
+DTEND:20261109T073000Z
+SUMMARY:献血バス ワテラス広場
+LOCATION:東京都千代田区神田淡路町2-101
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:30\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000
+ PwQ1&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/UFYoDQxBUPLas9W76\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh0000
+ 00PwQ1&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:61d75e53d183@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261109T030000Z
+DTEND:20261109T073000Z
+SUMMARY:献血バス 日本大学経済学部 本館横
+LOCATION:東京都千代田区神田三崎町1-3-2
+DESCRIPTION:受付: 12:00~16:30\n地図: https://maps.app.goo.gl/46k8SbpPJe
+ U2SFaE6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:f10c6a481f50@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261110T030000Z
+DTEND:20261110T073000Z
+SUMMARY:献血バス 日本大学経済学部 本館横
+LOCATION:東京都千代田区神田三崎町1-3-2
+DESCRIPTION:受付: 12:00~16:30\n地図: https://maps.app.goo.gl/nLaEVWNb9r
+ qsGbe99\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:21aa96e293c7@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261116T010000Z
+DTEND:20261116T070000Z
+SUMMARY:献血バス 神田税務署
+LOCATION:東京都千代田区神田錦町3-3
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oabl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/UngcpYJ8BH8R1cNp8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oabl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:ea2ffa5e8b1b@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261117T010000Z
+DTEND:20261117T070000Z
+SUMMARY:献血バス 神田税務署
+LOCATION:東京都千代田区神田錦町3-3
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oabl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/ZxHgNz1TAK5FQvT97\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oabl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR

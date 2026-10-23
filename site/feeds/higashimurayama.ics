@@ -7,4 +7,19 @@ X-WR-CALNAME:献血バス 東村山市
 X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6756edad58ac@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261103T003000Z
+DTEND:20261103T060000Z
+SUMMARY:献血バス 明治学院東村山高等学校
+LOCATION:東京都東村山市富士見町1-12-3
+DESCRIPTION:受付: 9:30~11:30 / 13:00~15:00\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000P
+ wTx&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
+ l/mnTxUJ5csBryFSrQ7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh0000
+ 00PwTx&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR

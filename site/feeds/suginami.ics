@@ -38,4 +38,34 @@ DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
  02Q852&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
+BEGIN:VEVENT
+UID:cc0761835ba4@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261104T010000Z
+DTEND:20261104T070000Z
+SUMMARY:献血バス 杉並区役所
+LOCATION:東京都杉並区阿佐谷南1-15-1
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ okWA&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/7S9iCSeW1heRNPWZ9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07okWA&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:7e8cbe97c44a@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261107T010000Z
+DTEND:20261107T050000Z
+SUMMARY:献血バス 桃井原っぱ公園(杉並フェスタ)
+LOCATION:東京都杉並区桃井3-8-1
+DESCRIPTION:受付: 10:00~14:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007omMg&sy=2026&s
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/kSBdfPvtNPW
+ Zeptq7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07omMg&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR

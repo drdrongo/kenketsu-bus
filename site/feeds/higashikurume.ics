@@ -7,4 +7,46 @@ X-WR-CALNAME:献血バス 東久留米市
 X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0b588ae9ffd3@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261106T030000Z
+DTEND:20261106T073000Z
+SUMMARY:献血バス クリスチャン・アカデミー
+LOCATION:東京都東久留米市新川町1-2-14
+DESCRIPTION:受付: 12:00‐16:30\n地図: https://maps.app.goo.gl/avXTk541
+ ZopXCf8t9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.
+ html
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c97e4b103a78@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261121T010000Z
+DTEND:20261121T070000Z
+SUMMARY:献血バス イトーヨーカドー東久留米店
+LOCATION:東京都東久留米市本町3-8-1
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ orvn&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/PmbFaNJjAyRv2zjV6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07orvn&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:2699314810bd@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261123T012000Z
+DTEND:20261123T073000Z
+SUMMARY:献血バス イオンモール東久留米
+LOCATION:東京都東久留米市南沢5-17-62
+DESCRIPTION:受付: 10:20~12:30 / 14:00‐16:30\nWeb予約 (ラブラッド
+ ): https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pAYz&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.go
+ o.gl/kaNQnM9h5T2vrNPG6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/
+ m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pAYz&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR

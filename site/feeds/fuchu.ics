@@ -64,4 +64,75 @@ DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07orud&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
+BEGIN:VEVENT
+UID:55b472f5b10c@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261101T004000Z
+DTEND:20261101T070000Z
+SUMMARY:献血バス 府中運転免許試験場
+LOCATION:東京都府中市多磨町3-1-1
+DESCRIPTION:受付: 9:40~16:00\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm
+ =11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/K2GMW6uRQ9zD
+ g5Dq7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ojmQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:55c233f19369@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261104T004000Z
+DTEND:20261104T030000Z
+SUMMARY:献血バス 府中運転免許試験場
+LOCATION:東京都府中市多磨町3-1-1
+DESCRIPTION:受付: 9:40~12:00\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm
+ =11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/EuAxB5dACdwf
+ Q1BTA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ojmQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:2902f7eac53b@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261108T004000Z
+DTEND:20261108T070000Z
+SUMMARY:献血バス 府中運転免許試験場
+LOCATION:東京都府中市多磨町3-1-1
+DESCRIPTION:受付: 9:40~16:00\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm
+ =11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/7c8TXaCHTxc9
+ 43Lc6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ojmQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:df6706f46806@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261110T010000Z
+DTEND:20261110T070000Z
+SUMMARY:献血バス 大國魂神社境内
+LOCATION:東京都府中市宮町3-1
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ orud&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/9PaFHGjWBpQQuVX5A\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07orud&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:f7ea60eb85f4@kenketsu-bus
+DTSTAMP:20261023T141343Z
+DTSTART:20261122T004000Z
+DTEND:20261122T070000Z
+SUMMARY:献血バス 府中運転免許試験場
+LOCATION:東京都府中市多磨町3-1-1
+DESCRIPTION:受付: 9:40~16:00\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm
+ =11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/rwANXK358ota
+ rHCt6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ojmQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR
