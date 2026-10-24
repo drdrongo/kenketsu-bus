@@ -38,21 +38,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07pAP6&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:ce3c27ff18fa@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261024T004500Z
-DTEND:20261024T070000Z
-SUMMARY:献血バス スーパーアルプス楢原店
-LOCATION:東京都八王子市楢原町1818-15
-DESCRIPTION:受付: 9:45~11:30 / 13:00~16:00\nWeb予約 (ラブラッド): 
- https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000P
- wQw&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.g
- l/mhoTsfPntSoVSFXc6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
- 03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh0000
- 00PwQw&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:6761ec262ce4@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261025T023000Z

@@ -38,20 +38,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07oeDS&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:2e5c6809a551@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261024T003000Z
-DTEND:20261024T023000Z
-SUMMARY:献血バス JR赤羽駅東口
-LOCATION:東京都北区赤羽1-1-1
-DESCRIPTION:受付: 9:30~11:30\nWeb予約 (ラブラッド): https://www.ke
- nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oeDS&sy=2026&sm
- =10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/mnTxUJ5csBry
- FSrQ7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07oeDS&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:a346a047f889@kenketsu-bus
 DTSTAMP:20261023T235130Z
 DTSTART:20261103T010000Z

@@ -23,21 +23,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07owGX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:25fdedcb49e5@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261024T010000Z
-DTEND:20261024T070000Z
-SUMMARY:献血バス イオン板橋店 立体駐車場入口前
-LOCATION:東京都板橋区徳丸2-6-1
-DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- ozTe&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/B4SVaFSpPNCJWLQy8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07ozTe&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:aac8ec17fdc0@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261031T003000Z

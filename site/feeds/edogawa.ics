@@ -23,21 +23,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07or7v&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:f69dba84ca9f@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261024T010000Z
-DTEND:20261024T070000Z
-SUMMARY:献血バス 都営新宿線船堀駅北口広場
-LOCATION:東京都江戸川区船堀3-6
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- ovZg&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/mEoHmkpVEMx6UMBf6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07ovZg&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:e3aa647a5227@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261101T003000Z

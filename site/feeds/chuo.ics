@@ -38,21 +38,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
  04itsn&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:5dab914a61bc@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261024T010000Z
-DTEND:20261024T070000Z
-SUMMARY:献血バス 月島第二児童公園
-LOCATION:東京都中央区勝どき1-9-8
-DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000
- JqZE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/ePvY1gebJfwuK2ET7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
- 00JqZE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:65be6c9ae4d5@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261106T023000Z
