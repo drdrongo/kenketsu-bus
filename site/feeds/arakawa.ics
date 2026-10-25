@@ -23,21 +23,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ope3&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:fbb073e35eaf@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261025T010000Z
-DTEND:20261025T070000Z
-SUMMARY:献血バス LaLaテラス南千住
-LOCATION:東京都荒川区南千住4-7-2
-DESCRIPTION:受付: 10:00~12:30 / 14:00~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- otfy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/fTKyTt4ssnqhjdpM9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07otfy&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:7d354745b765@kenketsu-bus
 DTSTAMP:20261023T235130Z
 DTSTART:20261115T010000Z
