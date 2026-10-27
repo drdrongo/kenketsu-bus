@@ -928,6 +928,21 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07pACG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
+UID:5e4e6bd126d7@kenketsu-bus
+DTSTAMP:20261027T152026Z
+DTSTART:20261030T010000Z
+DTEND:20261030T070000Z
+SUMMARY:献血バス JR新小岩駅
+LOCATION:東京都葛飾区新小岩1-47
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/vUFHcKVRhEfb1DSF9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
 UID:0feeb279c4ab@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261030T010000Z
@@ -2276,6 +2291,21 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07owGS&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
+UID:3296c981883a@kenketsu-bus
+DTSTAMP:20261027T152026Z
+DTSTART:20261118T050000Z
+DTEND:20261118T070000Z
+SUMMARY:献血バス 東西線西葛西駅 南口
+LOCATION:東京都江戸川区西葛西6-14
+DESCRIPTION:受付: 14:00-16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZh&sy=2026&s
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/szhuUKSYt1t
+ uyTWq5\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ovZh&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
 UID:6342a27a7d72@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261118T010000Z
@@ -2910,10 +2940,10 @@ BEGIN:VEVENT
 UID:9adbfd30ef06@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261127T003000Z
-DTEND:20261127T020000Z
+DTEND:20261127T023000Z
 SUMMARY:献血バス 虎ノ門ツインビルディング
 LOCATION:東京都港区虎ノ門2-10-1
-DESCRIPTION:受付: 9:30~11:00\n地図: https://maps.app.goo.gl/mzLTLt2G3Bf
+DESCRIPTION:受付: 9:30~11:30\n地図: https://maps.app.goo.gl/mzLTLt2G3Bf
  zJ2Cp7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
  l
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html

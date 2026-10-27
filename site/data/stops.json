@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-10-27T09:25:45+09:00",
+ "updated_at": "2026-10-28T00:20:26+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -1750,6 +1750,32 @@
     ]
    ],
    "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "5e4e6bd126d7",
+   "date": "2026-10-30",
+   "city": "葛飾区",
+   "slug": "katsushika",
+   "venue": "JR新小岩駅",
+   "address": "東京都葛飾区新小岩1-47",
+   "map": "https://maps.app.goo.gl/vUFHcKVRhEfb1DSF9",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "notes": [],
+   "hours": [
+    "10:00~12:00",
+    "13:30~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "12:00"
+    ],
+    [
+     "13:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-28T00:20:26+09:00"
   },
   {
    "id": "0feeb279c4ab",
@@ -3984,6 +4010,27 @@
    "first_seen": "2026-10-23T23:13:43+09:00"
   },
   {
+   "id": "3296c981883a",
+   "date": "2026-11-18",
+   "city": "江戸川区",
+   "slug": "edogawa",
+   "venue": "東西線西葛西駅 南口",
+   "address": "東京都江戸川区西葛西6-14",
+   "map": "https://maps.app.goo.gl/szhuUKSYt1tuyTWq5",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZh&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "notes": [],
+   "hours": [
+    "14:00-16:00"
+   ],
+   "sessions": [
+    [
+     "14:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-28T00:20:26+09:00"
+  },
+  {
    "id": "6342a27a7d72",
    "date": "2026-11-18",
    "city": "練馬区",
@@ -5041,12 +5088,12 @@
    "reserve": null,
    "notes": [],
    "hours": [
-    "9:30~11:00"
+    "9:30~11:30"
    ],
    "sessions": [
     [
      "09:30",
-     "11:00"
+     "11:30"
     ]
    ],
    "first_seen": "2026-10-23T23:13:43+09:00"

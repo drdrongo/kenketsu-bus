@@ -69,10 +69,10 @@ BEGIN:VEVENT
 UID:9adbfd30ef06@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261127T003000Z
-DTEND:20261127T020000Z
+DTEND:20261127T023000Z
 SUMMARY:献血バス 虎ノ門ツインビルディング
 LOCATION:東京都港区虎ノ門2-10-1
-DESCRIPTION:受付: 9:30~11:00\n地図: https://maps.app.goo.gl/mzLTLt2G3Bf
+DESCRIPTION:受付: 9:30~11:30\n地図: https://maps.app.goo.gl/mzLTLt2G3Bf
  zJ2Cp7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
  l
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html

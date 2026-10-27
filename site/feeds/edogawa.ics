@@ -130,6 +130,21 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07olMl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
+UID:3296c981883a@kenketsu-bus
+DTSTAMP:20261027T152026Z
+DTSTART:20261118T050000Z
+DTEND:20261118T070000Z
+SUMMARY:献血バス 東西線西葛西駅 南口
+LOCATION:東京都江戸川区西葛西6-14
+DESCRIPTION:受付: 14:00-16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZh&sy=2026&s
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/szhuUKSYt1t
+ uyTWq5\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ovZh&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
 UID:18ec2428638b@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261121T010000Z
