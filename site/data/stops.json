@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-10-26T08:16:26+09:00",
+ "updated_at": "2026-10-27T09:25:45+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -2444,6 +2444,27 @@
     ]
    ],
    "first_seen": "2026-10-23T23:13:43+09:00"
+  },
+  {
+   "id": "3a5e94210464",
+   "date": "2026-11-05",
+   "city": "渋谷区",
+   "slug": "shibuya",
+   "venue": "実践女子大学",
+   "address": "東京都渋谷区東1-1-49",
+   "map": "https://maps.app.goo.gl/SiQKy8pbHy2Bddv87",
+   "reserve": null,
+   "notes": [],
+   "hours": [
+    "12:00~16:30"
+   ],
+   "sessions": [
+    [
+     "12:00",
+     "16:30"
+    ]
+   ],
+   "first_seen": "2026-10-27T09:25:45+09:00"
   },
   {
    "id": "6656cef676d9",

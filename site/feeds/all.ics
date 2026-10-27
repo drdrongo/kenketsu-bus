@@ -1350,6 +1350,18 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07okWA&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
+UID:3a5e94210464@kenketsu-bus
+DTSTAMP:20261027T002545Z
+DTSTART:20261105T030000Z
+DTEND:20261105T073000Z
+SUMMARY:献血バス 実践女子大学
+LOCATION:東京都渋谷区東1-1-49
+DESCRIPTION:受付: 12:00~16:30\n地図: https://maps.app.goo.gl/SiQKy8pbHy
+ 2Bddv87\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
 UID:6656cef676d9@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261106T010000Z
