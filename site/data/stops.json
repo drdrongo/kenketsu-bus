@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-10-28T09:31:33+09:00",
+ "updated_at": "2026-10-29T00:59:28+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -1724,6 +1724,32 @@
     ]
    ],
    "first_seen": "2026-10-09T14:24:47+09:00"
+  },
+  {
+   "id": "ae2a9222536e",
+   "date": "2026-10-29",
+   "city": "港区",
+   "slug": "minato",
+   "venue": "品川インターシティーC棟2階 エントランス",
+   "address": "東京都港区港南2-15-2",
+   "map": "https://maps.app.goo.gl/nVNftnR34sjNtKXv6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaV6&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
+   "notes": [],
+   "hours": [
+    "9:45~10:45",
+    "12:15~16:00"
+   ],
+   "sessions": [
+    [
+     "09:45",
+     "10:45"
+    ],
+    [
+     "12:15",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-29T00:59:28+09:00"
   },
   {
    "id": "956fe05a9cb0",
@@ -5109,27 +5135,6 @@
    "first_seen": "2026-10-23T23:13:43+09:00"
   },
   {
-   "id": "88fed436ce52",
-   "date": "2026-11-27",
-   "city": "港区",
-   "slug": "minato",
-   "venue": "東京都中央卸売市場 食肉市場 センタービル西側1階ホール",
-   "address": "東京都港区港南2-7-19",
-   "map": "https://maps.app.goo.gl/Ej9k4BighGUohmft6",
-   "reserve": null,
-   "notes": [],
-   "hours": [
-    "14:00~16:00"
-   ],
-   "sessions": [
-    [
-     "14:00",
-     "16:00"
-    ]
-   ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
-  },
-  {
    "id": "9adbfd30ef06",
    "date": "2026-11-27",
    "city": "港区",
@@ -5185,32 +5190,6 @@
    "address": "東京都八王子市狭間町1462-1",
    "map": "https://maps.app.goo.gl/cjDBAcKewvMe2Ru88",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pAP6&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
-   "notes": [],
-   "hours": [
-    "10:00~11:30",
-    "13:00~16:00"
-   ],
-   "sessions": [
-    [
-     "10:00",
-     "11:30"
-    ],
-    [
-     "13:00",
-     "16:00"
-    ]
-   ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
-  },
-  {
-   "id": "8dffa7640644",
-   "date": "2026-11-28",
-   "city": "品川区",
-   "slug": "shinagawa",
-   "venue": "東急武蔵小山駅前ロータリー",
-   "address": "東京都品川区小山3‐4‐8",
-   "map": "https://maps.app.goo.gl/3MocMxGEqyho3QCV9",
-   "reserve": null,
    "notes": [],
    "hours": [
     "10:00~11:30",

@@ -38,6 +38,22 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07okXq&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
+UID:ae2a9222536e@kenketsu-bus
+DTSTAMP:20261028T155928Z
+DTSTART:20261029T004500Z
+DTEND:20261029T070000Z
+SUMMARY:献血バス 品川インターシティーC棟2階 エントラン
+ ス
+LOCATION:東京都港区港南2-15-2
+DESCRIPTION:受付: 9:45~10:45 / 12:15~16:00\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ aV6&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.g
+ l/nVNftnR34sjNtKXv6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oaV6&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
+END:VEVENT
+BEGIN:VEVENT
 UID:956fe05a9cb0@kenketsu-bus
 DTSTAMP:20261009T052447Z
 DTSTART:20261030T003000Z
@@ -51,19 +67,6 @@ DESCRIPTION:受付: 9:30~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
  03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07pACG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
-UID:88fed436ce52@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261127T050000Z
-DTEND:20261127T070000Z
-SUMMARY:献血バス 東京都中央卸売市場 食肉市場 センター
- ビル西側1階ホール
-LOCATION:東京都港区港南2-7-19
-DESCRIPTION:受付: 14:00~16:00\n地図: https://maps.app.goo.gl/Ej9k4BighG
- Uohmft6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
- ml
-URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
 BEGIN:VEVENT
 UID:9adbfd30ef06@kenketsu-bus
