@@ -22,4 +22,52 @@ DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:44257e76b0a0@kenketsu-bus
+DTSTAMP:20261028T003133Z
+DTSTART:20261107T003000Z
+DTEND:20261107T070000Z
+SUMMARY:献血バス 池袋駅東口
+LOCATION:東京都豊島区南池袋1-29-1ISP地下入り口脇
+DESCRIPTION:受付: 9:30~11:30 / 13:00~16:00\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ wIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
+ l/voYV7txPzCov27TL7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:3c426ae47bd6@kenketsu-bus
+DTSTAMP:20261028T003133Z
+DTSTART:20261122T010000Z
+DTEND:20261122T070000Z
+SUMMARY:献血バス 巣鴨駅北口交番裏
+LOCATION:東京都豊島区巣鴨2-5 交番裏
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ovYK&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/CM8YbouA5gam9XvRA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ovYK&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:a90cec6a89d6@kenketsu-bus
+DTSTAMP:20261028T003133Z
+DTSTART:20261129T023000Z
+DTEND:20261129T070000Z
+SUMMARY:献血バス 池袋駅東口
+LOCATION:東京都豊島区南池袋1-29-1ISP地下入り口脇
+DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owIF&sy=2026&s
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.google.co.jp/maps?f=q&
+ hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E5%8D%97%E6
+ %B1%A0%E8%A2%8B%EF%BC%91%EF%BC%8D%EF%BC%92%EF%BC%99%EF%BC%8D%EF%BC%91%EF%B
+ C%A9%EF%BC%B3%EF%BC%B0%E5%9C%B0%E4%B8%8B%E5%85%A5%E3%82%8A%E5%8F%A3%E8%84%
+ 87%20%E6%B1%A0%E8%A2%8B%E9%A7%85%E6%9D%B1%E5%8F%A3&ie=UTF8&z=18\n出典: h
+ ttps://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
 END:VCALENDAR

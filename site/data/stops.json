@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-10-28T00:20:26+09:00",
+ "updated_at": "2026-10-28T09:31:33+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -2806,6 +2806,32 @@
    "first_seen": "2026-10-23T23:13:43+09:00"
   },
   {
+   "id": "44257e76b0a0",
+   "date": "2026-11-07",
+   "city": "豊島区",
+   "slug": "toshima",
+   "venue": "池袋駅東口",
+   "address": "東京都豊島区南池袋1-29-1ISP地下入り口脇",
+   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "notes": [],
+   "hours": [
+    "9:30~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "09:30",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-28T09:31:33+09:00"
+  },
+  {
    "id": "37138de5e8af",
    "date": "2026-11-08",
    "city": "八王子市",
@@ -4635,6 +4661,32 @@
    "first_seen": "2026-10-23T23:13:43+09:00"
   },
   {
+   "id": "3c426ae47bd6",
+   "date": "2026-11-22",
+   "city": "豊島区",
+   "slug": "toshima",
+   "venue": "巣鴨駅北口交番裏",
+   "address": "東京都豊島区巣鴨2-5 交番裏",
+   "map": "https://maps.app.goo.gl/CM8YbouA5gam9XvRA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovYK&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-28T09:31:33+09:00"
+  },
+  {
    "id": "f329cf62c1b0",
    "date": "2026-11-22",
    "city": "足立区",
@@ -5451,6 +5503,27 @@
     ]
    ],
    "first_seen": "2026-10-23T23:13:43+09:00"
+  },
+  {
+   "id": "a90cec6a89d6",
+   "date": "2026-11-29",
+   "city": "豊島区",
+   "slug": "toshima",
+   "venue": "池袋駅東口",
+   "address": "東京都豊島区南池袋1-29-1ISP地下入り口脇",
+   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E5%8D%97%E6%B1%A0%E8%A2%8B%EF%BC%91%EF%BC%8D%EF%BC%92%EF%BC%99%EF%BC%8D%EF%BC%91%EF%BC%A9%EF%BC%B3%EF%BC%B0%E5%9C%B0%E4%B8%8B%E5%85%A5%E3%82%8A%E5%8F%A3%E8%84%87%20%E6%B1%A0%E8%A2%8B%E9%A7%85%E6%9D%B1%E5%8F%A3&ie=UTF8&z=18",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "notes": [],
+   "hours": [
+    "11:30~16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-10-28T09:31:33+09:00"
   },
   {
    "id": "6369c7d6c299",
