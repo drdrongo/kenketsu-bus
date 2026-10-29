@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-10-29T00:59:28+09:00",
+ "updated_at": "2026-10-30T01:06:34+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -1785,7 +1785,7 @@
    "venue": "JR新小岩駅",
    "address": "東京都葛飾区新小岩1-47",
    "map": "https://maps.app.goo.gl/vUFHcKVRhEfb1DSF9",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "reserve": "https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=prefecture&placeId=a0p0K000007ovZk",
    "notes": [],
    "hours": [
     "10:00~12:00",
