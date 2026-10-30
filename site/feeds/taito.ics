@@ -96,16 +96,16 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh0000
  00PCyL&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
-UID:5c81b4281c1b@kenketsu-bus
-DTSTAMP:20261023T141343Z
+UID:c0aa93f1b106@kenketsu-bus
+DTSTAMP:20261030T005859Z
 DTSTART:20261121T023000Z
 DTEND:20261121T070000Z
-SUMMARY:献血バス 上野恩賜公園
+SUMMARY:献血バス 上野恩賜公園 ポケットパーク
 LOCATION:東京都台東区上野公園5-20
 DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
  enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZs&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/mEoHmkpVEMx
- 6UMBf6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/s2qBwyGvLFV
+ iYg1D7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
  l
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ovZs&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31

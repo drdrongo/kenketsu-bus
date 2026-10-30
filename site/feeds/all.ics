@@ -1125,8 +1125,8 @@ SUMMARY:献血バス 府中運転免許試験場
 LOCATION:東京都府中市多磨町3-1-1
 DESCRIPTION:受付: 9:40~16:00\nWeb予約 (ラブラッド): https://www.ke
  nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm
- =11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/K2GMW6uRQ9zD
- g5Dq7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+ =11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/sPKck5qCPKax
+ Ndri7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ojmQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
@@ -1201,8 +1201,8 @@ SUMMARY:献血バス 池袋駅東口
 LOCATION:東京都豊島区南池袋1-29-1ISP地下入り口脇
 DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
  enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owIF&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/DVy6Y4XPcon
- MQxVy5\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/K2GMW6uRQ9z
+ Dg5Dq7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
  l
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -1260,7 +1260,7 @@ DTEND:20261103T070000Z
 SUMMARY:献血バス 蒲田駅西口
 LOCATION:東京都大田区西蒲田7-68先
 DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\n地図: https://maps.app.goo
- .gl/11xoYwmZJNJD8g51A\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m
+ .gl/oZszRvU6tvvfYQTg9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m
  1_03_kenbus.html
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
@@ -1289,7 +1289,7 @@ LOCATION:東京都江戸川区中葛西5-43-11
 DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  ovZi&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/pVG2Bhx9DPUhrL8j7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ gl/vUFHcKVRhEfb1DSF9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
  _03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ovZi&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -1304,7 +1304,7 @@ LOCATION:東京都葛飾区新小岩1-47
 DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/vUFHcKVRhEfb1DSF9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ gl/DVy6Y4XPconMQxVy5\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
  _03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -2460,16 +2460,16 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
  01JYOqQAO&sy=2026&sm=10&sd=06&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:5c81b4281c1b@kenketsu-bus
-DTSTAMP:20261023T141343Z
+UID:c0aa93f1b106@kenketsu-bus
+DTSTAMP:20261030T005859Z
 DTSTART:20261121T023000Z
 DTEND:20261121T070000Z
-SUMMARY:献血バス 上野恩賜公園
+SUMMARY:献血バス 上野恩賜公園 ポケットパーク
 LOCATION:東京都台東区上野公園5-20
 DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
  enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZs&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/mEoHmkpVEMx
- 6UMBf6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/s2qBwyGvLFV
+ iYg1D7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
  l
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ovZs&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31

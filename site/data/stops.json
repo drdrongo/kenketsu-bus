@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-10-30T01:06:34+09:00",
+ "updated_at": "2026-10-30T09:58:59+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -2066,7 +2066,7 @@
    "slug": "fuchu",
    "venue": "府中運転免許試験場",
    "address": "東京都府中市多磨町3-1-1",
-   "map": "https://maps.app.goo.gl/K2GMW6uRQ9zDg5Dq7",
+   "map": "https://maps.app.goo.gl/sPKck5qCPKaxNdri7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2176,7 +2176,7 @@
    "slug": "toshima",
    "venue": "池袋駅東口",
    "address": "東京都豊島区南池袋1-29-1ISP地下入り口脇",
-   "map": "https://maps.app.goo.gl/DVy6Y4XPconMQxVy5",
+   "map": "https://maps.app.goo.gl/K2GMW6uRQ9zDg5Dq7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2275,7 +2275,7 @@
    "slug": "ota",
    "venue": "蒲田駅西口",
    "address": "東京都大田区西蒲田7-68先",
-   "map": "https://maps.app.goo.gl/11xoYwmZJNJD8g51A",
+   "map": "https://maps.app.goo.gl/oZszRvU6tvvfYQTg9",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -2327,7 +2327,7 @@
    "slug": "edogawa",
    "venue": "東西線 葛西駅西口",
    "address": "東京都江戸川区中葛西5-43-11",
-   "map": "https://maps.app.goo.gl/pVG2Bhx9DPUhrL8j7",
+   "map": "https://maps.app.goo.gl/vUFHcKVRhEfb1DSF9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZi&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2353,7 +2353,7 @@
    "slug": "katsushika",
    "venue": "JR新小岩駅",
    "address": "東京都葛飾区新小岩1-47",
-   "map": "https://maps.app.goo.gl/vUFHcKVRhEfb1DSF9",
+   "map": "https://maps.app.goo.gl/DVy6Y4XPconMQxVy5",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4286,13 +4286,13 @@
    "first_seen": "2026-10-23T23:13:43+09:00"
   },
   {
-   "id": "5c81b4281c1b",
+   "id": "c0aa93f1b106",
    "date": "2026-11-21",
    "city": "台東区",
    "slug": "taito",
-   "venue": "上野恩賜公園",
+   "venue": "上野恩賜公園 ポケットパーク",
    "address": "東京都台東区上野公園5-20",
-   "map": "https://maps.app.goo.gl/mEoHmkpVEMx6UMBf6",
+   "map": "https://maps.app.goo.gl/s2qBwyGvLFViYg1D7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZs&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4304,7 +4304,7 @@
      "16:00"
     ]
    ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
+   "first_seen": "2026-10-30T09:58:59+09:00"
   },
   {
    "id": "2c4dc7c08cdf",
