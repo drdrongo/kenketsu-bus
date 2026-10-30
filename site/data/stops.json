@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-10-30T09:58:59+09:00",
+ "updated_at": "2026-10-31T00:55:24+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -1752,32 +1752,6 @@
    "first_seen": "2026-10-29T00:59:28+09:00"
   },
   {
-   "id": "956fe05a9cb0",
-   "date": "2026-10-30",
-   "city": "港区",
-   "slug": "minato",
-   "venue": "住友不動産(株)泉ガーデンタワー",
-   "address": "東京都港区六本木1-6-1泉ガーデンタワー",
-   "map": "https://maps.app.goo.gl/DtEZPsHUq7LuWnfz9",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pACG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
-   "notes": [],
-   "hours": [
-    "9:30~11:00",
-    "12:30~16:00"
-   ],
-   "sessions": [
-    [
-     "09:30",
-     "11:00"
-    ],
-    [
-     "12:30",
-     "16:00"
-    ]
-   ],
-   "first_seen": "2026-10-09T14:24:47+09:00"
-  },
-  {
    "id": "5e4e6bd126d7",
    "date": "2026-10-30",
    "city": "葛飾区",
@@ -1802,27 +1776,6 @@
     ]
    ],
    "first_seen": "2026-10-28T00:20:26+09:00"
-  },
-  {
-   "id": "0feeb279c4ab",
-   "date": "2026-10-30",
-   "city": "調布市",
-   "slug": "chofu",
-   "venue": "興和株式会社 調布工場",
-   "address": "東京都調布市調布ケ丘3-3-1",
-   "map": "https://maps.app.goo.gl/9jqCcR5uYsQsEs1T7",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ocx9&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30",
-   "notes": [],
-   "hours": [
-    "10:00~12:00"
-   ],
-   "sessions": [
-    [
-     "10:00",
-     "12:00"
-    ]
-   ],
-   "first_seen": "2026-10-09T14:24:47+09:00"
   },
   {
    "id": "3372dc6616fc",
@@ -2301,7 +2254,7 @@
    "slug": "higashimurayama",
    "venue": "明治学院東村山高等学校",
    "address": "東京都東村山市富士見町1-12-3",
-   "map": "https://maps.app.goo.gl/mnTxUJ5csBryFSrQ7",
+   "map": "https://maps.app.goo.gl/11xoYwmZJNJD8g51A",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PwTx&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2405,7 +2358,7 @@
    "slug": "taito",
    "venue": "永寿総合病院",
    "address": "東京都台東区東上野2-23-16",
-   "map": "https://maps.app.goo.gl/gLeedWAvHq5vWLwk6",
+   "map": "https://maps.app.goo.gl/7S9iCSeW1heRNPWZ9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ou7o&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2431,7 +2384,7 @@
    "slug": "ota",
    "venue": "京浜島会館横 駐車場",
    "address": "東京都大田区京浜島2-10-2",
-   "map": "https://maps.app.goo.gl/sPKck5qCPKaxNdri7",
+   "map": "https://maps.app.goo.gl/gLeedWAvHq5vWLwk6",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -2457,7 +2410,7 @@
    "slug": "fuchu",
    "venue": "府中運転免許試験場",
    "address": "東京都府中市多磨町3-1-1",
-   "map": "https://maps.app.goo.gl/EuAxB5dACdwfQ1BTA",
+   "map": "https://maps.app.goo.gl/sPKck5qCPKaxNdri7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2478,7 +2431,7 @@
    "slug": "suginami",
    "venue": "杉並区役所",
    "address": "東京都杉並区阿佐谷南1-15-1",
-   "map": "https://maps.app.goo.gl/7S9iCSeW1heRNPWZ9",
+   "map": "https://maps.app.goo.gl/5DB7jJmsmCjTH5Dg7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007okWA&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2525,7 +2478,7 @@
    "slug": "setagaya",
    "venue": "警視庁 成城警察署",
    "address": "東京都世田谷区千歳台3-19-1",
-   "map": "https://maps.app.goo.gl/Xcy2w48gcrcoEwb46",
+   "map": "https://maps.app.goo.gl/EuAxB5dACdwfQ1BTA",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000006Exnj&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2551,7 +2504,7 @@
    "slug": "chuo",
    "venue": "久松児童公園よこ",
    "address": "東京都中央区日本橋久松町1",
-   "map": "https://maps.app.goo.gl/5Y9gMyrn4bZ7erne6",
+   "map": "https://maps.app.goo.gl/Xcy2w48gcrcoEwb46",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oabO&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2572,7 +2525,7 @@
    "slug": "higashikurume",
    "venue": "クリスチャン・アカデミー",
    "address": "東京都東久留米市新川町1-2-14",
-   "map": "https://maps.app.goo.gl/avXTk541ZopXCf8t9",
+   "map": "https://maps.app.goo.gl/5Y9gMyrn4bZ7erne6",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -2593,7 +2546,7 @@
    "slug": "akiruno",
    "venue": "あきる野市産業祭",
    "address": "東京都あきる野市二宮673-1",
-   "map": "https://maps.app.goo.gl/KPaosNgWRvUNmDAr6",
+   "map": "https://maps.app.goo.gl/avXTk541ZopXCf8t9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otev&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2619,7 +2572,7 @@
    "slug": "hachioji",
    "venue": "イーアス高尾駐車場",
    "address": "東京都八王子市東浅川町550-1",
-   "map": "https://maps.app.goo.gl/s7NYyS52iihe3exX6",
+   "map": "https://maps.app.goo.gl/3Ua4wh5cuoxNqikXA",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000Cojw1&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2640,7 +2593,7 @@
    "slug": "shinagawa",
    "venue": "東急荏原中延駅",
    "address": "東京都品川区中延2-8-1",
-   "map": "https://maps.app.goo.gl/gPBWyh6X5ojC2mVHA",
+   "map": "https://maps.app.goo.gl/s7NYyS52iihe3exX6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oazl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2666,7 +2619,7 @@
    "slug": "sumida",
    "venue": "JR錦糸町駅南口",
    "address": "東京都墨田区江東橋3-14-5",
-   "map": "https://maps.app.goo.gl/PGR9r4hDLz4obD1Z6",
+   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p8oG&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2692,7 +2645,7 @@
    "slug": "ota",
    "venue": "OTAフェスタ 太陽のエリア",
    "address": "東京都大田区平和島4-2",
-   "map": "https://maps.app.goo.gl/1C1e47s4zyAHbBsr7",
+   "map": "https://maps.app.goo.gl/kSBdfPvtNPWZeptq7",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -2718,7 +2671,7 @@
    "slug": "suginami",
    "venue": "桃井原っぱ公園(杉並フェスタ)",
    "address": "東京都杉並区桃井3-8-1",
-   "map": "https://maps.app.goo.gl/kSBdfPvtNPWZeptq7",
+   "map": "https://maps.app.goo.gl/szhuUKSYt1tuyTWq5",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007omMg&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2739,7 +2692,7 @@
    "slug": "musashimurayama",
    "venue": "イオンモールむさし村山",
    "address": "東京都武蔵村山市榎1丁目1-3",
-   "map": "https://maps.app.goo.gl/K2GMW6uRQ9zDg5Dq7",
+   "map": "https://maps.app.goo.gl/gPBWyh6X5ojC2mVHA",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007othJ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2765,7 +2718,7 @@
    "slug": "edogawa",
    "venue": "アリオ葛西店 正面出入り口横",
    "address": "東京都江戸川区東葛西9-3-3",
-   "map": "https://maps.app.goo.gl/Asir7kT3hyr2wtqA7",
+   "map": "https://maps.app.goo.gl/KPaosNgWRvUNmDAr6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007or7v&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2791,7 +2744,7 @@
    "slug": "edogawa",
    "venue": "東西線西葛西駅 南口",
    "address": "東京都江戸川区西葛西6-14",
-   "map": "https://maps.app.goo.gl/szhuUKSYt1tuyTWq5",
+   "map": "https://maps.app.goo.gl/Asir7kT3hyr2wtqA7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZh&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2817,7 +2770,7 @@
    "slug": "chofu",
    "venue": "味の素スタジアム",
    "address": "東京都調布市西町376-3",
-   "map": "https://maps.app.goo.gl/3Ua4wh5cuoxNqikXA",
+   "map": "https://maps.app.goo.gl/1C1e47s4zyAHbBsr7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000009TJ0H&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2864,7 +2817,7 @@
    "slug": "hachioji",
    "venue": "京王線南大沢駅",
    "address": "東京都八王子市南大沢2-29",
-   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
+   "map": "https://maps.app.goo.gl/FS4gkFB3ByggntQM8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqRe&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2885,7 +2838,7 @@
    "slug": "sumida",
    "venue": "JR錦糸町駅南口",
    "address": "東京都墨田区江東橋3-14-5",
-   "map": "https://maps.app.goo.gl/xKeZ7dmQj6psu6Sz5",
+   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p8oG&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2911,7 +2864,7 @@
    "slug": "tama",
    "venue": "多摩センター駅前",
    "address": "東京都多摩市落合1-46-1パルテノン大通り・ココリア横",
-   "map": "https://maps.app.goo.gl/rwANXK358otarHCt6",
+   "map": "https://maps.app.goo.gl/3MocMxGEqyho3QCV9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7XM&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2937,7 +2890,7 @@
    "slug": "fuchu",
    "venue": "府中運転免許試験場",
    "address": "東京都府中市多磨町3-1-1",
-   "map": "https://maps.app.goo.gl/7c8TXaCHTxc943Lc6",
+   "map": "https://maps.app.goo.gl/sPKck5qCPKaxNdri7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2958,7 +2911,7 @@
    "slug": "hino",
    "venue": "イオンモール多摩平の森",
    "address": "東京都日野市多摩平2-4-1",
-   "map": "https://maps.app.goo.gl/sPKck5qCPKaxNdri7",
+   "map": "https://maps.app.goo.gl/rwANXK358otarHCt6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovSf&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2984,7 +2937,7 @@
    "slug": "koto",
    "venue": "お台場青海地区NO・P区画",
    "address": "東京都江東区青海1-1",
-   "map": "https://maps.app.goo.gl/YBUjPeNRNzrG6KKU7",
+   "map": "https://maps.app.goo.gl/PGR9r4hDLz4obD1Z6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS000001Nvt3QAC&sy=2026&sm=11&sd=01&ey=2026&em=11&ed=30",
    "notes": [],
    "hours": [
@@ -3010,7 +2963,7 @@
    "slug": "nerima",
    "venue": "石神井東小学校(谷原地区祭)",
    "address": "東京都練馬区南田中3-9-1",
-   "map": "https://maps.app.goo.gl/QSnbBFWrSQMoUNEN8",
+   "map": "https://maps.app.goo.gl/7c8TXaCHTxc943Lc6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PS19&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3057,7 +3010,7 @@
    "slug": "chiyoda",
    "venue": "ワテラス広場",
    "address": "東京都千代田区神田淡路町2-101",
-   "map": "https://maps.app.goo.gl/UFYoDQxBUPLas9W76",
+   "map": "https://maps.app.goo.gl/xKeZ7dmQj6psu6Sz5",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PwQ1&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3083,7 +3036,7 @@
    "slug": "chiyoda",
    "venue": "日本大学経済学部 本館横",
    "address": "東京都千代田区神田三崎町1-3-2",
-   "map": "https://maps.app.goo.gl/46k8SbpPJeU2SFaE6",
+   "map": "https://maps.app.goo.gl/QSnbBFWrSQMoUNEN8",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -3104,7 +3057,7 @@
    "slug": "sumida",
    "venue": "東京東信用金庫 両国支店",
    "address": "東京都墨田区両国4-35-9",
-   "map": "https://maps.app.goo.gl/fL8YpTCBjk89yhwA7",
+   "map": "https://maps.app.goo.gl/UFYoDQxBUPLas9W76",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqOk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3125,7 +3078,7 @@
    "slug": "chiyoda",
    "venue": "日本大学経済学部 本館横",
    "address": "東京都千代田区神田三崎町1-3-2",
-   "map": "https://maps.app.goo.gl/nLaEVWNb9rqsGbe99",
+   "map": "https://maps.app.goo.gl/QSnbBFWrSQMoUNEN8",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -3146,7 +3099,7 @@
    "slug": "fuchu",
    "venue": "大國魂神社境内",
    "address": "東京都府中市宮町3-1",
-   "map": "https://maps.app.goo.gl/9PaFHGjWBpQQuVX5A",
+   "map": "https://maps.app.goo.gl/nLaEVWNb9rqsGbe99",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007orud&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3172,7 +3125,7 @@
    "slug": "edogawa",
    "venue": "篠崎公園(小岩消防署向かい側)",
    "address": "東京都江戸川区上篠崎4-2-3",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E4%B8%8A%E7%AF%A0%E5%B4%8E%EF%BC%94%EF%BC%8D%EF%BC%92%EF%BC%8D%EF%BC%93%20%E7%AF%A0%E5%B4%8E%E5%85%AC%E5%9C%92%EF%BC%88%E5%B0%8F%E5%B2%A9%E6%B6%88%E9%98%B2%E7%BD%B2%E5%90%91%E3%81%8B%E3%81%84%E5%81%B4%EF%BC%89&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/fL8YpTCBjk89yhwA7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007orvA&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3193,7 +3146,7 @@
    "slug": "edogawa",
    "venue": "鹿骨区民事務所(鹿骨区民館)",
    "address": "東京都江戸川区鹿骨1-54-2",
-   "map": "https://maps.app.goo.gl/QSnbBFWrSQMoUNEN8",
+   "map": "https://maps.app.goo.gl/46k8SbpPJeU2SFaE6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oshn&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3214,7 +3167,7 @@
    "slug": "setagaya",
    "venue": "玉川税務署",
    "address": "東京都世田谷区玉川2-1-7",
-   "map": "https://maps.app.goo.gl/kg62czvEub4i769B8",
+   "map": "https://maps.app.goo.gl/ka5ck8EdcVBRpnge8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000003P67M&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3240,7 +3193,7 @@
    "slug": "edogawa",
    "venue": "東榮信用金庫 葛西支店",
    "address": "東京都江戸川区東葛西5-45-3",
-   "map": "https://maps.app.goo.gl/ka5ck8EdcVBRpnge8",
+   "map": "https://maps.app.goo.gl/4PC6kgdWGs9PCgUQ6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007olMl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3266,7 +3219,7 @@
    "slug": "koto",
    "venue": "深川不動堂 境内",
    "address": "東京都江東区富岡1-17-13",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A1%EF%BC%91%EF%BC%8D%EF%BC%91%EF%BC%97%EF%BC%8D%EF%BC%91%EF%BC%93%20%E6%B7%B1%E5%B7%9D%E4%B8%8D%E5%8B%95%E5%A0%82%E3%80%80%E5%A2%83%E5%86%85&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/9PaFHGjWBpQQuVX5A",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007osi3&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3292,7 +3245,7 @@
    "slug": "nerima",
    "venue": "練馬西税務署",
    "address": "東京都練馬区東大泉7-31-35",
-   "map": "https://maps.app.goo.gl/zkCYpo6oGrFE9GJV7",
+   "map": "https://maps.app.goo.gl/kg62czvEub4i769B8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007or8t&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3313,7 +3266,7 @@
    "slug": "setagaya",
    "venue": "烏山区民センター前広場",
    "address": "東京都世田谷区南烏山6-2-19",
-   "map": "https://maps.app.goo.gl/j7hr5p2sx6NHscWw8",
+   "map": "https://maps.app.goo.gl/yi9fCnzzdbKxqrdP8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oafW&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3339,7 +3292,7 @@
    "slug": "hachioji",
    "venue": "ヤマザキ動物看護大学",
    "address": "東京都八王子市南大沢4-7-2",
-   "map": "https://maps.app.goo.gl/UL1595DXUQHzCRbT6",
+   "map": "https://maps.app.goo.gl/irs5n8axjgXL5H89A",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -3360,7 +3313,7 @@
    "slug": "taito",
    "venue": "東京上野税務署",
    "address": "東京都台東区池之端1-2-22上野合同庁舎",
-   "map": "https://maps.app.goo.gl/iKUqhYmbffdox3BbA",
+   "map": "https://maps.app.goo.gl/oL7x8unXcPDLqwjR9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7Xl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3381,7 +3334,7 @@
    "slug": "kodaira",
    "venue": "小平市役所",
    "address": "東京都小平市小川町2-1333",
-   "map": "https://maps.app.goo.gl/irs5n8axjgXL5H89A",
+   "map": "https://maps.app.goo.gl/j7hr5p2sx6NHscWw8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oshY&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3428,7 +3381,7 @@
    "slug": "hamura",
    "venue": "羽村市役所",
    "address": "東京都羽村市緑ケ丘5-2-1",
-   "map": "https://maps.app.goo.gl/oL7x8unXcPDLqwjR9",
+   "map": "https://maps.app.goo.gl/zkCYpo6oGrFE9GJV7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ouAa&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3454,7 +3407,7 @@
    "slug": "setagaya",
    "venue": "三軒茶屋ふれあい広場",
    "address": "東京都世田谷区太子堂2-17-1",
-   "map": "https://maps.app.goo.gl/yuuKtLZJTmTEfwSv7",
+   "map": "https://maps.app.goo.gl/UL1595DXUQHzCRbT6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ow9U&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3506,7 +3459,7 @@
    "slug": "taito",
    "venue": "台東区立 松葉小学校",
    "address": "東京都台東区松が谷1-13-6",
-   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
+   "map": "https://maps.app.goo.gl/8nPBC2Bvv772KMkc7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqQU&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3532,7 +3485,7 @@
    "slug": "taito",
    "venue": "田原小学校",
    "address": "東京都台東区雷門1-5-15",
-   "map": "https://maps.app.goo.gl/9LPDnLcfdV3KSEyZ6",
+   "map": "https://maps.app.goo.gl/yuuKtLZJTmTEfwSv7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqQY&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3558,7 +3511,7 @@
    "slug": "sumida",
    "venue": "JR錦糸町駅南口",
    "address": "東京都墨田区江東橋3-14-5",
-   "map": "https://maps.app.goo.gl/eBMWzRqXoDhYUQd2A",
+   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p8oG&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3584,7 +3537,7 @@
    "slug": "akishima",
    "venue": "昭島駅北口",
    "address": "東京都昭島市田中町562-1",
-   "map": "https://maps.app.goo.gl/8nPBC2Bvv772KMkc7",
+   "map": "https://maps.app.goo.gl/mqy3mjP8W2eYEHe99",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ouqy&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3610,7 +3563,7 @@
    "slug": "musashimurayama",
    "venue": "村山デエダラまつり",
    "address": "東京都武蔵村山市榎1",
-   "map": "https://maps.app.goo.gl/dBvPKV67sPMDxKYz9",
+   "map": "https://maps.app.goo.gl/aLdJ53ZrJmWfYNnE7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007omat&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3636,7 +3589,7 @@
    "slug": "meguro",
    "venue": "東急自由が丘駅",
    "address": "東京都目黒区自由が丘1-30",
-   "map": "https://maps.app.goo.gl/PmbFaNJjAyRv2zjV6",
+   "map": "https://maps.app.goo.gl/9LPDnLcfdV3KSEyZ6",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -3662,7 +3615,7 @@
    "slug": "nerima",
    "venue": "石神井公園駅中央口",
    "address": "東京都練馬区石神井町3-23-10",
-   "map": "https://maps.app.goo.gl/3XqsCunnNCpDBRY27",
+   "map": "https://maps.app.goo.gl/dBvPKV67sPMDxKYz9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000FvNb5&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3688,7 +3641,7 @@
    "slug": "katsushika",
    "venue": "水元公園 中央広場周辺",
    "address": "東京都葛飾区水元公園",
-   "map": "https://maps.app.goo.gl/3XqsCunnNCpDBRY27",
+   "map": "https://maps.app.goo.gl/iKUqhYmbffdox3BbA",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqQK&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3714,7 +3667,7 @@
    "slug": "nishitokyo",
    "venue": "谷戸小学校駐車場(西東京市民まつり)",
    "address": "東京都西東京市緑町3-1-1",
-   "map": "https://maps.app.goo.gl/mnTxUJ5csBryFSrQ7",
+   "map": "https://maps.app.goo.gl/3XqsCunnNCpDBRY27",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3740,7 +3693,7 @@
    "slug": "sumida",
    "venue": "JR錦糸町駅南口",
    "address": "東京都墨田区江東橋3-14-5",
-   "map": "https://maps.app.goo.gl/raXUUYys3DwzSbmH9",
+   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p8oG&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3766,7 +3719,7 @@
    "slug": "hinode",
    "venue": "イオンモール日の出",
    "address": "東京都西多摩郡日の出町大字平井字三吉野桜木237-3",
-   "map": "https://maps.app.goo.gl/dWCP97m9cZdAZsfQ8",
+   "map": "https://maps.app.goo.gl/PmbFaNJjAyRv2zjV6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7uf&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3792,7 +3745,7 @@
    "slug": "mizuho",
    "venue": "ジョイフル本田瑞穂店",
    "address": "東京都西多摩郡瑞穂町大字殿ケ谷442-1",
-   "map": "https://maps.app.goo.gl/6i9dMMwFBBEgbKXk9",
+   "map": "https://maps.app.goo.gl/eBMWzRqXoDhYUQd2A",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p59R&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3844,7 +3797,7 @@
    "slug": "katsushika",
    "venue": "JR亀有駅南口",
    "address": "東京都葛飾区亀有3-26-1",
-   "map": "https://maps.app.goo.gl/D3grrHeTxEuYFB9E8",
+   "map": "https://maps.app.goo.gl/6gABKxV5do3gMLZ18",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007orv3&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3870,7 +3823,7 @@
    "slug": "nishitokyo",
    "venue": "田無駅北口(Aビル裏駐車場)",
    "address": "東京都西東京市田無町4-2-13",
-   "map": "https://maps.app.goo.gl/6i9dMMwFBBEgbKXk9",
+   "map": "https://maps.app.goo.gl/D3grrHeTxEuYFB9E8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007odMX&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3896,7 +3849,7 @@
    "slug": "nishitokyo",
    "venue": "谷戸小学校駐車場(西東京市民まつり)",
    "address": "東京都西東京市緑町3-1-1",
-   "map": "https://maps.app.goo.gl/Ny54jSocJgKQ2vGE8",
+   "map": "https://maps.app.goo.gl/3XqsCunnNCpDBRY27",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3922,7 +3875,7 @@
    "slug": "chuo",
    "venue": "京華スクエア",
    "address": "東京都中央区八丁堀3-17-9",
-   "map": "https://maps.app.goo.gl/SiRxXaQ8fCq6Dy1i8",
+   "map": "https://maps.app.goo.gl/dWCP97m9cZdAZsfQ8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oahR&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3948,7 +3901,7 @@
    "slug": "chiyoda",
    "venue": "神田税務署",
    "address": "東京都千代田区神田錦町3-3",
-   "map": "https://maps.app.goo.gl/UngcpYJ8BH8R1cNp8",
+   "map": "https://maps.app.goo.gl/6i9dMMwFBBEgbKXk9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oabl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -3974,7 +3927,7 @@
    "slug": "bunkyo",
    "venue": "文京グリーンコート さくら広場",
    "address": "東京都文京区本駒込2-28-8",
-   "map": "https://maps.app.goo.gl/MmT489b6t93Tm4E76",
+   "map": "https://maps.app.goo.gl/Ny54jSocJgKQ2vGE8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owIl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4000,7 +3953,7 @@
    "slug": "chuo",
    "venue": "八重洲ファーストフィナンシャル",
    "address": "東京都中央区八重洲1-3-7",
-   "map": "https://maps.app.goo.gl/1P6jvSmsQum6XyFm6",
+   "map": "https://maps.app.goo.gl/raXUUYys3DwzSbmH9",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -4021,7 +3974,7 @@
    "slug": "chiyoda",
    "venue": "神田税務署",
    "address": "東京都千代田区神田錦町3-3",
-   "map": "https://maps.app.goo.gl/ZxHgNz1TAK5FQvT97",
+   "map": "https://maps.app.goo.gl/6i9dMMwFBBEgbKXk9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oabl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4047,7 +4000,7 @@
    "slug": "mitaka",
    "venue": "JR三鷹駅南口",
    "address": "東京都三鷹市下連雀3丁目",
-   "map": "https://maps.app.goo.gl/ZxHgNz1TAK5FQvT97",
+   "map": "https://maps.app.goo.gl/UngcpYJ8BH8R1cNp8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owGS&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4068,7 +4021,7 @@
    "slug": "edogawa",
    "venue": "東西線西葛西駅 南口",
    "address": "東京都江戸川区西葛西6-14",
-   "map": "https://maps.app.goo.gl/szhuUKSYt1tuyTWq5",
+   "map": "https://maps.app.goo.gl/Asir7kT3hyr2wtqA7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZh&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4089,7 +4042,7 @@
    "slug": "nerima",
    "venue": "ホテルカデンツァ東京 J.CITYホール",
    "address": "練馬区高松5-8",
-   "map": "https://maps.app.goo.gl/ZDUsYUis3B1zoTvp9",
+   "map": "https://maps.app.goo.gl/SiRxXaQ8fCq6Dy1i8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otTw&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4115,7 +4068,7 @@
    "slug": "hachioji",
    "venue": "八王子山王病院",
    "address": "東京都八王子市中野山王2-15-16",
-   "map": "https://maps.app.goo.gl/KPaosNgWRvUNmDAr6",
+   "map": "https://maps.app.goo.gl/1P6jvSmsQum6XyFm6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000010ZWgQAM&sy=2026&sm=10&sd=09&ey=2026&em=11&ed=30",
    "notes": [],
    "hours": [
@@ -4136,7 +4089,7 @@
    "slug": "shinjuku",
    "venue": "KDDI新宿ビル 正面玄関横",
    "address": "東京都新宿区西新宿2-3-2",
-   "map": "https://maps.app.goo.gl/qYkpKtVKzqY48ve57",
+   "map": "https://maps.app.goo.gl/ZxHgNz1TAK5FQvT97",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oabQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4188,7 +4141,7 @@
    "slug": "taito",
    "venue": "台東保健所 3階大会議室",
    "address": "東京都台東区東上野4-22-8",
-   "map": "https://maps.app.goo.gl/EoDQJehErtQZpTJw8",
+   "map": "https://maps.app.goo.gl/Kpc4UWxC2FAJLxKC6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PCyL&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4214,7 +4167,7 @@
    "slug": "shinjuku",
    "venue": "KDDI新宿ビル 正面玄関横",
    "address": "東京都新宿区西新宿2-3-2",
-   "map": "https://maps.app.goo.gl/tKGTZ4jjUSp41jzG7",
+   "map": "https://maps.app.goo.gl/ZxHgNz1TAK5FQvT97",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oabQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4240,7 +4193,7 @@
    "slug": "ome",
    "venue": "カインズ青梅インター店",
    "address": "東京都青梅市新町6-9-4",
-   "map": "https://maps.app.goo.gl/CYYyaQ2gVVVyJcy56",
+   "map": "https://maps.app.goo.gl/ZDUsYUis3B1zoTvp9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oxBN&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4266,7 +4219,7 @@
    "slug": "hachioji",
    "venue": "いちょう祭り",
    "address": "東京都八王子市東浅川町23番地34",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E6%9D%B1%E6%B5%85%E5%B7%9D%E7%94%BA%EF%BC%92%EF%BC%93%E7%95%AA%E5%9C%B0%EF%BC%93%EF%BC%94%20%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E7%A5%AD%E3%82%8A&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/TsBw5MafRu5jKfwM7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS000001JYOqQAO&sy=2026&sm=10&sd=06&ey=2026&em=11&ed=30",
    "notes": [],
    "hours": [
@@ -4292,7 +4245,7 @@
    "slug": "taito",
    "venue": "上野恩賜公園 ポケットパーク",
    "address": "東京都台東区上野公園5-20",
-   "map": "https://maps.app.goo.gl/s2qBwyGvLFViYg1D7",
+   "map": "https://maps.app.goo.gl/EoDQJehErtQZpTJw8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZs&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4313,7 +4266,7 @@
    "slug": "ota",
    "venue": "大田区立池上会館",
    "address": "東京都大田区池上1-32-8",
-   "map": "https://maps.app.goo.gl/5654qHJTMm6U3h9T7",
+   "map": "https://maps.app.goo.gl/DsiDhD26g61aAaRA7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p4eQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4339,7 +4292,7 @@
    "slug": "higashikurume",
    "venue": "イトーヨーカドー東久留米店",
    "address": "東京都東久留米市本町3-8-1",
-   "map": "https://maps.app.goo.gl/PmbFaNJjAyRv2zjV6",
+   "map": "https://maps.app.goo.gl/ipY83bDFT2xZAgaz5",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007orvn&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4365,7 +4318,7 @@
    "slug": "musashimurayama",
    "venue": "イオンモールむさし村山",
    "address": "東京都武蔵村山市榎1丁目1-3",
-   "map": "https://maps.app.goo.gl/3MocMxGEqyho3QCV9",
+   "map": "https://maps.app.goo.gl/gPBWyh6X5ojC2mVHA",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007othJ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4391,7 +4344,7 @@
    "slug": "edogawa",
    "venue": "アリオ葛西店 正面出入り口横",
    "address": "東京都江戸川区東葛西9-3-3",
-   "map": "https://maps.app.goo.gl/ipY83bDFT2xZAgaz5",
+   "map": "https://maps.app.goo.gl/KPaosNgWRvUNmDAr6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007or7v&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4417,7 +4370,7 @@
    "slug": "edogawa",
    "venue": "都営新宿線 瑞江駅",
    "address": "東京都江戸川区瑞江2-2-1",
-   "map": "https://maps.app.goo.gl/TsBw5MafRu5jKfwM7",
+   "map": "https://maps.app.goo.gl/tKGTZ4jjUSp41jzG7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZf&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4443,7 +4396,7 @@
    "slug": "katsushika",
    "venue": "亀有香取神社",
    "address": "東京都葛飾区亀有3-42",
-   "map": "https://maps.app.goo.gl/DsiDhD26g61aAaRA7",
+   "map": "https://maps.app.goo.gl/qYkpKtVKzqY48ve57",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000003OKVE&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4495,7 +4448,7 @@
    "slug": "hachioji",
    "venue": "イーアス高尾駐車場",
    "address": "東京都八王子市東浅川町550-1",
-   "map": "https://maps.app.goo.gl/vb9QChSsDJeGhiDT8",
+   "map": "https://maps.app.goo.gl/3Ua4wh5cuoxNqikXA",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000Cojw1&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4516,7 +4469,7 @@
    "slug": "tama",
    "venue": "多摩センター駅前",
    "address": "東京都多摩市落合1-46-1パルテノン大通り・ココリア横",
-   "map": "https://maps.app.goo.gl/scPQ8SRqC2ajXQE77",
+   "map": "https://maps.app.goo.gl/3MocMxGEqyho3QCV9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7XM&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4542,7 +4495,7 @@
    "slug": "ota",
    "venue": "東急大岡山駅前",
    "address": "東京都大田区北千束3-27",
-   "map": "https://maps.app.goo.gl/QdsbHmL1ACfwb6kU6",
+   "map": "https://maps.app.goo.gl/NBDQJbeqPoZBUDeWA",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -4568,7 +4521,7 @@
    "slug": "kodaira",
    "venue": "小平ファーマーズ・マーケット",
    "address": "東京都小平市小川町2-1827",
-   "map": "https://maps.app.goo.gl/3Ua4wh5cuoxNqikXA",
+   "map": "https://maps.app.goo.gl/5654qHJTMm6U3h9T7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000003OMD6&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4594,7 +4547,7 @@
    "slug": "fuchu",
    "venue": "府中運転免許試験場",
    "address": "東京都府中市多磨町3-1-1",
-   "map": "https://maps.app.goo.gl/rwANXK358otarHCt6",
+   "map": "https://maps.app.goo.gl/sPKck5qCPKaxNdri7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ojmQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4615,7 +4568,7 @@
    "slug": "hinode",
    "venue": "イオンモール日の出",
    "address": "東京都西多摩郡日の出町大字平井字三吉野桜木237-3",
-   "map": "https://maps.app.goo.gl/B4SVaFSpPNCJWLQy8",
+   "map": "https://maps.app.goo.gl/PmbFaNJjAyRv2zjV6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7uf&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4641,7 +4594,7 @@
    "slug": "itabashi",
    "venue": "イオン板橋店 立体駐車場入口前",
    "address": "東京都板橋区徳丸2-6-1",
-   "map": "https://maps.app.goo.gl/DiQc11coSEKKvq7f6",
+   "map": "https://maps.app.goo.gl/B4SVaFSpPNCJWLQy8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ozTe&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4667,7 +4620,7 @@
    "slug": "edogawa",
    "venue": "都営新宿線船堀駅北口広場",
    "address": "東京都江戸川区船堀3-6",
-   "map": "https://maps.app.goo.gl/NBDQJbeqPoZBUDeWA",
+   "map": "https://maps.app.goo.gl/mEoHmkpVEMx6UMBf6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZg&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4766,7 +4719,7 @@
    "slug": "taito",
    "venue": "浅草神社",
    "address": "東京都台東区浅草2-3-1",
-   "map": "https://maps.app.goo.gl/mBVmVNckQty4jjX66",
+   "map": "https://maps.app.goo.gl/QdsbHmL1ACfwb6kU6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000IwrM&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4787,7 +4740,7 @@
    "slug": "ota",
    "venue": "六郷地域力推進センター",
    "address": "東京都大田区仲六郷2-44-11",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%92%EF%BC%8D%EF%BC%94%EF%BC%94%EF%BC%8D%EF%BC%91%EF%BC%91%20%E5%85%AD%E9%83%B7%E5%9C%B0%E5%9F%9F%E5%8A%9B%E6%8E%A8%E9%80%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/vb9QChSsDJeGhiDT8",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -4813,7 +4766,7 @@
    "slug": "bunkyo",
    "venue": "株式会社東京ドーム Hi!EVERYVALLEY (ハイ!エブリバレー)",
    "address": "東京都文京区後楽1-3-61",
-   "map": "https://maps.app.goo.gl/mBVmVNckQty4jjX66",
+   "map": "https://maps.app.goo.gl/CM8YbouA5gam9XvRA",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007odm7&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4839,7 +4792,7 @@
    "slug": "hino",
    "venue": "イオンモール多摩平の森",
    "address": "東京都日野市多摩平2-4-1",
-   "map": "https://maps.app.goo.gl/dBvPKV67sPMDxKYz9",
+   "map": "https://maps.app.goo.gl/rwANXK358otarHCt6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovSf&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4865,7 +4818,7 @@
    "slug": "higashikurume",
    "venue": "イオンモール東久留米",
    "address": "東京都東久留米市南沢5-17-62",
-   "map": "https://maps.app.goo.gl/kaNQnM9h5T2vrNPG6",
+   "map": "https://maps.app.goo.gl/DiQc11coSEKKvq7f6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pAYz&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4891,7 +4844,7 @@
    "slug": "inagi",
    "venue": "コーチャンフォー若葉台店",
    "address": "東京都稲城市若葉台2-9-2",
-   "map": "https://maps.app.goo.gl/mnTxUJ5csBryFSrQ7",
+   "map": "https://maps.app.goo.gl/scPQ8SRqC2ajXQE77",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000003OlEP&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4917,7 +4870,7 @@
    "slug": "edogawa",
    "venue": "江戸川区役所",
    "address": "東京都江戸川区中央1-4-1",
-   "map": "https://maps.app.goo.gl/ePP2K55Fu5CbQAQU7",
+   "map": "https://maps.app.goo.gl/mBVmVNckQty4jjX66",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ou9S&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4943,7 +4896,7 @@
    "slug": "nerima",
    "venue": "石神井公園駅中央口",
    "address": "東京都練馬区石神井町3-23-10",
-   "map": "https://maps.app.goo.gl/LUZ825zKm2wnFbXc6",
+   "map": "https://maps.app.goo.gl/dBvPKV67sPMDxKYz9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000FvNb5&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4964,7 +4917,7 @@
    "slug": "chofu",
    "venue": "調布駅前広場",
    "address": "東京都調布市小島町2-60",
-   "map": "https://maps.app.goo.gl/mBVmVNckQty4jjX66",
+   "map": "https://maps.app.goo.gl/kaNQnM9h5T2vrNPG6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ocxR&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4990,7 +4943,7 @@
    "slug": "hino",
    "venue": "日野市役所",
    "address": "東京都日野市神明1-12-1",
-   "map": "https://maps.app.goo.gl/AZGeCuCLwYYop1jR8",
+   "map": "https://maps.app.goo.gl/ePP2K55Fu5CbQAQU7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otSM&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5016,7 +4969,7 @@
    "slug": "edogawa",
    "venue": "江戸川区役所",
    "address": "東京都江戸川区中央1-4-1",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E4%B8%AD%E5%A4%AE%EF%BC%91%EF%BC%8D%EF%BC%94%EF%BC%8D%EF%BC%91%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E5%BD%B9%E6%89%80&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/mBVmVNckQty4jjX66",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ou9S&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5042,7 +4995,7 @@
    "slug": "edogawa",
    "venue": "江戸川区役所",
    "address": "東京都江戸川区中央1-4-1",
-   "map": "https://maps.app.goo.gl/b3Z8oewfT72DhmCT7",
+   "map": "https://maps.app.goo.gl/mBVmVNckQty4jjX66",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ou9S&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5068,7 +5021,7 @@
    "slug": "nishitokyo",
    "venue": "西東京中央総合病院",
    "address": "東京都西東京市芝久保町2-4-19",
-   "map": "https://maps.app.goo.gl/tKGTZ4jjUSp41jzG7",
+   "map": "https://maps.app.goo.gl/LUZ825zKm2wnFbXc6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7ta&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5120,7 +5073,7 @@
    "slug": "koto",
    "venue": "武蔵野大学 有明キャンパス",
    "address": "東京都江東区有明3-3-3",
-   "map": "https://maps.app.goo.gl/Yvm9uDWsUcfqJFxA9",
+   "map": "https://maps.app.goo.gl/AZGeCuCLwYYop1jR8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p6z5&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5141,7 +5094,7 @@
    "slug": "minato",
    "venue": "虎ノ門ツインビルディング",
    "address": "東京都港区虎ノ門2-10-1",
-   "map": "https://maps.app.goo.gl/mzLTLt2G3BfzJ2Cp7",
+   "map": "https://maps.app.goo.gl/n5tQeRBFM5Cb34F77",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -5162,7 +5115,7 @@
    "slug": "hachioji",
    "venue": "ぐりーんうぉーく多摩",
    "address": "東京都八王子市別所2-56",
-   "map": "https://maps.app.goo.gl/r4Et3zRmQUTxzDVX8",
+   "map": "https://maps.app.goo.gl/mzLTLt2G3BfzJ2Cp7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007olig&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5188,7 +5141,7 @@
    "slug": "hachioji",
    "venue": "イトーヨーカドー八王子店",
    "address": "東京都八王子市狭間町1462-1",
-   "map": "https://maps.app.goo.gl/cjDBAcKewvMe2Ru88",
+   "map": "https://maps.app.goo.gl/Yvm9uDWsUcfqJFxA9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pAP6&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5214,7 +5167,7 @@
    "slug": "ota",
    "venue": "大田区嶺町特別出張所",
    "address": "東京都大田区田園調布本町7-1",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E6%9C%AC%E7%94%BA%EF%BC%97%EF%BC%8D%EF%BC%91%20%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%B6%BA%E7%94%BA%E7%89%B9%E5%88%A5%E5%87%BA%E5%BC%B5%E6%89%80&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/zNUguxEyVSKCKNSx7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaz4&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5240,7 +5193,7 @@
    "slug": "hinode",
    "venue": "イオンモール日の出",
    "address": "東京都西多摩郡日の出町大字平井字三吉野桜木237-3",
-   "map": "https://maps.app.goo.gl/DVy6Y4XPconMQxVy5",
+   "map": "https://maps.app.goo.gl/PmbFaNJjAyRv2zjV6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7uf&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5266,7 +5219,7 @@
    "slug": "edogawa",
    "venue": "都営新宿線 瑞江駅",
    "address": "東京都江戸川区瑞江2-2-1",
-   "map": "https://maps.app.goo.gl/s6YQQ8onSRY76ycS7",
+   "map": "https://maps.app.goo.gl/tKGTZ4jjUSp41jzG7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZf&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5292,7 +5245,7 @@
    "slug": "nerima",
    "venue": "光が丘公園 けやき広場",
    "address": "東京都練馬区光が丘4-1-1",
-   "map": "https://maps.app.goo.gl/uzx6LxnmFPJ5mTon9",
+   "map": "https://maps.app.goo.gl/s6YQQ8onSRY76ycS7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oru7&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5318,7 +5271,7 @@
    "slug": "nerima",
    "venue": "大泉第二小学校",
    "address": "東京都練馬区南大泉4-29-11",
-   "map": "https://maps.app.goo.gl/FS4gkFB3ByggntQM8",
+   "map": "https://maps.app.goo.gl/GDhRHkFe2pB4Xrow6",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007or7B&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5339,7 +5292,7 @@
    "slug": "hachioji",
    "venue": "京王線南大沢駅",
    "address": "東京都八王子市南大沢2-29",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E5%8D%97%E5%A4%A7%E6%B2%A2%EF%BC%92%EF%BC%8D%EF%BC%92%EF%BC%99%20%E4%BA%AC%E7%8E%8B%E7%B7%9A%E5%8D%97%E5%A4%A7%E6%B2%A2%E9%A7%85&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/FS4gkFB3ByggntQM8",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqRe&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5360,7 +5313,7 @@
    "slug": "hachioji",
    "venue": "八王子駅南口総合事務所",
    "address": "東京都八王子市子安町4-7-1サザンスカイタワー八王子4階",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E5%AD%90%E5%AE%89%E7%94%BA%EF%BC%94%EF%BC%8D%EF%BC%97%EF%BC%8D%EF%BC%91%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%BF%E3%83%AF%E3%83%BC%E5%85%AB%E7%8E%8B%E5%AD%90%EF%BC%94%E9%9A%8E%20%E5%85%AB%E7%8E%8B%E5%AD%90%E9%A7%85%E5%8D%97%E5%8F%A3%E7%B7%8F%E5%90%88%E4%BA%8B%E5%8B%99%E6%89%80&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/Jtcu9eE6LMdb9Vhj9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p6JQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5386,7 +5339,7 @@
    "slug": "tama",
    "venue": "多摩センター駅前",
    "address": "東京都多摩市落合1-46-1パルテノン大通り・ココリア横",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%9A%E6%91%A9%E5%B8%82%E8%90%BD%E5%90%88%EF%BC%91%EF%BC%8D%EF%BC%94%EF%BC%96%EF%BC%8D%EF%BC%91%E3%83%91%E3%83%AB%E3%83%86%E3%83%8E%E3%83%B3%E5%A4%A7%E9%80%9A%E3%82%8A%E3%83%BB%E3%82%B3%E3%82%B3%E3%83%AA%E3%82%A2%E6%A8%AA%20%E5%A4%9A%E6%91%A9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%A7%85%E5%89%8D&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/3MocMxGEqyho3QCV9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p7XM&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5412,7 +5365,7 @@
    "slug": "ota",
    "venue": "糀谷特別出張所",
    "address": "東京都大田区西糀谷2-14-13",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%A5%BF%E7%B3%80%E8%B0%B7%EF%BC%92%EF%BC%8D%EF%BC%91%EF%BC%94%EF%BC%8D%EF%BC%91%EF%BC%93%20%E7%B3%80%E8%B0%B7%E7%89%B9%E5%88%A5%E5%87%BA%E5%BC%B5%E6%89%80&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/uzx6LxnmFPJ5mTon9",
    "reserve": null,
    "notes": [],
    "hours": [
@@ -5438,7 +5391,7 @@
    "slug": "minato",
    "venue": "天理教本芝大教会",
    "address": "東京都港区高輪1-22-17",
-   "map": "https://maps.app.goo.gl/s4vrptEizoT3edfe7",
+   "map": "https://maps.app.goo.gl/cjDBAcKewvMe2Ru88",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaU2&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5464,7 +5417,7 @@
    "slug": "katsushika",
    "venue": "JR新小岩駅",
    "address": "東京都葛飾区新小岩1-47",
-   "map": "https://maps.app.goo.gl/Jtcu9eE6LMdb9Vhj9",
+   "map": "https://maps.app.goo.gl/DVy6Y4XPconMQxVy5",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -5537,7 +5490,7 @@
    "slug": "chuo",
    "venue": "電源開発株式会社前",
    "address": "東京都中央区銀座6-15-1",
-   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%96%EF%BC%8D%EF%BC%91%EF%BC%95%EF%BC%8D%EF%BC%91%20%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%89%8D&ie=UTF8&z=18",
+   "map": "https://maps.app.goo.gl/s4vrptEizoT3edfe7",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p9cY&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [

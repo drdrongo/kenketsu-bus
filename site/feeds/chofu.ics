@@ -68,21 +68,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ocxP&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:0feeb279c4ab@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261030T010000Z
-DTEND:20261030T030000Z
-SUMMARY:献血バス 興和株式会社 調布工場
-LOCATION:東京都調布市調布ケ丘3-3-1
-DESCRIPTION:受付: 10:00~12:00\nWeb予約 (ラブラッド): https://www.k
- enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ocx9&sy=2026&s
- m=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/9jqCcR5uYsQ
- sEs1T7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
- l
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07ocx9&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:f3d18be88aae@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261107T020000Z
@@ -91,8 +76,8 @@ SUMMARY:献血バス 味の素スタジアム
 LOCATION:東京都調布市西町376-3
 DESCRIPTION:受付: 11:00~14:00\nWeb予約 (ラブラッド): https://www.k
  enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000009TJ0H&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/3Ua4wh5cuox
- NqikXA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/1C1e47s4zyA
+ HbBsr7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
  l
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  09TJ0H&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -107,7 +92,7 @@ LOCATION:東京都調布市小島町2-60
 DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  ocxR&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/mBVmVNckQty4jjX66\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ gl/kaNQnM9h5T2vrNPG6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
  _03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ocxR&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31

@@ -99,7 +99,7 @@ DTEND:20261104T070000Z
 SUMMARY:献血バス 京浜島会館横 駐車場
 LOCATION:東京都大田区京浜島2-10-2
 DESCRIPTION:受付: 9:30~11:00 / 12:30~16:00\n地図: https://maps.app.goo.
- gl/sPKck5qCPKaxNdri7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ gl/gLeedWAvHq5vWLwk6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
  _03_kenbus.html
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
@@ -111,7 +111,7 @@ DTEND:20261107T063000Z
 SUMMARY:献血バス OTAフェスタ 太陽のエリア
 LOCATION:東京都大田区平和島4-2
 DESCRIPTION:受付: 9:30~11:30 / 13:00~15:30\n地図: https://maps.app.goo.
- gl/1C1e47s4zyAHbBsr7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ gl/kSBdfPvtNPWZeptq7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
  _03_kenbus.html
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
@@ -125,7 +125,7 @@ LOCATION:東京都大田区池上1-32-8
 DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  p4eQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/5654qHJTMm6U3h9T7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ gl/DsiDhD26g61aAaRA7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
  _03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07p4eQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -138,7 +138,7 @@ DTEND:20261122T070000Z
 SUMMARY:献血バス 東急大岡山駅前
 LOCATION:東京都大田区北千束3-27
 DESCRIPTION:受付: 10:00~11:30 / 13:00‐16:00\n地図: https://maps.app.g
- oo.gl/QdsbHmL1ACfwb6kU6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place
+ oo.gl/NBDQJbeqPoZBUDeWA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place
  /m1_03_kenbus.html
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
@@ -149,12 +149,9 @@ DTSTART:20261123T003000Z
 DTEND:20261123T063000Z
 SUMMARY:献血バス 六郷地域力推進センター
 LOCATION:東京都大田区仲六郷2-44-11
-DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\n地図: https://maps.google.c
- o.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%
- BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%92%EF%BC%8D%EF%BC%94%EF%BC%94%EF%BC%8D
- %EF%BC%91%EF%BC%91%20%E5%85%AD%E9%83%B7%E5%9C%B0%E5%9F%9F%E5%8A%9B%E6%8E%A
- 8%E9%80%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&ie=UTF8&z=18\n出典: https
- ://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\n地図: https://maps.app.goo.
+ gl/vb9QChSsDJeGhiDT8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
 BEGIN:VEVENT
@@ -166,12 +163,9 @@ SUMMARY:献血バス 大田区嶺町特別出張所
 LOCATION:東京都大田区田園調布本町7-1
 DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- oaz4&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.google.c
- o.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%
- BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E6%9C%AC%E7%94%BA%EF%BC%97%EF%BC%8D
- %EF%BC%91%20%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%B6%BA%E7%94%BA%E7%89%B9%E5%88%A
- 5%E5%87%BA%E5%BC%B5%E6%89%80&ie=UTF8&z=18\n出典: https://www.bs.jrc.or.j
- p/ktks/tokyo/place/m1_03_kenbus.html
+ oaz4&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/zNUguxEyVSKCKNSx7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07oaz4&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
@@ -182,12 +176,9 @@ DTSTART:20261129T010000Z
 DTEND:20261129T070000Z
 SUMMARY:献血バス 糀谷特別出張所
 LOCATION:東京都大田区西糀谷2-14-13
-DESCRIPTION:受付: 10:00~11:45 / 13:15~16:00\n地図: https://maps.google.
- co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C
- %BA%E8%A5%BF%E7%B3%80%E8%B0%B7%EF%BC%92%EF%BC%8D%EF%BC%91%EF%BC%94%EF%BC%8
- D%EF%BC%91%EF%BC%93%20%E7%B3%80%E8%B0%B7%E7%89%B9%E5%88%A5%E5%87%BA%E5%BC%
- B5%E6%89%80&ie=UTF8&z=18\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/plac
- e/m1_03_kenbus.html
+DESCRIPTION:受付: 10:00~11:45 / 13:15~16:00\n地図: https://maps.app.goo
+ .gl/uzx6LxnmFPJ5mTon9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m
+ 1_03_kenbus.html
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
 END:VCALENDAR

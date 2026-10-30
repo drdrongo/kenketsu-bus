@@ -76,8 +76,8 @@ SUMMARY:献血バス イーアス高尾駐車場
 LOCATION:東京都八王子市東浅川町550-1
 DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
  enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000Cojw1&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/s7NYyS52iih
- e3exX6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/3Ua4wh5cuox
+ NqikXA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
  l
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  0Cojw1&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -91,8 +91,8 @@ SUMMARY:献血バス 京王線南大沢駅
 LOCATION:東京都八王子市南大沢2-29
 DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
  enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqRe&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/voYV7txPzCo
- v27TL7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/FS4gkFB3Byg
+ gntQM8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
  l
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07oqRe&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -104,8 +104,8 @@ DTSTART:20261113T030000Z
 DTEND:20261113T073000Z
 SUMMARY:献血バス ヤマザキ動物看護大学
 LOCATION:東京都八王子市南大沢4-7-2
-DESCRIPTION:受付: 12:00~16:30\n地図: https://maps.app.goo.gl/UL1595DXUQ
- HzCRbT6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+DESCRIPTION:受付: 12:00~16:30\n地図: https://maps.app.goo.gl/irs5n8axjg
+ XL5H89A\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
  ml
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
@@ -118,8 +118,8 @@ SUMMARY:献血バス 八王子山王病院
 LOCATION:東京都八王子市中野山王2-15-16
 DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
  enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000010ZWgQAM&sy=202
- 6&sm=10&sd=09&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/KPaosNg
- WRvUNmDAr6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus
+ 6&sm=10&sd=09&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/1P6jvSm
+ sQum6XyFm6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus
  .html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
  010ZWgQAM&sy=2026&sm=10&sd=09&ey=2026&em=11&ed=30
@@ -133,12 +133,9 @@ SUMMARY:献血バス いちょう祭り
 LOCATION:東京都八王子市東浅川町23番地34
 DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS000001
- JYOqQAO&sy=2026&sm=10&sd=06&ey=2026&em=11&ed=30\n地図: https://maps.goog
- le.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5
- %AD%90%E5%B8%82%E6%9D%B1%E6%B5%85%E5%B7%9D%E7%94%BA%EF%BC%92%EF%BC%93%E7%9
- 5%AA%E5%9C%B0%EF%BC%93%EF%BC%94%20%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E7%
- A5%AD%E3%82%8A&ie=UTF8&z=18\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/p
- lace/m1_03_kenbus.html
+ JYOqQAO&sy=2026&sm=10&sd=06&ey=2026&em=11&ed=30\n地図: https://maps.app.
+ goo.gl/TsBw5MafRu5jKfwM7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/plac
+ e/m1_03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
  01JYOqQAO&sy=2026&sm=10&sd=06&ey=2026&em=11&ed=30
 END:VEVENT
@@ -151,8 +148,8 @@ SUMMARY:献血バス イーアス高尾駐車場
 LOCATION:東京都八王子市東浅川町550-1
 DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
  enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000Cojw1&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/vb9QChSsDJe
- GhiDT8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/3Ua4wh5cuox
+ NqikXA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
  l
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  0Cojw1&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -167,7 +164,7 @@ LOCATION:東京都八王子市別所2-56
 DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  olig&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/r4Et3zRmQUTxzDVX8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ gl/mzLTLt2G3BfzJ2Cp7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
  _03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07olig&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -182,7 +179,7 @@ LOCATION:東京都八王子市狭間町1462-1
 DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  pAP6&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/cjDBAcKewvMe2Ru88\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ gl/Yvm9uDWsUcfqJFxA9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
  _03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07pAP6&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
@@ -196,11 +193,9 @@ SUMMARY:献血バス 京王線南大沢駅
 LOCATION:東京都八王子市南大沢2-29
 DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
  enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqRe&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.google.co.jp/maps?f=q&
- hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E5
- %8D%97%E5%A4%A7%E6%B2%A2%EF%BC%92%EF%BC%8D%EF%BC%92%EF%BC%99%20%E4%BA%AC%E
- 7%8E%8B%E7%B7%9A%E5%8D%97%E5%A4%A7%E6%B2%A2%E9%A7%85&ie=UTF8&z=18\n出典:
-  https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/FS4gkFB3Byg
+ gntQM8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07oqRe&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
@@ -214,14 +209,9 @@ LOCATION:東京都八王子市子安町4-7-1サザンスカイタワー八
  王子4階
 DESCRIPTION:受付: 10:00~11:45 / 13:00~15:30\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- p6JQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.google.c
- o.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%
- 90%E5%B8%82%E5%AD%90%E5%AE%89%E7%94%BA%EF%BC%94%EF%BC%8D%EF%BC%97%EF%BC%8D
- %EF%BC%91%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%BF%E
- 3%83%AF%E3%83%BC%E5%85%AB%E7%8E%8B%E5%AD%90%EF%BC%94%E9%9A%8E%20%E5%85%AB%
- E7%8E%8B%E5%AD%90%E9%A7%85%E5%8D%97%E5%8F%A3%E7%B7%8F%E5%90%88%E4%BA%8B%E5
- %8B%99%E6%89%80&ie=UTF8&z=18\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/
- place/m1_03_kenbus.html
+ p6JQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
+ gl/Jtcu9eE6LMdb9Vhj9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07p6JQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
