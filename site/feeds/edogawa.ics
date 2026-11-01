@@ -23,20 +23,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07or7v&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:e3aa647a5227@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261101T003000Z
-DTEND:20261101T050000Z
-SUMMARY:献血バス 北小岩まつり
-LOCATION:東京都江戸川区北小岩8-19-1
-DESCRIPTION:受付: 9:30~14:00\nWeb予約 (ラブラッド): https://www.ke
- nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oqO8&sy=2026&sm
- =11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/24fVq4NGGKtH
- E2NH9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07oqO8&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
-END:VEVENT
-BEGIN:VEVENT
 UID:8a989e690631@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261103T010000Z
