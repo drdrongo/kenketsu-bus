@@ -23,18 +23,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07owGX&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:aac8ec17fdc0@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261031T003000Z
-DTEND:20261031T043000Z
-SUMMARY:献血バス 東京都立板橋看護専門学校
-LOCATION:東京都板橋区栄町34-1
-DESCRIPTION:受付: 9:30~13:30\n地図: https://maps.app.goo.gl/wPTSRwdJRaf
- STT9S9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
- l
-URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
-END:VEVENT
-BEGIN:VEVENT
 UID:72d834bb4cde@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261122T010000Z

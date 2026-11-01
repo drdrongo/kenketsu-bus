@@ -35,21 +35,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07olY0&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:7fa394b77dd9@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261031T010000Z
-DTEND:20261031T070000Z
-SUMMARY:献血バス 北千住駅東口ロータリー
-LOCATION:東京都足立区千住旭町4-6
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000
- ImrL&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/CYYyaQ2gVVVyJcy56\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
- 00ImrL&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:c840f639e2e9@kenketsu-bus
 DTSTAMP:20261023T235130Z
 DTSTART:20261101T010000Z

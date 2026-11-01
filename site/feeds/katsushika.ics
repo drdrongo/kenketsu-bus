@@ -23,21 +23,6 @@ URL:https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
  om=prefecture&placeId=a0p0K000007ovZk
 END:VEVENT
 BEGIN:VEVENT
-UID:9efcc3d54865@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261031T010000Z
-DTEND:20261031T070000Z
-SUMMARY:献血バス カナマチぷらっと
-LOCATION:東京都葛飾区金町6-3-6
-DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000003
- OiGP&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.
- gl/RDM2WrpXMjRSeqwG7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
- 03OiGP&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:e34b5fec6cab@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261103T010000Z

@@ -23,18 +23,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ou8h&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:92059f4172a7@kenketsu-bus
-DTSTAMP:20261009T052447Z
-DTSTART:20261031T023000Z
-DTEND:20261031T070000Z
-SUMMARY:献血バス 東京医療学院大学
-LOCATION:東京都多摩市落合4-11
-DESCRIPTION:受付: 11:30~16:00\n地図: https://maps.app.goo.gl/LZmL8M7WjR
- mN4R3V7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
- ml
-URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
-END:VEVENT
-BEGIN:VEVENT
 UID:fcb193b9be2c@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261108T010000Z
