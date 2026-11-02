@@ -1231,10 +1231,10 @@ BEGIN:VEVENT
 UID:893a37e6822a@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261107T003000Z
-DTEND:20261107T063000Z
+DTEND:20261107T070000Z
 SUMMARY:献血バス イオンモールむさし村山
 LOCATION:東京都武蔵村山市榎1丁目1-3
-DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\nWeb予約 (ラブラッド): 
+DESCRIPTION:受付: 9:30~12:00 / 13:30~16:00\nWeb予約 (ラブラッド): 
  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
  thJ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
  l/gPBWyh6X5ojC2mVHA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
@@ -1336,11 +1336,11 @@ BEGIN:VEVENT
 UID:fcb193b9be2c@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261108T010000Z
-DTEND:20261108T070000Z
+DTEND:20261108T073000Z
 SUMMARY:献血バス 多摩センター駅前
 LOCATION:東京都多摩市落合1-46-1パルテノン大通り・ココリ
  ア横
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:30\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  p7XM&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
  gl/3MocMxGEqyho3QCV9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
@@ -1366,10 +1366,10 @@ BEGIN:VEVENT
 UID:19433bf36406@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261108T010000Z
-DTEND:20261108T070000Z
+DTEND:20261108T073000Z
 SUMMARY:献血バス イオンモール多摩平の森
 LOCATION:東京都日野市多摩平2-4-1
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:30\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  ovSf&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
  gl/rwANXK358otarHCt6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
@@ -1479,10 +1479,10 @@ BEGIN:VEVENT
 UID:df6706f46806@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261110T010000Z
-DTEND:20261110T070000Z
+DTEND:20261110T073000Z
 SUMMARY:献血バス 大國魂神社境内
 LOCATION:東京都府中市宮町3-1
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:30\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  orud&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
  gl/nLaEVWNb9rqsGbe99\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
@@ -2659,6 +2659,22 @@ DESCRIPTION:受付: 12:20~16:50\nWeb予約 (ラブラッド): https://www.k
  l
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07p6z5&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:88fed436ce52@kenketsu-bus
+DTSTAMP:20261102T192832Z
+DTSTART:20261127T050000Z
+DTEND:20261127T070000Z
+SUMMARY:献血バス 東京都中央卸売市場 食肉市場 センター
+ ビル西側1階ホール
+LOCATION:東京都港区港南2-7-19
+DESCRIPTION:受付: 14:00~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007obOo&sy=2026&s
+ m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/Fs27RSRFWBu
+ G63C19\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07obOo&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
 UID:9adbfd30ef06@kenketsu-bus

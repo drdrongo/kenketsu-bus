@@ -11,10 +11,10 @@ BEGIN:VEVENT
 UID:893a37e6822a@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261107T003000Z
-DTEND:20261107T063000Z
+DTEND:20261107T070000Z
 SUMMARY:献血バス イオンモールむさし村山
 LOCATION:東京都武蔵村山市榎1丁目1-3
-DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\nWeb予約 (ラブラッド): 
+DESCRIPTION:受付: 9:30~12:00 / 13:30~16:00\nWeb予約 (ラブラッド): 
  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
  thJ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
  l/gPBWyh6X5ojC2mVHA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_

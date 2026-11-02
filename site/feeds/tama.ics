@@ -26,11 +26,11 @@ BEGIN:VEVENT
 UID:fcb193b9be2c@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261108T010000Z
-DTEND:20261108T070000Z
+DTEND:20261108T073000Z
 SUMMARY:献血バス 多摩センター駅前
 LOCATION:東京都多摩市落合1-46-1パルテノン大通り・ココリ
  ア横
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:30\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  p7XM&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
  gl/3MocMxGEqyho3QCV9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
