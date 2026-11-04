@@ -53,10 +53,10 @@ BEGIN:VEVENT
 UID:81027de5d10c@kenketsu-bus
 DTSTAMP:20261023T235130Z
 DTSTART:20261108T010000Z
-DTEND:20261108T070000Z
+DTEND:20261108T073000Z
 SUMMARY:献血バス 東武線 竹ノ塚駅 東口
 LOCATION:東京都足立区竹の塚6-6-1
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:30\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  ovZm&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
  gl/YBUjPeNRNzrG6KKU7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
