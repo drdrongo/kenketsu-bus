@@ -26,10 +26,10 @@ BEGIN:VEVENT
 UID:ffb2d21ade94@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261107T010000Z
-DTEND:20261107T070000Z
+DTEND:20261107T073000Z
 SUMMARY:献血バス JR錦糸町駅南口
 LOCATION:東京都墨田区江東橋3-14-5
-DESCRIPTION:受付: 10:00~11:30 / 12:50~16:00\nWeb予約 (ラブラッド):
+DESCRIPTION:受付: 10:00~11:30 / 12:50~16:30\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  p8oG&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
  gl/voYV7txPzCov27TL7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
@@ -41,10 +41,10 @@ BEGIN:VEVENT
 UID:b083ef9ea7b1@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261108T010000Z
-DTEND:20261108T070000Z
+DTEND:20261108T073000Z
 SUMMARY:献血バス JR錦糸町駅南口
 LOCATION:東京都墨田区江東橋3-14-5
-DESCRIPTION:受付: 10:00~11:30 / 12:50~16:00\nWeb予約 (ラブラッド):
+DESCRIPTION:受付: 10:00~11:30 / 12:50~16:30\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
  p8oG&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
  gl/voYV7txPzCov27TL7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1

@@ -110,10 +110,13 @@ DTSTART:20261107T003000Z
 DTEND:20261107T063000Z
 SUMMARY:献血バス OTAフェスタ 太陽のエリア
 LOCATION:東京都大田区平和島4-2
-DESCRIPTION:受付: 9:30~11:30 / 13:00~15:30\n地図: https://maps.app.goo.
- gl/kSBdfPvtNPWZeptq7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+DESCRIPTION:受付: 9:30~11:30 / 13:00~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ b1V&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
+ l/kSBdfPvtNPWZeptq7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ob1V&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
 UID:2c4dc7c08cdf@kenketsu-bus

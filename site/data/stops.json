@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-11-05T02:13:32+09:00",
+ "updated_at": "2026-11-06T02:22:49+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -2232,7 +2232,7 @@
    "notes": [],
    "hours": [
     "10:00~11:30",
-    "12:50~16:00"
+    "12:50~16:30"
    ],
    "sessions": [
     [
@@ -2241,7 +2241,7 @@
     ],
     [
      "12:50",
-     "16:00"
+     "16:30"
     ]
    ],
    "first_seen": "2026-10-23T23:13:43+09:00"
@@ -2254,7 +2254,7 @@
    "venue": "OTAフェスタ 太陽のエリア",
    "address": "東京都大田区平和島4-2",
    "map": "https://maps.app.goo.gl/kSBdfPvtNPWZeptq7",
-   "reserve": null,
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ob1V&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
     "9:30~11:30",
@@ -2399,7 +2399,7 @@
    "slug": "toshima",
    "venue": "池袋駅東口",
    "address": "東京都豊島区南池袋1-29-1ISP地下入り口脇",
-   "map": "https://maps.app.goo.gl/voYV7txPzCov27TL7",
+   "map": "https://maps.app.goo.gl/H1LqyypoHG8AhanC9",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -2451,7 +2451,7 @@
    "notes": [],
    "hours": [
     "10:00~11:30",
-    "12:50~16:00"
+    "12:50~16:30"
    ],
    "sessions": [
     [
@@ -2460,7 +2460,7 @@
     ],
     [
      "12:50",
-     "16:00"
+     "16:30"
     ]
    ],
    "first_seen": "2026-10-23T23:13:43+09:00"
@@ -4222,30 +4222,30 @@
    "first_seen": "2026-10-23T23:13:43+09:00"
   },
   {
-   "id": "58fdd97b5f99",
+   "id": "dee497280170",
    "date": "2026-11-22",
-   "city": "江戸川区",
-   "slug": "edogawa",
-   "venue": "都営新宿線船堀駅北口広場",
-   "address": "東京都江戸川区船堀3-6",
-   "map": "https://maps.app.goo.gl/mEoHmkpVEMx6UMBf6",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZg&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "city": "葛飾区",
+   "slug": "katsushika",
+   "venue": "JR新小岩駅",
+   "address": "東京都葛飾区新小岩1-47",
+   "map": "https://maps.app.goo.gl/DVy6Y4XPconMQxVy5",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
-    "10:00~11:30",
-    "13:00~16:00"
+    "10:00~12:00",
+    "13:30~16:00"
    ],
    "sessions": [
     [
      "10:00",
-     "11:30"
+     "12:00"
     ],
     [
-     "13:00",
+     "13:30",
      "16:00"
     ]
    ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
+   "first_seen": "2026-11-06T02:22:49+09:00"
   },
   {
    "id": "3c426ae47bd6",
@@ -4790,6 +4790,32 @@
    "first_seen": "2026-10-23T23:13:43+09:00"
   },
   {
+   "id": "8dffa7640644",
+   "date": "2026-11-28",
+   "city": "品川区",
+   "slug": "shinagawa",
+   "venue": "東急武蔵小山駅前ロータリー",
+   "address": "東京都品川区小山3‐4‐8",
+   "map": "https://maps.app.goo.gl/Ej9k4BighGUohmft6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ob0k&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-11-06T02:22:49+09:00"
+  },
+  {
    "id": "8607d349bbc2",
    "date": "2026-11-28",
    "city": "大田区",
@@ -5014,6 +5040,32 @@
    "first_seen": "2026-10-23T23:13:43+09:00"
   },
   {
+   "id": "0dc14607f631",
+   "date": "2026-11-29",
+   "city": "江戸川区",
+   "slug": "edogawa",
+   "venue": "都営新宿線船堀駅北口広場",
+   "address": "東京都江戸川区船堀3-6",
+   "map": "https://maps.app.goo.gl/mEoHmkpVEMx6UMBf6",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZg&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "notes": [],
+   "hours": [
+    "10:00~11:30",
+    "13:00~16:00"
+   ],
+   "sessions": [
+    [
+     "10:00",
+     "11:30"
+    ],
+    [
+     "13:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-11-06T02:22:49+09:00"
+  },
+  {
    "id": "cab0a5653ae7",
    "date": "2026-11-29",
    "city": "港区",
@@ -5031,32 +5083,6 @@
     [
      "09:30",
      "11:45"
-    ],
-    [
-     "13:30",
-     "16:00"
-    ]
-   ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
-  },
-  {
-   "id": "54f51434a3ea",
-   "date": "2026-11-29",
-   "city": "葛飾区",
-   "slug": "katsushika",
-   "venue": "JR新小岩駅",
-   "address": "東京都葛飾区新小岩1-47",
-   "map": "https://maps.app.goo.gl/DVy6Y4XPconMQxVy5",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZk&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
-   "notes": [],
-   "hours": [
-    "10:00~12:00",
-    "13:30~16:00"
-   ],
-   "sessions": [
-    [
-     "10:00",
-     "12:00"
     ],
     [
      "13:30",
