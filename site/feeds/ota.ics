@@ -140,10 +140,14 @@ DTSTART:20261122T010000Z
 DTEND:20261122T070000Z
 SUMMARY:献血バス 東急大岡山駅前
 LOCATION:東京都大田区北千束3-27
-DESCRIPTION:受付: 10:00~11:30 / 13:00‐16:00\n地図: https://maps.app.g
- oo.gl/NBDQJbeqPoZBUDeWA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place
- /m1_03_kenbus.html
-URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+DESCRIPTION:受付: 10:00~11:30 / 13:00‐16:00\nWeb予約 (ラブラッド
+ ): https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
+ om=prefecture&placeId=a0p0K000007ob1Q&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=
+ 31\n地図: https://maps.app.goo.gl/NBDQJbeqPoZBUDeWA\n出典: https://www
+ .bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
+ om=prefecture&placeId=a0p0K000007ob1Q&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=
+ 31
 END:VEVENT
 BEGIN:VEVENT
 UID:d7a71e2efdc0@kenketsu-bus
@@ -152,10 +156,14 @@ DTSTART:20261123T003000Z
 DTEND:20261123T063000Z
 SUMMARY:献血バス 六郷地域力推進センター
 LOCATION:東京都大田区仲六郷2-44-11
-DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\n地図: https://maps.app.goo.
- gl/vb9QChSsDJeGhiDT8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=
+ prefecture&placeId=a0p0K000007olZc&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\
+ n地図: https://maps.app.goo.gl/vb9QChSsDJeGhiDT8\n出典: https://www.bs
+ .jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
+ om=prefecture&placeId=a0p0K000007olZc&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=
+ 31
 END:VEVENT
 BEGIN:VEVENT
 UID:8607d349bbc2@kenketsu-bus
@@ -179,9 +187,13 @@ DTSTART:20261129T010000Z
 DTEND:20261129T070000Z
 SUMMARY:献血バス 糀谷特別出張所
 LOCATION:東京都大田区西糀谷2-14-13
-DESCRIPTION:受付: 10:00~11:45 / 13:15~16:00\n地図: https://maps.app.goo
- .gl/uzx6LxnmFPJ5mTon9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m
- 1_03_kenbus.html
-URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+DESCRIPTION:受付: 10:00~11:45 / 13:15~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from
+ =prefecture&placeId=a0p0K000007obBc&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+ \n地図: https://maps.app.goo.gl/uzx6LxnmFPJ5mTon9\n出典: https://www.b
+ s.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
+ om=prefecture&placeId=a0p0K000007obBc&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=
+ 31
 END:VEVENT
 END:VCALENDAR

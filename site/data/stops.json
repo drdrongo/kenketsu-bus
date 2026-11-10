@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-11-06T02:22:49+09:00",
+ "updated_at": "2026-11-11T02:01:29+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -3198,7 +3198,7 @@
    "venue": "東急自由が丘駅",
    "address": "東京都目黒区自由が丘1-30",
    "map": "https://maps.app.goo.gl/9LPDnLcfdV3KSEyZ6",
-   "reserve": null,
+   "reserve": "https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=prefecture&placeId=a0p0K000007obOx&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
     "10:00~11:30",
@@ -3228,7 +3228,7 @@
    "notes": [],
    "hours": [
     "10:00~12:00",
-    "13:30~16:00"
+    "13:30~16:30"
    ],
    "sessions": [
     [
@@ -3237,7 +3237,7 @@
     ],
     [
      "13:30",
-     "16:00"
+     "16:30"
     ]
    ],
    "first_seen": "2026-10-23T23:13:43+09:00"
@@ -4104,7 +4104,7 @@
    "venue": "東急大岡山駅前",
    "address": "東京都大田区北千束3-27",
    "map": "https://maps.app.goo.gl/NBDQJbeqPoZBUDeWA",
-   "reserve": null,
+   "reserve": "https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=prefecture&placeId=a0p0K000007ob1Q&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
     "10:00~11:30",
@@ -4254,7 +4254,7 @@
    "slug": "toshima",
    "venue": "巣鴨駅北口交番裏",
    "address": "東京都豊島区巣鴨2-5 交番裏",
-   "map": "https://maps.app.goo.gl/CM8YbouA5gam9XvRA",
+   "map": "https://maps.app.goo.gl/45epmbsdbRkE5jy89",
    "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovYK&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
@@ -4349,7 +4349,7 @@
    "venue": "六郷地域力推進センター",
    "address": "東京都大田区仲六郷2-44-11",
    "map": "https://maps.app.goo.gl/vb9QChSsDJeGhiDT8",
-   "reserve": null,
+   "reserve": "https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=prefecture&placeId=a0p0K000007olZc&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
     "9:30~12:00",
@@ -5021,7 +5021,7 @@
    "venue": "糀谷特別出張所",
    "address": "東京都大田区西糀谷2-14-13",
    "map": "https://maps.app.goo.gl/uzx6LxnmFPJ5mTon9",
-   "reserve": null,
+   "reserve": "https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=prefecture&placeId=a0p0K000007obBc&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
    "notes": [],
    "hours": [
     "10:00~11:45",

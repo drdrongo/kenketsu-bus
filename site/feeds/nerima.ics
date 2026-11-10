@@ -80,10 +80,10 @@ BEGIN:VEVENT
 UID:237691866292@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261114T010000Z
-DTEND:20261114T070000Z
+DTEND:20261114T073000Z
 SUMMARY:献血バス 石神井公園駅中央口
 LOCATION:東京都練馬区石神井町3-23-10
-DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:30\nWeb予約 (ラブラッド):
   https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000F
  vNb5&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
  gl/dBvPKV67sPMDxKYz9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
