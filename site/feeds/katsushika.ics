@@ -55,15 +55,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:09017e6ed83f@kenketsu-bus
 DTSTAMP:20261023T141343Z
-DTSTART:20261115T010000Z
+DTSTART:20261115T003000Z
 DTEND:20261115T070000Z
 SUMMARY:献血バス JR亀有駅南口
 LOCATION:東京都葛飾区亀有3-26-1
-DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- orv3&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/6gABKxV5do3gMLZ18\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
+DESCRIPTION:受付: 9:30~12:00 / 13:30~16:00\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ rv3&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
+ l/6gABKxV5do3gMLZ18\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07orv3&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
