@@ -14,11 +14,12 @@ DTSTART:20261114T010000Z
 DTEND:20261114T070000Z
 SUMMARY:献血バス 谷戸小学校駐車場(西東京市民まつり)
 LOCATION:東京都西東京市緑町3-1-1
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/3XqsCunnNCpDBRY27\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00 / ※献血予約をして400
+ mL献血が出来た方へ、モバイルバッテリープレゼント!\n
+ Web予約 (ラブラッド): https://www.kenketsu.jp:443/ReservationByType
+ Confirm?placeMst=a0p0K000007pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n
+ 地図: https://maps.app.goo.gl/3XqsCunnNCpDBRY27\n出典: https://www.bs.
+ jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
@@ -29,11 +30,12 @@ DTSTART:20261115T010000Z
 DTEND:20261115T070000Z
 SUMMARY:献血バス 田無駅北口(Aビル裏駐車場)
 LOCATION:東京都西東京市田無町4-2-13
-DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- odMX&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/D3grrHeTxEuYFB9E8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00 / ※献血予約をして400
+ mL献血が出来た方へ、モバイルバッテリープレゼント!\n
+ Web予約 (ラブラッド): https://www.kenketsu.jp:443/ReservationByType
+ Confirm?placeMst=a0p0K000007odMX&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n
+ 地図: https://maps.app.goo.gl/D3grrHeTxEuYFB9E8\n出典: https://www.bs.
+ jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07odMX&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
@@ -44,11 +46,12 @@ DTSTART:20261115T001500Z
 DTEND:20261115T063000Z
 SUMMARY:献血バス 谷戸小学校駐車場(西東京市民まつり)
 LOCATION:東京都西東京市緑町3-1-1
-DESCRIPTION:受付: 9:15~11:00 / 12:30~15:30\nWeb予約 (ラブラッド): 
- https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p
- AkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
- l/3XqsCunnNCpDBRY27\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
- 03_kenbus.html
+DESCRIPTION:受付: 9:15~11:00 / 12:30~15:30 / ※献血予約をして400m
+ L献血が出来た方へ、モバイルバッテリープレゼント!\nW
+ eb予約 (ラブラッド): https://www.kenketsu.jp:443/ReservationByTypeC
+ onfirm?placeMst=a0p0K000007pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n
+ 地図: https://maps.app.goo.gl/3XqsCunnNCpDBRY27\n出典: https://www.bs.
+ jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT

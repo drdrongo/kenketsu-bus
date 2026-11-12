@@ -29,11 +29,12 @@ DTSTART:20261114T010000Z
 DTEND:20261114T070000Z
 SUMMARY:献血バス 村山デエダラまつり
 LOCATION:東京都武蔵村山市榎1
-DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- omat&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/aLdJ53ZrJmWfYNnE7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00 / ※献血予約をして400
+ mL献血が出来た方へ、モバイルバッテリープレゼント!\n
+ Web予約 (ラブラッド): https://www.kenketsu.jp:443/ReservationByType
+ Confirm?placeMst=a0p0K000007omat&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n
+ 地図: https://maps.app.goo.gl/aLdJ53ZrJmWfYNnE7\n出典: https://www.bs.
+ jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07omat&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
