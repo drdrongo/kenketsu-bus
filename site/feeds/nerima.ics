@@ -93,21 +93,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  0FvNb5&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
-UID:6342a27a7d72@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261118T010000Z
-DTEND:20261118T070000Z
-SUMMARY:献血バス ホテルカデンツァ東京 J.CITYホール
-LOCATION:練馬区高松5-8
-DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- otTw&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/SiRxXaQ8fCq6Dy1i8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07otTw&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
-END:VEVENT
-BEGIN:VEVENT
 UID:5e017a06725d@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261124T050000Z
