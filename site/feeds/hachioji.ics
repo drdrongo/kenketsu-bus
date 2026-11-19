@@ -80,21 +80,6 @@ DESCRIPTION:受付: 12:00~16:30\n地図: https://maps.app.goo.gl/irs5n8axjg
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2ae8d0a1249f@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261119T023000Z
-DTEND:20261119T070000Z
-SUMMARY:献血バス 八王子山王病院
-LOCATION:東京都八王子市中野山王2-15-16
-DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
- enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000010ZWgQAM&sy=202
- 6&sm=10&sd=09&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/1P6jvSm
- sQum6XyFm6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus
- .html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
- 010ZWgQAM&sy=2026&sm=10&sd=09&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
 UID:87b323bffa95@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261121T010000Z

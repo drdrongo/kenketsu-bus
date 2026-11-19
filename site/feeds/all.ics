@@ -2048,51 +2048,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ovZh&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
-UID:2ae8d0a1249f@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261119T023000Z
-DTEND:20261119T070000Z
-SUMMARY:献血バス 八王子山王病院
-LOCATION:東京都八王子市中野山王2-15-16
-DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
- enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000010ZWgQAM&sy=202
- 6&sm=10&sd=09&ey=2026&em=11&ed=30\n地図: https://maps.app.goo.gl/1P6jvSm
- sQum6XyFm6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus
- .html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
- 010ZWgQAM&sy=2026&sm=10&sd=09&ey=2026&em=11&ed=30
-END:VEVENT
-BEGIN:VEVENT
-UID:dfe376e36c0d@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261119T010000Z
-DTEND:20261119T070000Z
-SUMMARY:献血バス KDDI新宿ビル 正面玄関横
-LOCATION:東京都新宿区西新宿2-3-2
-DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- oabQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/ZxHgNz1TAK5FQvT97\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07oabQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
-END:VEVENT
-BEGIN:VEVENT
-UID:96f7f42423a5@kenketsu-bus
-DTSTAMP:20261023T235130Z
-DTSTART:20261119T010000Z
-DTEND:20261119T070000Z
-SUMMARY:献血バス 熊野前商店街ACT21横 広場
-LOCATION:東京都荒川区東尾久5-9-3
-DESCRIPTION:受付: 10:00~11:15 / 12:30~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- pBLl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/Vh9hhywvUpRrEPoC7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07pBLl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
-END:VEVENT
-BEGIN:VEVENT
 UID:1ec8f81aeb4e@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261120T010000Z

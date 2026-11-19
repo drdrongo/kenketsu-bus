@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-11-19T03:01:46+09:00",
+ "updated_at": "2026-11-20T03:15:22+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -3629,79 +3629,6 @@
     ]
    ],
    "first_seen": "2026-10-28T00:20:26+09:00"
-  },
-  {
-   "id": "2ae8d0a1249f",
-   "date": "2026-11-19",
-   "city": "八王子市",
-   "slug": "hachioji",
-   "venue": "八王子山王病院",
-   "address": "東京都八王子市中野山王2-15-16",
-   "map": "https://maps.app.goo.gl/1P6jvSmsQum6XyFm6",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000010ZWgQAM&sy=2026&sm=10&sd=09&ey=2026&em=11&ed=30",
-   "notes": [],
-   "hours": [
-    "11:30~16:00"
-   ],
-   "sessions": [
-    [
-     "11:30",
-     "16:00"
-    ]
-   ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
-  },
-  {
-   "id": "dfe376e36c0d",
-   "date": "2026-11-19",
-   "city": "新宿区",
-   "slug": "shinjuku",
-   "venue": "KDDI新宿ビル 正面玄関横",
-   "address": "東京都新宿区西新宿2-3-2",
-   "map": "https://maps.app.goo.gl/ZxHgNz1TAK5FQvT97",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oabQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
-   "notes": [],
-   "hours": [
-    "10:00~11:00",
-    "12:30~16:00"
-   ],
-   "sessions": [
-    [
-     "10:00",
-     "11:00"
-    ],
-    [
-     "12:30",
-     "16:00"
-    ]
-   ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
-  },
-  {
-   "id": "96f7f42423a5",
-   "date": "2026-11-19",
-   "city": "荒川区",
-   "slug": "arakawa",
-   "venue": "熊野前商店街ACT21横 広場",
-   "address": "東京都荒川区東尾久5-9-3",
-   "map": "https://maps.app.goo.gl/Vh9hhywvUpRrEPoC7",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007pBLl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
-   "notes": [],
-   "hours": [
-    "10:00~11:15",
-    "12:30~16:00"
-   ],
-   "sessions": [
-    [
-     "10:00",
-     "11:15"
-    ],
-    [
-     "12:30",
-     "16:00"
-    ]
-   ],
-   "first_seen": "2026-10-24T08:51:30+09:00"
   },
   {
    "id": "1ec8f81aeb4e",
