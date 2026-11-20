@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-11-20T03:15:22+09:00",
+ "updated_at": "2026-11-20T11:19:11+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -4509,6 +4509,27 @@
     ]
    ],
    "first_seen": "2026-10-23T23:13:43+09:00"
+  },
+  {
+   "id": "03c8b4e1dcee",
+   "date": "2026-11-26",
+   "city": "大田区",
+   "slug": "ota",
+   "venue": "蒲田駅西口",
+   "address": "東京都大田区西蒲田7丁目2−3 蒲田駅",
+   "map": "https://maps.google.co.jp/maps?f=q&hl=ja&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%A5%BF%E8%92%B2%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%92%EF%BC%93%20%E8%92%B2%E7%94%B0%E9%A7%85%20%E8%92%B2%E7%94%B0%E9%A7%85%E8%A5%BF%E5%8F%A3&ie=UTF8&z=18",
+   "reserve": "https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=prefecture&placeId=a0p0K000007obOv&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "notes": [],
+   "hours": [
+    "15:00-16:00"
+   ],
+   "sessions": [
+    [
+     "15:00",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-11-20T11:19:11+09:00"
   },
   {
    "id": "58a2882cb1ca",
