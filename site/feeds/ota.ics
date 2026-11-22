@@ -134,22 +134,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07p4eQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
-UID:37927684b334@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261122T010000Z
-DTEND:20261122T070000Z
-SUMMARY:献血バス 東急大岡山駅前
-LOCATION:東京都大田区北千束3-27
-DESCRIPTION:受付: 10:00~11:30 / 13:00‐16:00\nWeb予約 (ラブラッド
- ): https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
- om=prefecture&placeId=a0p0K000007ob1Q&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=
- 31\n地図: https://maps.app.goo.gl/NBDQJbeqPoZBUDeWA\n出典: https://www
- .bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
-URL:https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
- om=prefecture&placeId=a0p0K000007ob1Q&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=
- 31
-END:VEVENT
-BEGIN:VEVENT
 UID:d7a71e2efdc0@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261123T003000Z

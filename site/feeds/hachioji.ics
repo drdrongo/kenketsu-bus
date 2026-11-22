@@ -95,21 +95,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
  01JYOqQAO&sy=2026&sm=10&sd=06&ey=2026&em=11&ed=30
 END:VEVENT
 BEGIN:VEVENT
-UID:db2d811def0a@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261122T023000Z
-DTEND:20261122T070000Z
-SUMMARY:献血バス イーアス高尾駐車場
-LOCATION:東京都八王子市東浅川町550-1
-DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
- enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000Cojw1&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/3Ua4wh5cuox
- NqikXA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
- l
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 0Cojw1&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
-END:VEVENT
-BEGIN:VEVENT
 UID:4b6bba23fc8d@kenketsu-bus
 DTSTAMP:20261023T141343Z
 DTSTART:20261128T010000Z

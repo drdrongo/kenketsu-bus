@@ -23,21 +23,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
-UID:3c426ae47bd6@kenketsu-bus
-DTSTAMP:20261028T003133Z
-DTSTART:20261122T010000Z
-DTEND:20261122T070000Z
-SUMMARY:献血バス 巣鴨駅北口交番裏
-LOCATION:東京都豊島区巣鴨2-5 交番裏
-DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
-  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
- ovYK&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.
- gl/45epmbsdbRkE5jy89\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
- _03_kenbus.html
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07ovYK&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
-END:VEVENT
-BEGIN:VEVENT
 UID:a90cec6a89d6@kenketsu-bus
 DTSTAMP:20261028T003133Z
 DTSTART:20261129T023000Z

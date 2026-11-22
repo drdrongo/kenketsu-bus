@@ -80,21 +80,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
  00ImrL&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
-UID:f329cf62c1b0@kenketsu-bus
-DTSTAMP:20261023T235130Z
-DTSTART:20261122T013000Z
-DTEND:20261122T060000Z
-SUMMARY:献血バス 足立区立 第十三中学校
-LOCATION:東京都足立区神明南1-16-1
-DESCRIPTION:受付: 10:30~15:00\nWeb予約 (ラブラッド): https://www.k
- enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007or8X&sy=2026&s
- m=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/SbfyPSMSsrL
- xT8ar8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
- l
-URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07or8X&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
-END:VEVENT
-BEGIN:VEVENT
 UID:8116638828b0@kenketsu-bus
 DTSTAMP:20261023T235130Z
 DTSTART:20261126T010000Z
