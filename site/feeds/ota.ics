@@ -134,22 +134,6 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07p4eQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
-UID:d7a71e2efdc0@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261123T003000Z
-DTEND:20261123T063000Z
-SUMMARY:献血バス 六郷地域力推進センター
-LOCATION:東京都大田区仲六郷2-44-11
-DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\nWeb予約 (ラブラッド): 
- https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&from=
- prefecture&placeId=a0p0K000007olZc&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\
- n地図: https://maps.app.goo.gl/vb9QChSsDJeGhiDT8\n出典: https://www.bs
- .jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
-URL:https://www.kenketsu.jp/reservationedit?accountId=0010K00001t6TRcQAM&fr
- om=prefecture&placeId=a0p0K000007olZc&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=
- 31
-END:VEVENT
-BEGIN:VEVENT
 UID:03c8b4e1dcee@kenketsu-bus
 DTSTAMP:20261120T021911Z
 DTSTART:20261126T060000Z
