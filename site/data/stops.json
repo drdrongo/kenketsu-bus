@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-11-24T06:19:17+09:00",
+ "updated_at": "2026-11-25T05:08:17+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -3988,79 +3988,6 @@
     ]
    ],
    "first_seen": "2026-11-06T02:22:49+09:00"
-  },
-  {
-   "id": "9e6da8427f13",
-   "date": "2026-11-24",
-   "city": "江戸川区",
-   "slug": "edogawa",
-   "venue": "江戸川区役所",
-   "address": "東京都江戸川区中央1-4-1",
-   "map": "https://maps.app.goo.gl/mBVmVNckQty4jjX66",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ou9S&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
-   "notes": [],
-   "hours": [
-    "9:30~11:30",
-    "13:00~15:30"
-   ],
-   "sessions": [
-    [
-     "09:30",
-     "11:30"
-    ],
-    [
-     "13:00",
-     "15:30"
-    ]
-   ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
-  },
-  {
-   "id": "5e017a06725d",
-   "date": "2026-11-24",
-   "city": "練馬区",
-   "slug": "nerima",
-   "venue": "石神井公園駅中央口",
-   "address": "東京都練馬区石神井町3-23-10",
-   "map": "https://maps.app.goo.gl/dBvPKV67sPMDxKYz9",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000FvNb5&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
-   "notes": [],
-   "hours": [
-    "14:00~16:00"
-   ],
-   "sessions": [
-    [
-     "14:00",
-     "16:00"
-    ]
-   ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
-  },
-  {
-   "id": "854a88b6f956",
-   "date": "2026-11-24",
-   "city": "調布市",
-   "slug": "chofu",
-   "venue": "調布駅前広場",
-   "address": "東京都調布市小島町2-60",
-   "map": "https://maps.app.goo.gl/kaNQnM9h5T2vrNPG6",
-   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ocxR&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
-   "notes": [],
-   "hours": [
-    "10:00~12:00",
-    "13:30~16:00"
-   ],
-   "sessions": [
-    [
-     "10:00",
-     "12:00"
-    ],
-    [
-     "13:30",
-     "16:00"
-    ]
-   ],
-   "first_seen": "2026-10-23T23:13:43+09:00"
   },
   {
    "id": "1d0fa8be7ce8",
