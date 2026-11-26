@@ -110,4 +110,30 @@ DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ovZs&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:49c5814f83a8@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261213T023000Z
+DTEND:20261213T070000Z
+SUMMARY:献血バス 上野恩賜公園
+LOCATION:東京都台東区上野公園5-20
+DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007ovZs&sy=2026&s
+ m=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/EoDQJehErtQZ
+ pTJw8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ovZs&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:0c062663d19f@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261223T003000Z
+DTEND:20261223T023000Z
+SUMMARY:献血バス 警視庁 下谷警察署
+LOCATION:東京都台東区下谷3-15-9
+DESCRIPTION:受付: 9:30~11:30\n地図: https://maps.app.goo.gl/VwhbxRChkbH
+ pHmA26\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.htm
+ l
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
 END:VCALENDAR

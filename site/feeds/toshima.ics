@@ -40,4 +40,16 @@ DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07owIF&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:6292bda4f73a@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261219T023000Z
+DTEND:20261219T070000Z
+SUMMARY:献血バス 池袋駅東口
+LOCATION:東京都豊島区南池袋1-29-1ISP地下入り口脇
+DESCRIPTION:受付: 11:30~16:00\n地図: https://maps.app.goo.gl/K2GMW6uRQ9
+ zDg5Dq7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
 END:VCALENDAR

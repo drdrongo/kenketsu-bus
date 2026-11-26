@@ -7,4 +7,64 @@ X-WR-CALNAME:献血バス 武蔵野市
 X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:028a7d7a20dc@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261201T003000Z
+DTEND:20261201T063000Z
+SUMMARY:献血バス 武蔵野赤十字病院
+LOCATION:東京都武蔵野市境南町1-26-1
+DESCRIPTION:受付: 9:30~11:30 / 13:00~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ cyj&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl
+ /g1SVfPzG5dYcdQQs7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_0
+ 3_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ocyj&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:cba50e761a38@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261203T010000Z
+DTEND:20261203T074000Z
+SUMMARY:献血バス 武蔵境駅南口
+LOCATION:東京都武蔵野市境南町2-1-12
+DESCRIPTION:受付: 10:00~11:00 / 12:20~16:40\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ odLC&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/CNw5FeZN9V12bNa7A\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07odLC&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:a5ce50460ca6@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261212T010000Z
+DTEND:20261212T073000Z
+SUMMARY:献血バス 武蔵境駅南口
+LOCATION:東京都武蔵野市境南町2-1-12
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:30\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ odLC&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/CNw5FeZN9V12bNa7A\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07odLC&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:7eee44b6617e@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261228T010000Z
+DTEND:20261228T073000Z
+SUMMARY:献血バス 武蔵境駅南口
+LOCATION:東京都武蔵野市境南町2-1-12
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:30\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ odLC&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/CNw5FeZN9V12bNa7A\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07odLC&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

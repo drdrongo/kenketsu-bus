@@ -22,4 +22,49 @@ DESCRIPTION:受付: 10:00~12:00 / 13:15~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07oxBN&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:13748f3810c3@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261202T005000Z
+DTEND:20261202T023000Z
+SUMMARY:献血バス 医療法人社団仁成会 高木病院
+LOCATION:東京都青梅市今寺5-18-19
+DESCRIPTION:受付: 9:50~11:30\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS000001aOjBQAU&sy=2026
+ &sm=11&sd=17&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.gl/9BuvkxXK
+ eiCVTDc89\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.
+ html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
+ 01aOjBQAU&sy=2026&sm=11&sd=17&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c4bf874a23@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261208T010000Z
+DTEND:20261208T070000Z
+SUMMARY:献血バス 青梅市役所
+LOCATION:東京都青梅市東青梅1-11-1
+DESCRIPTION:受付: 10:00~12:00 / 13:15~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ or9e&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/HTt7ehoA6LvPpvWU6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07or9e&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:7f67d448187e@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261213T010000Z
+DTEND:20261213T070000Z
+SUMMARY:献血バス カインズ青梅インター店
+LOCATION:東京都青梅市新町6-9-4
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oxBN&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/ZDUsYUis3B1zoTvp9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oxBN&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

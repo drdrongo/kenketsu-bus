@@ -56,18 +56,18 @@ URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07pAkH&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
 BEGIN:VEVENT
-UID:f84198dd8799@kenketsu-bus
-DTSTAMP:20261023T141343Z
-DTSTART:20261126T003000Z
-DTEND:20261126T070000Z
-SUMMARY:献血バス 西東京中央総合病院
-LOCATION:東京都西東京市芝久保町2-4-19
-DESCRIPTION:受付: 9:30~11:30 / 13:00~16:00\nWeb予約 (ラブラッド): 
- https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007p
- 7ta&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31\n地図: https://maps.app.goo.g
- l/LUZ825zKm2wnFbXc6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+UID:6757fd2973ec@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261212T010000Z
+DTEND:20261212T070000Z
+SUMMARY:献血バス マックスバリュ田無芝久保店
+LOCATION:東京都西東京市芝久保町1-12-5
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ozKb&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/H8VABchVQRuPk7aWA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
  03_kenbus.html
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
- 07p7ta&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
+ 07ozKb&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
 END:VEVENT
 END:VCALENDAR

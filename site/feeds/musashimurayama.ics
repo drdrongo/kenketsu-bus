@@ -53,4 +53,34 @@ DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07othJ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:58a69f47f194@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261205T010000Z
+DTEND:20261205T070000Z
+SUMMARY:献血バス イオンスタイル武蔵村山南
+LOCATION:東京都武蔵村山市伊奈平3-36-1
+DESCRIPTION:受付: 10:00~11:45 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS000001
+ bzjtQAA&sy=2026&sm=11&sd=17&ey=2026&em=12&ed=31\n地図: https://maps.app.
+ goo.gl/aUAqQFuovW1Kp3f47\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/plac
+ e/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pfS0000
+ 01bzjtQAA&sy=2026&sm=11&sd=17&ey=2026&em=12&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:aac28865afff@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261212T003000Z
+DTEND:20261212T063000Z
+SUMMARY:献血バス イオンモールむさし村山
+LOCATION:東京都武蔵村山市榎1丁目1-3
+DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ thJ&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl
+ /gPBWyh6X5ojC2mVHA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_0
+ 3_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07othJ&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

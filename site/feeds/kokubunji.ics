@@ -37,4 +37,18 @@ DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07otUE&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
+BEGIN:VEVENT
+UID:19f033fa8cba@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261212T023000Z
+DTEND:20261212T070000Z
+SUMMARY:献血バス 国分寺駅南口
+LOCATION:東京都国分寺市南町3-20
+DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007otUL&sy=2026&s
+ m=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/AyB6CUKrVVur
+ f6xW7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07otUL&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

@@ -51,4 +51,34 @@ DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ob0k&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:c5ccd904785e@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261206T010000Z
+DTEND:20261206T070000Z
+SUMMARY:献血バス JR東急目黒ビル 目黒駅正面口前
+LOCATION:東京都品川区上大崎3-1-1
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ olLO&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/eUXWYhGyGotLixaC7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07olLO&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:92bdee11ec7a@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261211T010000Z
+DTEND:20261211T073000Z
+SUMMARY:献血バス JR東急目黒ビル
+LOCATION:東京都品川区上大崎3-1-1
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:30\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ olLO&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/eUXWYhGyGotLixaC7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07olLO&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

@@ -22,4 +22,50 @@ DESCRIPTION:受付: 9:30~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07ofEG&sy=2026&sm=10&sd=1&ey=2026&em=11&ed=30
 END:VEVENT
+BEGIN:VEVENT
+UID:a6badc2e846d@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261204T033000Z
+DTEND:20261204T080000Z
+SUMMARY:献血バス 辻調理師専門学校
+LOCATION:東京都小金井市貫井北町4-1-1
+DESCRIPTION:受付: 12:30‐17:00\nWeb予約 (ラブラッド): https://www
+ .kenketsu.jp/Login?startURL=%2FReservationByTypeConfirm%3FplaceMst%3Da0pIh
+ 000000PwyLIAS%26sy%3D2026%26sm%3D11%26sd%3D17%26ey%3D2026%26em%3D12%26ed%3
+ D04\n地図: https://maps.app.goo.gl/Gur3Gj5uWhEAW2ku9\n出典: https://ww
+ w.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp/Login?startURL=%2FReservationByTypeConfirm%3Fpl
+ aceMst%3Da0pIh000000PwyLIAS%26sy%3D2026%26sm%3D11%26sd%3D17%26ey%3D2026%26
+ em%3D12%26ed%3D04
+END:VEVENT
+BEGIN:VEVENT
+UID:eb9b788db43e@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261206T010000Z
+DTEND:20261206T070000Z
+SUMMARY:献血バス 小金井 宮地楽器ホール
+LOCATION:東京都小金井市本町6-14-45
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ p4fY&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/WdjWwjQvCm6egeBXA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07p4fY&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:8ef0cb8d55ea@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261226T023000Z
+DTEND:20261226T070000Z
+SUMMARY:献血バス ソコラ武蔵小金井クロス
+LOCATION:東京都小金井市本町6-2-30
+DESCRIPTION:受付: 11:30‐16:00\nWeb予約 (ラブラッド): https://www
+ .kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007276g&sy=2026
+ &sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/wBtQvfDKzS
+ 6qe2xZA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07276g&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

@@ -121,4 +121,65 @@ DESCRIPTION:受付: 9:10~13:00\nWeb予約 (ラブラッド): https://www.ke
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07or7B&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:881aa6496e6a@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261205T003000Z
+DTEND:20261205T063000Z
+SUMMARY:献血バス 光が丘公園 けやき広場
+LOCATION:東京都練馬区光が丘4-1-1
+DESCRIPTION:受付: 9:30~12:00 / 13:30~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ ru7&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl
+ /s6YQQ8onSRY76ycS7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_0
+ 3_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oru7&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:82bfbe48dcf3@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261220T003000Z
+DTEND:20261220T063000Z
+SUMMARY:献血バス 光が丘公園 売店パークス前
+LOCATION:東京都練馬区光が丘4-1-1
+DESCRIPTION:受付: 9:30~11:30 / 13:00~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ ru7&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl
+ /s6YQQ8onSRY76ycS7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_0
+ 3_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oru7&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:d1058a479731@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261226T010000Z
+DTEND:20261226T070000Z
+SUMMARY:献血バス 練馬駅北口バスロータリー
+LOCATION:東京都練馬区練馬1-3-5練馬駅北口バスロータリー
+ 内路上
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000000
+ J1G8&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/5BXosUDV63h3ZeUJA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
+ 00J1G8&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:16f7408fbb4f@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261227T010000Z
+DTEND:20261227T070000Z
+SUMMARY:献血バス 石神井公園駅中央口
+LOCATION:東京都練馬区石神井町3-23-10
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K00000F
+ vNb5&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/dBvPKV67sPMDxKYz9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 0FvNb5&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

@@ -34,4 +34,34 @@ DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07orvn&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:ebfd2db4c5a5@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261219T012000Z
+DTEND:20261219T073000Z
+SUMMARY:献血バス イオンモール東久留米
+LOCATION:東京都東久留米市南沢5-17-62
+DESCRIPTION:受付: 10:20~12:30 / 14:00‐16:30\nWeb予約 (ラブラッド
+ ): https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pAYz&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo
+ .gl/DiQc11coSEKKvq7f6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m
+ 1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pAYz&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:1eebeec8d52f@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261230T012000Z
+DTEND:20261230T073000Z
+SUMMARY:献血バス イオンモール東久留米
+LOCATION:東京都東久留米市南沢5-17-62
+DESCRIPTION:受付: 10:20~12:30 / 14:00‐16:30\nWeb予約 (ラブラッド
+ ): https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pAYz&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo
+ .gl/DiQc11coSEKKvq7f6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m
+ 1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pAYz&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

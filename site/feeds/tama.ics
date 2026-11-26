@@ -54,4 +54,50 @@ DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07p7XM&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:68b81111df07@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261201T053000Z
+DTEND:20261201T073000Z
+SUMMARY:献血バス KDDI(株)LINKFOREST
+LOCATION:東京都多摩市鶴牧3-5-3
+DESCRIPTION:受付: 14:30~16:30\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000004iywn&sy=2026&s
+ m=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/8kTx4BgBuLT8
+ ZTFb9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
+ 04iywn&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:a40b501dde20@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261219T010000Z
+DTEND:20261219T070000Z
+SUMMARY:献血バス 多摩センター駅前
+LOCATION:東京都多摩市落合1-46-1パルテノン大通り・ココリ
+ ア横
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ p7XM&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/3MocMxGEqyho3QCV9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07p7XM&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:2efbfef66fc2@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261226T010000Z
+DTEND:20261226T070000Z
+SUMMARY:献血バス 多摩センター駅前
+LOCATION:東京都多摩市落合1-46-1パルテノン大通り・ココリ
+ ア横
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ p7XM&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/3MocMxGEqyho3QCV9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07p7XM&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

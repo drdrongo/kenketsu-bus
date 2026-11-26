@@ -96,4 +96,116 @@ DESCRIPTION:受付: 9:30~11:45 / 13:30~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07oaU2&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:a54341b37704@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261201T031500Z
+DTEND:20261201T074500Z
+SUMMARY:献血バス 明治学院大学
+LOCATION:東京都港区白金台1-2-37
+DESCRIPTION:受付: 12:15~16:45\n地図: https://maps.app.goo.gl/1UTsmdKsQa
+ VnNteq8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:4a50d8ddb8ce@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261204T010000Z
+DTEND:20261204T070000Z
+SUMMARY:献血バス 警視庁赤坂警察署
+LOCATION:東京都港区赤坂4-18-19
+DESCRIPTION:受付: 10:00~11:15 / 12:45~16:00\n地図: https://maps.app.goo
+ .gl/ziRZ853eDkP4QRaWA\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m
+ 1_03_kenbus.html
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:13c606f5d389@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261214T003000Z
+DTEND:20261214T023000Z
+SUMMARY:献血バス NECネッツエスアイ株式会社 本社1階特設
+ 会場
+LOCATION:東京都港区芝浦3丁目9-14NECネッツエスアイ本社ビ
+ ル
+DESCRIPTION:受付: 9:30~11:30\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh000000PW9q&sy=2026&sm
+ =12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/5UqAYBUn73WAw
+ hxF7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0pIh0000
+ 00PW9q&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:cbd0be5e28b0@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261215T003000Z
+DTEND:20261215T063000Z
+SUMMARY:献血バス 芝大神宮駐車場
+LOCATION:東京都港区芝大門1-12-15
+DESCRIPTION:受付: 9:30~11:00 / 12:30~15:30\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ aZB&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl
+ /QZXs8gVEsrSUPFww6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_0
+ 3_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oaZB&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b4a26d1b8d@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261216T010000Z
+DTEND:20261216T070000Z
+SUMMARY:献血バス 汐留ビルディング 3階貸会議室
+LOCATION:東京都港区海岸1-2-20
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ pB8A&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/JjP8QyTMGgu3cCgq9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07pB8A&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:239f13ed5d62@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261217T023000Z
+DTEND:20261217T070000Z
+SUMMARY:献血バス 慈恵会医科大学病院1階ホール
+LOCATION:東京都港区西新橋3-19-18
+DESCRIPTION:受付: 11:30~16:00\n地図: https://maps.app.goo.gl/cQbCqUGAJS
+ oReLUo8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.ht
+ ml
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:b2ea4c275d29@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261217T003000Z
+DTEND:20261217T070000Z
+SUMMARY:献血バス 日本赤十字社 本社 別館PMOビル
+LOCATION:東京都港区芝公園1-2-1 日本赤十字社本社 別館PMO
+ ビル
+DESCRIPTION:受付: 9:30~16:00\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaaM&sy=2026&sm
+ =12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/KmfR8MRt2TKnB
+ fxX9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oaaM&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:78dfb981921c@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261218T003000Z
+DTEND:20261218T070000Z
+SUMMARY:献血バス 日本赤十字社 本社 別館PMOビル
+LOCATION:東京都港区芝公園1-2-1 日本赤十字社本社 別館PMO
+ ビル
+DESCRIPTION:受付: 9:30~16:00\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oaaM&sy=2026&sm
+ =12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/KmfR8MRt2TKnB
+ fxX9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oaaM&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

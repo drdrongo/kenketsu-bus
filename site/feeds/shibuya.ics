@@ -19,4 +19,18 @@ DESCRIPTION:受付: 12:00~16:30\n地図: https://maps.app.goo.gl/SiQKy8pbHy
  ml
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
+BEGIN:VEVENT
+UID:3b7cd1a0757c@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261212T023000Z
+DTEND:20261212T070000Z
+SUMMARY:献血バス フレンテ笹塚メルクマール広場
+LOCATION:東京都渋谷区笹塚1-47-1
+DESCRIPTION:受付: 11:30~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x000006wuLb&sy=2026&s
+ m=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/v1CCpDcgbyTT
+ ASVu7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p2x0000
+ 06wuLb&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

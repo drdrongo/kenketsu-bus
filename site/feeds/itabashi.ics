@@ -34,4 +34,49 @@ DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\n地図: https://maps.app.goo
  1_03_kenbus.html
 URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
 END:VEVENT
+BEGIN:VEVENT
+UID:b37a7e86f4a2@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261217T010000Z
+DTEND:20261217T070000Z
+SUMMARY:献血バス 板橋区役所 正面玄関横
+LOCATION:東京都板橋区板橋2-66-1
+DESCRIPTION:受付: 10:00~11:30 / 13:00~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ourq&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/8g6Q3BDtLPoaaB538\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ourq&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:765a669e8cfa@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261226T010000Z
+DTEND:20261226T070000Z
+SUMMARY:献血バス 高島平団地 東武ストア前
+LOCATION:東京都板橋区高島平2-33
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ourp&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/GdqHjMo8sAvHgwoz6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ourp&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:749c1c89d017@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261227T010000Z
+DTEND:20261227T070000Z
+SUMMARY:献血バス 高島平団地 東武ストア前
+LOCATION:東京都板橋区高島平2-33
+DESCRIPTION:受付: 10:00~12:00 / 13:30~16:00\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ourp&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/GdqHjMo8sAvHgwoz6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ourp&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

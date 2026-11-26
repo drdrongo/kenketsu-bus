@@ -7,4 +7,19 @@ X-WR-CALNAME:献血バス 国立市
 X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:49f99ef11d9e@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261216T003000Z
+DTEND:20261216T064500Z
+SUMMARY:献血バス 国立市役所
+LOCATION:東京都国立市富士見台2-47-1
+DESCRIPTION:受付: 9:30~11:45 / 13:00~15:45\nWeb予約 (ラブラッド): 
+ https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007o
+ usa&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl
+ /iSiU53z5tV2wQZq68\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_0
+ 3_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ousa&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

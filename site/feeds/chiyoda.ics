@@ -76,4 +76,30 @@ DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07oabl&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:8621f2bd0f2a@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261207T003000Z
+DTEND:20261207T063000Z
+SUMMARY:献血バス 明治安田損害保険株式会社
+LOCATION:東京都千代田区神田司町2-11-1
+DESCRIPTION:受付: 9:30~11:00 / 12:30~15:30\n地図: https://maps.app.goo.
+ gl/xEGS2W3eCAaAYJWs6\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1
+ _03_kenbus.html
+URL:https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:934eb7938a15@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261208T010000Z
+DTEND:20261208T070000Z
+SUMMARY:献血バス 霞ケ関ビル1階プラザホール
+LOCATION:東京都千代田区霞が関3-2-5
+DESCRIPTION:受付: 10:00~16:00\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007onPN&sy=2026&s
+ m=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/jLzAKvoUpALZ
+ YReh8\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07onPN&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

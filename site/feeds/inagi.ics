@@ -7,4 +7,19 @@ X-WR-CALNAME:献血バス 稲城市
 X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:c7d93c557378@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261207T010000Z
+DTEND:20261207T064500Z
+SUMMARY:献血バス 稲城市役所 中央文化センター前
+LOCATION:東京都稲城市東長沼2111
+DESCRIPTION:受付: 10:00~11:30 / 13:00~15:45\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ ou8y&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/rCo7vE2QAo888zAT9\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07ou8y&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR

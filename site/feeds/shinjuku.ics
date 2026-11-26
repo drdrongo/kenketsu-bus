@@ -22,4 +22,61 @@ DESCRIPTION:受付: 10:00~11:00 / 12:30~16:00\nWeb予約 (ラブラッド):
 URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
  07oabQ&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31
 END:VEVENT
+BEGIN:VEVENT
+UID:6d3d603bf641@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261205T013000Z
+DTEND:20261205T073000Z
+SUMMARY:献血バス JR新宿駅南口(甲州街道側)
+LOCATION:東京都新宿区新宿3-29先
+DESCRIPTION:受付: 10:30~16:30\nWeb予約 (ラブラッド): https://www.k
+ enketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007olZw&sy=2026&s
+ m=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/mJspoKGk57yw
+ n6fd7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07olZw&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:a5ce66d9a567@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261216T010000Z
+DTEND:20261216T073000Z
+SUMMARY:献血バス 慶応義塾大学病院 総合医科学研究棟前
+LOCATION:東京都新宿区信濃町35
+DESCRIPTION:受付: 10:00~11:00 / 12:30~16:30\nWeb予約 (ラブラッド):
+  https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007
+ oaq9&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.g
+ l/f5b1cSWfHqqrqbH96\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_
+ 03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oaq9&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:cfc5727aa6ce@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261223T003000Z
+DTEND:20261223T073000Z
+SUMMARY:献血バス 東京都赤十字血液センター 2階
+LOCATION:東京都新宿区若松町12-2
+DESCRIPTION:受付: 9:30~16:30\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oopT&sy=2026&sm
+ =12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/aFTJh83tNK37q
+ VsR7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oopT&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
+BEGIN:VEVENT
+UID:db9340ee0eb9@kenketsu-bus
+DTSTAMP:20261126T185849Z
+DTSTART:20261224T003000Z
+DTEND:20261224T073000Z
+SUMMARY:献血バス 東京都赤十字血液センター 2階
+LOCATION:東京都新宿区若松町12-2
+DESCRIPTION:受付: 9:30~16:30\nWeb予約 (ラブラッド): https://www.ke
+ nketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oopT&sy=2026&sm
+ =12&sd=1&ey=2027&em=1&ed=31\n地図: https://maps.app.goo.gl/aFTJh83tNK37q
+ VsR7\n出典: https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html
+URL:https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K0000
+ 07oopT&sy=2026&sm=12&sd=1&ey=2027&em=1&ed=31
+END:VEVENT
 END:VCALENDAR
