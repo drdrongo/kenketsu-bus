@@ -1,7 +1,7 @@
 {
  "source": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
  "first_run": "2026-10-09T14:27:35+09:00",
- "updated_at": "2026-11-27T03:58:49+09:00",
+ "updated_at": "2026-11-28T03:56:36+09:00",
  "wards": [
   {
    "name": "千代田区",
@@ -4176,6 +4176,27 @@
     ]
    ],
    "first_seen": "2026-10-23T23:13:43+09:00"
+  },
+  {
+   "id": "b31a2ce91b3a",
+   "date": "2026-11-28",
+   "city": "千代田区",
+   "slug": "chiyoda",
+   "venue": "神田駅西口ニシザワ薬局前",
+   "address": "東京都千代田区内神田3-14-7先",
+   "map": "https://maps.app.goo.gl/6ui8JVmBbWihiyVCA",
+   "reserve": "https://www.kenketsu.jp:443/ReservationByTypeConfirm?placeMst=a0p0K000007oahP&sy=2026&sm=11&sd=1&ey=2026&em=12&ed=31",
+   "notes": [],
+   "hours": [
+    "11:30-16:00"
+   ],
+   "sessions": [
+    [
+     "11:30",
+     "16:00"
+    ]
+   ],
+   "first_seen": "2026-11-28T03:56:36+09:00"
   },
   {
    "id": "8dffa7640644",
